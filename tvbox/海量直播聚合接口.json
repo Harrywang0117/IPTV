@@ -1129,6 +1129,12 @@
       "source": "老张"
     },
     {
+      "name": "📡央视频",
+      "url": "https://mpimg.cn/down.php/caac7a6dae8f835257a11e7a11291bf2.txt",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.8066.0 Safari/537.36",
+      "source": "小米"
+    },
+    {
       "name": "IPv4",
       "url": "http://101.200.122.188/66",
       "ua": "okhttp/3.12.13",
