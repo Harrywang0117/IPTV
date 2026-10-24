@@ -1,23 +1,23 @@
 # 直播订阅
 
-由 `python/直播聚合订阅.py` 每天自动生成，最近更新：2026-10-24 17:37（北京时间）。
+由 `python/直播聚合订阅.py` 每天自动生成，最近更新：2026-10-25 02:48（北京时间）。
 
 ## 订阅地址
 
 | 订阅 | 频道 | 线路 | 测通率 | 地址 |
 |---|---:|---:|---:|---|
-| 体育赛事·咪咕（今天/明天/昨天） | 314 | 318 | 31.5% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/sports-events.m3u |
-| 体育频道 | 105 | 287 | 24.1% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/sports.m3u |
-| 央视卫视 | 164 | 1065 | 59.2% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/cctv.m3u |
-| 港澳台 | 563 | 1672 | 44.5% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/hmt.m3u |
-| 地方台·华北东北西北 | 297 | 1002 | 34.9% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/local-north.m3u |
-| 地方台·华东 | 390 | 1264 | 36.5% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/local-east.m3u |
-| 地方台·中南西南 | 495 | 1785 | 23.5% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/local-south.m3u |
-| 少儿（频道 + 动画轮播） | 130 | 454 | 40.6% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/kids.m3u |
-| 专题频道 | 667 | 1887 | 44.9% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/theme.m3u |
-| 影视轮播（电影/电视剧/纪录片） | 665 | 2114 | 40.0% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/vod-movie.m3u |
-| 综艺轮播（综艺/相声小品/MV/其他） | 239 | 477 | 47.4% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/vod-show.m3u |
-| 全部频道（合并订阅） | 4029 | 12325 | 39.1% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/all.m3u |
+| 体育赛事·咪咕（今天/明天/昨天） | 358 | 366 | 36.8% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/sports-events.m3u |
+| 体育频道 | 105 | 289 | 24.4% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/sports.m3u |
+| 央视卫视 | 170 | 1063 | 62.8% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/cctv.m3u |
+| 港澳台 | 532 | 1563 | 45.0% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/hmt.m3u |
+| 地方台·华北东北西北 | 301 | 1005 | 35.4% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/local-north.m3u |
+| 地方台·华东 | 388 | 1260 | 36.4% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/local-east.m3u |
+| 地方台·中南西南 | 494 | 1766 | 23.6% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/local-south.m3u |
+| 少儿（频道 + 动画轮播） | 129 | 450 | 42.1% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/kids.m3u |
+| 专题频道 | 663 | 1876 | 46.2% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/theme.m3u |
+| 影视轮播（电影/电视剧/纪录片） | 662 | 2043 | 40.2% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/vod-movie.m3u |
+| 综艺轮播（综艺/相声小品/MV/其他） | 246 | 518 | 44.8% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/vod-show.m3u |
+| 全部频道（合并订阅） | 4048 | 12199 | 40.0% | https://raw.githubusercontent.com/Harrywang0117/IPTV/main/iptv/all.m3u |
 
 「测通率」= 本轮实际测通的线路（ok）/ 该文件探测前的线路总数；测不了（超时、403、5xx）的保留，明确失效（404/410/服务器报错/登录提示/HTML 错误页）的直接删掉。
 
