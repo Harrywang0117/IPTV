@@ -13,11 +13,7 @@
       "key": "py_shortfilm",
       "name": "短剧[py]",
       "type": 3,
-      "api": "https://clun.top/py/shortfilm.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "api": "https://clun.top/py/shortfilm.py"
     },
     {
       "key": "py_apples",

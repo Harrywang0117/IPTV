@@ -101,30 +101,6 @@
       "index": 1
     },
     {
-      "key": "SZ",
-      "name": "山楂影视",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/e02034214f0705bfe1e5f4d936f0925f.py"
-    },
-    {
-      "key": "西瓜",
-      "name": "西瓜",
-      "type": 3,
-      "api": "https://meow.668yun.top/api/s/Kp2S08TE7dpIwYVKnJWyFPfdioM6FVTw/西瓜官方（有部分 4k）.py"
-    },
-    {
-      "key": "懂骗",
-      "name": "懂骗",
-      "type": 3,
-      "api": "https://meow.668yun.top/api/s/ZYpfL0zwfl8JPrvmGZiFxSbVo2T83fWN/懂片.py"
-    },
-    {
-      "key": "移动",
-      "name": "移动",
-      "type": 3,
-      "api": "https://meow.668yun.top/api/s/OWI0MAGzodWnJqBlFEC9C1nJ2g1MmOr9/移动4k.py"
-    },
-    {
       "key": "影",
       "name": "影",
       "type": 3,
@@ -417,6 +393,15 @@
       "name": "🥇金牌｜影视",
       "type": 3,
       "api": "https://fastlink.cokey.xyz/f/AGJeHm/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": "移动",
+      "name": "九灵｜免扫4k｜移动",
+      "type": 3,
+      "jar": "https://fastlink.cokey.xyz/f/1LmEH5/yunY.jar",
+      "api": "csp_YDjisu",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "哔幕",
