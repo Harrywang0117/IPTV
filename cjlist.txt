@@ -250,6 +250,10 @@ U酷资源|U酷资源|type: 0|api: https://api.ukuapi88.com/api.php/provide/vod/
 暴风资源|暴风资源|type: 0|api: http://by.bfzyapi.com/api.php/provide/vod/at/xml
 IKUN资源|IKUN资源|type: 1|api: https://www.ikunzy.org/api.php/provide/vod/at/json
 无上资源|无上┃采集|type: 1|api: https://mfgc.iwsyy.xyz/api.php/provide/vod/
+黄色仓库|AV|🦋 黄色仓库(旧)｜🔞|type: 1|api: https://hsckzy.vip/api.php/provide/vod/
+桃花资源|AV|🦋 桃花资源｜🔞|type: 1|api: https://thzy1.me/api.php/provide/vod/
+乐播资源|AV|🦋 乐播资源｜🔞|type: 1|api: https://lbapi9.com/api.php/provide/vod/
+lsb资源|AV|🦋 lsb资源｜🔞|type: 1|api: https://apilsbzy1.com/api.php/provide/vod/
 lezi2|🍀乐子HTTP|type: 1|api: http://cj.lziapi.com/api.php/provide/vod
 率率|影视 | 率率[直连]|type: 1|api: https://suoniapi.com/api.php/provide/vod/?ac=list
 暴風|影视 | 暴風[直连]|type: 1|api: https://bfzyapi.com/api.php/provide/vod/?ac=list
