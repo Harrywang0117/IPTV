@@ -103,6 +103,10 @@ https://ppv.passwdwork.us.ci/?proxy=1&id=nba/2026-10-25/det-phi
 https://ppv.passwdwork.us.ci/?proxy=1&id=nba/2026-10-25/mem-sac
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eb39649709502149ded38e5375e3ac2b-thumbnail.jpg" group-title="Combat Sports",UFC 333: Volkanovski vs Evloev (22:00 ~ 06:00)
 https://ppv.passwdwork.us.ci/?proxy=1&id=ufc-333-volkanovski-vs-evloev-30929
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d9c7f5cefab6363d6e0848057eac7b29-thumbnail.jpg" group-title="Combat Sports",Dalton Smith vs. Alberto Puello (02:00 ~ 08:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=dalton-smith-vs-alberto-puello-31004
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f3eef775e58f0983a7b9fb470becc6c7-thumbnail.jpg" group-title="Combat Sports",Emanuel Navarrete vs. O'Shaquie Foster (08:00 ~ 14:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=emanuel-navarrete-vs-oshaquie-foster-31005
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",Willow
 https://ppv.passwdwork.us.ci/?proxy=1&id=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",Fox Cricket
@@ -141,6 +145,14 @@ https://ppv.passwdwork.us.ci/?proxy=1&id=bundesliga/2026-10-24/scp-hsv
 https://ppv.passwdwork.us.ci/?proxy=1&id=pl/2026-10-24/ars-eve
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/28fef4e91d7ac29e7d1fa4225bac6e5b-thumbnail.jpg" group-title="Football",Coventry City vs. Fulham (22:00 ~ 00:30)
 https://ppv.passwdwork.us.ci/?proxy=1&id=pl/2026-10-24/cov-ful
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/793284c6051b7f255568f8165ee1bf88-thumbnail.jpg" group-title="Football",Preston North End vs. West Bromwich Albion (22:00 ~ 00:30)
+https://ppv.passwdwork.us.ci/?proxy=1&id=efl-championship/2026-10-24/pne-wba
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1e1c11478d3d26e2aac67c228fed74eb-thumbnail.jpg" group-title="Football",Wolverhampton Wanderers vs. Watford (22:00 ~ 00:30)
+https://ppv.passwdwork.us.ci/?proxy=1&id=efl-championship/2026-10-24/wol-wat
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e6eb668a3626a13fbc7a20cb9530a176-thumbnail.jpg" group-title="Football",Stoke City vs. Bristol City (22:00 ~ 00:30)
+https://ppv.passwdwork.us.ci/?proxy=1&id=efl-championship/2026-10-24/stk-brc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4e63bc161b9d165bbf9cb01181f1c4e-thumbnail.jpg" group-title="Football",Scunthorpe United vs. Woking (22:00 ~ 00:30)
+https://ppv.passwdwork.us.ci/?proxy=1&id=national-league/2026-10-24/scu-wok
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d63f215570bcaaf0aa775a8ef35e7dec-thumbnail.jpg" group-title="Football",Racing Santander vs. Espanyol (22:15 ~ 00:45)
 https://ppv.passwdwork.us.ci/?proxy=1&id=laliga/2026-10-24/rac-esp
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/03af319950cbeee405394f05ba66198a-thumbnail.jpg" group-title="Football",FC Utrecht vs. PEC Zwolle (22:30 ~ 01:00)
@@ -159,6 +171,8 @@ https://ppv.passwdwork.us.ci/?proxy=1&id=laliga/2026-10-24/val-vil
 https://ppv.passwdwork.us.ci/?proxy=1&id=bundesliga/2026-10-24/dor-sge
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/839ff56d32ecaa2fda30e3b14b650b77-thumbnail.jpg" group-title="Football",Chelsea vs. Tottenham Hotspur (00:30 ~ 03:00)
 https://ppv.passwdwork.us.ci/?proxy=1&id=pl/2026-10-24/che-tot
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8ce67cc8fcb0fed16558c34c530d0630-thumbnail.jpg" group-title="Football",Kidderminster Harriers vs. Worthing (00:30 ~ 03:00)
+https://ppv.passwdwork.us.ci/?proxy=1&id=national-league/2026-10-24/kid-wor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/74e5db60d9480281cb9790a691c3d751-thumbnail.jpg" group-title="Football",Willem II vs. SC Cambuur (00:45 ~ 03:15)
 https://ppv.passwdwork.us.ci/?proxy=1&id=eredivisie/2026-10-24/wil-cam
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d2b272fb94b672fa09ad7d09f05928e6-thumbnail.jpg" group-title="Football",CF Montréal vs. Nashville SC (01:30 ~ 04:30)
