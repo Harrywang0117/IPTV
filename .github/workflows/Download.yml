@@ -1,0 +1,41 @@
+name: Unzip 下载解压到根目录
+
+on:
+  workflow_dispatch: # 手动在 Actions 页面触发
+
+permissions:
+  contents: write # 允许 workflow 往仓库写文件
+
+jobs:
+  unzip-and-push:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Download archive
+        run: |
+          curl -L -A "Mozilla/5.0 (compatible; github-actions)" \
+            "https://mpimg.cn/down.php/7b5b184330c4fd90a44e26be959abfd8.zip" \
+            -o archive.zip
+
+      - name: Inspect & unzip to repo root
+        run: |
+          file archive.zip || true
+          # -o 覆盖已有文件；解压到当前目录（即仓库根目录）
+          unzip -o archive.zip -d .
+          rm -f archive.zip
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          if git diff --cached --quiet; then
+            echo "No file changes, skip commit."
+          else
+            git commit -m "chore: extract remote zip into repo root"
+            git push origin HEAD:${{ github.ref_name }}
+          fi

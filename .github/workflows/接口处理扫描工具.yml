@@ -1,0 +1,90 @@
+name: 接口扫描处理工具
+
+# 定时链路：两日一更备分接口 → 每日解析在线本地包 → 每日聚合TVBox直播源 → 接口扫描处理工具
+# 只有第一个是定时触发，后面每个都在上一个跑完后才启动（不论成败），保证顺序
+on:
+  # 上一个工作流跑完（不论成败）后自动开始
+  workflow_run:
+    workflows: ["每日聚合TVBox直播源"]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:  # 允许手动触发
+  push:
+    paths:
+      - 'tvbox/**'
+      - 'python/**'
+      - '.github/workflows/接口处理扫描工具.yml'
+
+# 与其它写仓库的工作流排队执行，避免 push 冲突
+concurrency:
+  group: tvbox-repo-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+jobs:
+  scan:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 1
+
+      - name: 设置 Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: 确保目录结构存在
+        run: |
+          mkdir -p tvbox/live
+          mkdir -p python
+          ls -la
+          echo "--- tvbox/ ---"
+          ls -la tvbox/ || true
+
+      - name: 运行接口扫描处理工具
+        run: |
+          cd python
+          # 直播源下载由「每日聚合TVBox直播源」负责，这里只生成聚合JSON和采集/py站
+          python "接口扫描处理工具.py" --force --skip-lives
+        env:
+          PYTHONIOENCODING: utf-8
+          PYTHONUNBUFFERED: "1"
+
+      - name: 汇总输出产物
+        run: |
+          echo "=== 根目录 txt ==="
+          ls -la *.txt 2>/dev/null || echo "无 txt 文件"
+          echo ""
+          echo "=== tvbox/ 聚合接口 ==="
+          ls -la tvbox/*.json 2>/dev/null || echo "无 json 文件"
+          echo ""
+          echo "=== tvbox/live/ 播放列表 ==="
+          ls -la tvbox/live/ 2>/dev/null | head -20 || echo "无播放列表"
+
+      - name: 提交变更
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          # 仅在有变更时提交
+          if git diff --cached --quiet; then
+            echo "无变更，跳过提交"
+          else
+            COUNT=$(git diff --cached --numstat | wc -l)
+            echo "检测到 ${COUNT} 个文件变更，提交中..."
+            git commit -m "chore: 自动更新聚合接口 [$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')]"
+            git pull --rebase --autostash
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
