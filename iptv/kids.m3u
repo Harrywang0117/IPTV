@@ -1,970 +1,447 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz,https://epg.aptv.app/xml,https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" tvg-id="优漫卡通" group-title="少儿频道",优漫卡通
-http://103.236.77.86:29824/626064703
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" tvg-id="优漫卡通" group-title="少儿频道",优漫卡通
-http://120.198.84.146:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" tvg-id="优漫卡通" group-title="少儿频道",优漫卡通
-http://38.75.136.137:98/gslb/dsdqpub/ymkt.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" tvg-id="优漫卡通" group-title="少儿频道",优漫卡通
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/287.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" tvg-id="优漫卡通" group-title="少儿频道",优漫卡通
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ymkt
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" tvg-id="优漫卡通" group-title="少儿频道",优漫卡通
-http://t.061899.xyz/tl/tl.php?id=ymkt
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" tvg-id="优漫卡通" group-title="少儿频道",优漫卡通
-http://120.237.24.142:9901/tsfile/live/1076_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" tvg-id="优漫卡通" group-title="少儿频道",优漫卡通
-http://14.157.24.38:2345/rtp/239.77.0.222:5146
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" tvg-id="优漫卡通" group-title="少儿频道",优漫卡通
-http://14.157.24.38:2345/rtp/239.77.1.79:5146
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" tvg-id="优漫卡通" group-title="少儿频道",优漫卡通
-https://www.freetv.top/migu/626064703.m3u8?migutoken=deac6c5275081b54ad412a195e499b7c0cb8f04446b6c80aaa9d3eb1063d620261c68202d59aea05060007b58a62d5d208f16379d861d6f1627c10c9dd894f0bf7e3ca97b04696255e193e871c
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" tvg-id="金鹰卡通" group-title="少儿频道",金鹰卡通
-http://124.228.160.112:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" tvg-id="金鹰卡通" group-title="少儿频道",金鹰卡通
-http://183.62.8.58:50085/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" tvg-id="金鹰卡通" group-title="少儿频道",金鹰卡通
-http://218.206.193.218:8888/hls/37/index.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" tvg-id="金鹰卡通" group-title="少儿频道",金鹰卡通
-http://183.237.95.108:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" tvg-id="金鹰卡通" group-title="少儿频道",金鹰卡通
-http://120.238.94.82:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" tvg-id="金鹰卡通" group-title="少儿频道",金鹰卡通
-http://120.198.95.220:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" tvg-id="金鹰卡通" group-title="少儿频道",金鹰卡通
-http://120.198.84.146:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" tvg-id="金鹰卡通" group-title="少儿频道",金鹰卡通
-http://116.128.243.121:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" tvg-id="嘉佳卡通" group-title="少儿频道",嘉佳卡通
-http://103.236.77.86:29824/614952364
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" tvg-id="嘉佳卡通" group-title="少儿频道",嘉佳卡通
-http://120.198.95.220:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" tvg-id="嘉佳卡通" group-title="少儿频道",嘉佳卡通
-http://183.237.95.108:9901/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" tvg-id="嘉佳卡通" group-title="少儿频道",嘉佳卡通
-http://120.198.95.220:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" tvg-id="嘉佳卡通" group-title="少儿频道",嘉佳卡通
-http://120.198.84.146:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" tvg-id="嘉佳卡通" group-title="少儿频道",嘉佳卡通
-http://120.238.94.82:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" tvg-id="嘉佳卡通" group-title="少儿频道",嘉佳卡通
-http://120.196.235.42:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" tvg-id="嘉佳卡通" group-title="少儿频道",嘉佳卡通
-http://38.75.136.137:98/gslb/dsdqpub/gdjjkt.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2206/172/388/202304101530_2206172388_H32_1080.webp" tvg-id="嘉佳卡通" group-title="少儿频道",嘉佳卡通
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdjjkt
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江少儿.png" tvg-id="浙江少儿" group-title="少儿频道",浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江少儿.png" tvg-id="浙江少儿" group-title="少儿频道",浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江少儿.png" tvg-id="浙江少儿" group-title="少儿频道",浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江少儿.png" tvg-id="浙江少儿" group-title="少儿频道",浙江少儿
-http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江少儿.png" tvg-id="浙江少儿" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="少儿频道",浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
+http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江少儿.png" tvg-id="浙江少儿" group-title="少儿频道",浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江少儿.png" tvg-id="浙江少儿" group-title="少儿频道",浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江少儿.png" tvg-id="浙江少儿" group-title="少儿频道",浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 https://stream1.freetv.fun/zhe-jiang-shao-er-4.ctv
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江少儿.png" tvg-id="浙江少儿" group-title="少儿频道",浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 https://stream1.freetv.fun/zhe-jiang-shao-er-6.ctv
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江少儿.png" tvg-id="浙江少儿" group-title="少儿频道",浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 https://stream1.freetv.fun/zhe-jiang-shao-er-9.ctv
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" tvg-id="卡酷少儿" group-title="少儿频道",卡酷少儿
-http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" tvg-id="卡酷少儿" group-title="少儿频道",卡酷少儿
-http://120.198.84.146:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" tvg-id="卡酷少儿" group-title="少儿频道",卡酷少儿
-http://183.237.95.108:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" tvg-id="卡酷少儿" group-title="少儿频道",卡酷少儿
-http://192.151.150.154/live/btvkk.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" tvg-id="卡酷少儿" group-title="少儿频道",卡酷少儿
-http://198.204.228.26/live/btvkk.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" tvg-id="卡酷少儿" group-title="少儿频道",卡酷少儿
-http://107.150.60.122/live/btvkk.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" tvg-id="卡酷少儿" group-title="少儿频道",卡酷少儿
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btvkk
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" tvg-id="卡酷少儿" group-title="少儿频道",卡酷少儿
-http://14.157.24.38:2345/rtp/239.77.0.79:5146
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" tvg-id="卡酷少儿" group-title="少儿频道",卡酷少儿
-http://14.157.24.38:2345/rtp/239.77.1.50:5146
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" tvg-id="卡酷少儿" group-title="少儿频道",卡酷少儿
-https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" tvg-id="哈哈炫动" group-title="少儿频道",哈哈炫动
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" group-title="少儿频道",哈哈炫动
 http://192.151.150.154/live/xdkthd.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" tvg-id="哈哈炫动" group-title="少儿频道",哈哈炫动
-http://38.75.136.137:98/gslb/dsdqpub/xdkthd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" tvg-id="哈哈炫动" group-title="少儿频道",哈哈炫动
-#EXTVLCOPT:http-user-agent=okhttp
-https://live.264788.xyz/channel/hahaxuandong?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" tvg-id="哈哈炫动" group-title="少儿频道",哈哈炫动
-#EXTVLCOPT:http-user-agent=okhttp
-https://live.264788.xyz/channel/hahaxuandong?streamid=0dcc11256eb6013f27057b21e14e5cc2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" tvg-id="哈哈炫动" group-title="少儿频道",哈哈炫动
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xdkthd
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" tvg-id="哈哈炫动" group-title="少儿频道",哈哈炫动
-#EXTVLCOPT:http-user-agent=okhttp
-https://live.264788.xyz/channel/hahaxuandong?streamid=9e1a0076f34fffba73e294c40d74a445&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" tvg-id="哈哈炫动" group-title="少儿频道",哈哈炫动
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" group-title="少儿频道",哈哈炫动
 https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" tvg-id="哈哈炫动" group-title="少儿频道",哈哈炫动
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" group-title="少儿频道",哈哈炫动
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" tvg-id="哈哈炫动" group-title="少儿频道",哈哈炫动
-http://204315.xyz:20204/rtp/233.18.204.7:5140$LR•IPV4•3『线路1』
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" tvg-id="哈哈炫动" group-title="少儿频道",哈哈炫动
-http://204315.xyz:20204/rtp/233.18.204.54:5140$LR•IPV4•3『线路2』
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" tvg-id="动漫秀场" group-title="少儿频道",动漫秀场
-http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" tvg-id="动漫秀场" group-title="少儿频道",动漫秀场
-http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" tvg-id="动漫秀场" group-title="少儿频道",动漫秀场
-http://dassby.qqff.top:99/live/动漫秀场/index.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" tvg-id="动漫秀场" group-title="少儿频道",动漫秀场
-https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" tvg-id="动漫秀场" group-title="少儿频道",动漫秀场
-http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" tvg-id="动漫秀场" group-title="少儿频道",动漫秀场
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" group-title="少儿频道",哈哈炫动
+https://stream1.freetv.fun/ha-ha-xuan-dong-29.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" group-title="少儿频道",哈哈炫动
+https://stream1.freetv.fun/ha-ha-xuan-dong-8.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" group-title="少儿频道",哈哈炫动
 #EXTVLCOPT:http-user-agent=okhttp/3.15
-http://139.196.214.238/rtp/239.45.3.134:5140
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" tvg-id="动漫秀场" group-title="少儿频道",动漫秀场
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" group-title="少儿频道",哈哈炫动
+http://111.29.9.33:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" group-title="少儿频道",哈哈炫动
+http://204315.xyz:20204/rtp/233.18.204.7:5140
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/哈哈炫动.png" group-title="少儿频道",哈哈炫动
+http://204315.xyz:20204/rtp/233.18.204.54:5140
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
+http://120.198.84.146:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
+http://113.95.135.89:8188/rtp/239.77.0.222:5146
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
+http://103.236.77.86:29824/626064703
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
+http://113.95.135.178:8188/rtp/239.77.0.222:5146
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
+http://183.30.201.17:10002/rtp/239.77.0.222:5146
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
+http://14.157.24.38:2345/rtp/239.77.0.222:5146
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
+http://t.061899.xyz/tl/tl.php?id=ymkt
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="优漫卡通" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="少儿频道",优漫卡通
+https://www.freetv.top/migu/626064703.m3u8?migutoken=deac6c5275081b54ad412a195e499b7c0cb8f04446b6c80aaa9d3eb1063d620261c68202d59aea05060007b58a62d5d208f16379d861d6f1627c10c9dd894f0bf7e3ca97b04696255e193e871c
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="少儿频道",金鹰卡通
+http://183.62.8.58:50085/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="少儿频道",金鹰卡通
+http://183.57.249.180:8183/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="少儿频道",金鹰卡通
+http://124.228.160.112:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="少儿频道",金鹰卡通
+http://120.198.95.220:9901/tsfile/live/1033_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="少儿频道",金鹰卡通
+http://120.198.95.220:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="少儿频道",金鹰卡通
+http://120.198.84.146:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="少儿频道",金鹰卡通
+http://116.128.243.121:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="少儿频道",金鹰卡通
+http://120.238.94.82:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="少儿频道",金鹰卡通
+https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="少儿频道",动漫秀场
+http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="少儿频道",动漫秀场
+http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="少儿频道",动漫秀场
+https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="少儿频道",动漫秀场
+http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
+#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="少儿频道",动漫秀场
 http://61.133.118.228:5001/douyu/9548279
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" tvg-id="动漫秀场" group-title="少儿频道",动漫秀场
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/1529.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="少儿频道",动漫秀场
+http://dassby.qqff.top:99/live/动漫秀场/index.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="少儿频道",动漫秀场
+https://stream1.freetv.fun/dong-man-xiu-chang-11.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="少儿频道",动漫秀场
+https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-11.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="少儿频道",动漫秀场
+https://stream1.freetv.fun/dong-man-xiu-chang-9.ctv
+#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="少儿频道",动漫秀场
+http://204315.xyz:20204/rtp/233.18.204.46:5140
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="少儿频道",嘉佳卡通
+http://120.238.94.82:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="少儿频道",嘉佳卡通
+http://120.196.235.42:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="少儿频道",嘉佳卡通
+http://120.198.84.146:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="少儿频道",嘉佳卡通
+http://120.198.95.220:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="少儿频道",嘉佳卡通
+http://120.198.95.220:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="少儿频道",嘉佳卡通
+http://183.237.95.108:9901/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="少儿频道",嘉佳卡通
+http://103.236.77.86:29824/614952364
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="少儿频道",嘉佳卡通
+http://14.157.24.38:2345/rtp/239.77.0.179:5146
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A.png" group-title="少儿频道",嘉佳卡通
+http://183.30.201.17:10002/rtp/239.77.0.179:5146
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" group-title="少儿频道",卡酷少儿
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btvkk
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" group-title="少儿频道",卡酷少儿
+http://183.237.95.108:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" group-title="少儿频道",卡酷少儿
+http://120.198.84.146:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" group-title="少儿频道",卡酷少儿
+http://113.95.135.178:8188/rtp/239.77.0.79:5146
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/卡酷少儿.png" group-title="少儿频道",卡酷少儿
+https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江少儿.png" group-title="少儿频道",黑龙江少儿
+#EXTVLCOPT:http-user-agent=okhttp/3.15
 https://ls.qingting.fm/live/4972/64k.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江少儿.png" group-title="少儿频道",黑龙江少儿
-#EXTVLCOPT:http-user-agent=okhttp
-http://112.99.195.122:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江少儿.png" group-title="少儿频道",黑龙江少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江少儿.png" group-title="少儿频道",黑龙江少儿
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226304
-#EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江少儿.png" group-title="少儿频道",黑龙江少儿
-http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+http://112.99.193.34:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江少儿.png" group-title="少儿频道",黑龙江少儿
 https://stream1.freetv.fun/hei-long-jiang-shao-er-8.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江少儿.png" group-title="少儿频道",黑龙江少儿
 https://stream1.freetv.fun/hei-long-jiang-shao-er-2.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江少儿.png" group-title="少儿频道",黑龙江少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://1.62.83.171:8886/rtp/229.58.190.124:5000
+https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+#EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江少儿.png" group-title="少儿频道",黑龙江少儿
+https://111.43.174.247:4430/live/hljse_hd.m3u8
+#EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江少儿.png" group-title="少儿频道",黑龙江少儿
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江少儿.png" group-title="少儿频道",黑龙江少儿
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226304
+#EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黑龙江少儿.png" group-title="少儿频道",黑龙江少儿
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="少儿频道",新动漫
 http://120.198.84.146:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="少儿频道",新动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://live.264788.xyz/channel/xindongman?streamid=85b0ac7f41afc70514c88a2805ac0dc3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://migu.188766.xyz/?migutoken=953cca31b8499ca7dd1dd66c04b00377&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 #EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="少儿频道",新动漫
 https://tv.iill.top/migu/xdm&token=2276b9830bd9e6d7f4858f72fe6095ad7d4eeb9d25164399bb076f31d3ce364b
 #EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="少儿频道",新动漫
+https://migu.188766.xyz/?migutoken=fa7fab5af3b2b0fca5c12c94accfd524&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
+#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="少儿频道",新动漫
+https://migu.188766.xyz/?migutoken=b6723923245d1a7b8f0a16fa0e1850e7&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
+#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="少儿频道",新动漫
 https://tv.iill.top/migu/xdm&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
-#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="少儿频道",新动漫
-http://mg.cttv.vip/961930269
-#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="少儿频道",新动漫
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/1357.m3u8
-#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="少儿频道",新动漫
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/1556.m3u8
-#EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="少儿频道",新动漫
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/1671.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" tvg-id="睛彩青少" group-title="少儿频道",睛彩青少
-http://113.95.135.89:8188/rtp/239.77.1.22:5146
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" tvg-id="睛彩青少" group-title="少儿频道",睛彩青少
-https://migu.yang-1989.xyz/migu/e2r85b.m3u8$LR•IPV4
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" tvg-id="睛彩青少" group-title="少儿频道",睛彩青少
-http://192.187.124.34:81/live/jcqs.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" tvg-id="睛彩青少" group-title="少儿频道",睛彩青少
-http://45.192.97.170:8880/play/275.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" tvg-id="睛彩青少" group-title="少儿频道",睛彩青少
-http://183.30.201.17:10002/rtp/239.77.1.22:5146
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" tvg-id="睛彩青少" group-title="少儿频道",睛彩青少
-http://113.95.135.178:8188/rtp/239.77.1.22:5146
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" tvg-id="睛彩青少" group-title="少儿频道",睛彩青少
-http://14.157.24.38:2345/rtp/239.77.1.22:5146
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" tvg-id="睛彩青少" group-title="少儿频道",睛彩青少
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" tvg-id="睛彩青少" group-title="少儿频道",睛彩青少
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=BingCha
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="少儿频道",广东少儿
-http://183.237.95.108:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdtvs5
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="少儿频道",广东少儿
-http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="少儿频道",广东少儿
-http://120.198.95.220:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="少儿频道",广东少儿
-http://120.198.84.146:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="少儿频道",广东少儿
-http://120.196.235.42:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="少儿频道",广东少儿
-http://120.198.95.220:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1
+http://gmxw.7766.org:808/hls/175/index.m3u8
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="少儿频道",广东少儿
 http://120.238.94.82:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="少儿频道",广东少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
+http://120.198.84.146:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="少儿频道",广东少儿
-#EXTVLCOPT:http-user-agent=okhttp
-http://173.208.234.146/live/gdtvs5.m3u8
+http://120.198.95.220:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="少儿频道",广东少儿
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdtvs5
+http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="少儿频道",广东少儿
+http://183.237.95.108:9901/tsfile/live/1097_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="少儿频道",广东少儿
+http://120.198.95.220:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="少儿频道",广东少儿
+http://120.196.235.42:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="南京少儿" tvg-id="南京少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南京少儿.png" group-title="少儿频道",南京少儿
 http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-#EXTINF:-1 tvg-name="南京少儿" tvg-id="南京少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南京少儿.png" group-title="少儿频道",南京少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
-#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" tvg-id="海南少儿" group-title="少儿频道",海南少儿
-http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
-#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" tvg-id="海南少儿" group-title="少儿频道",海南少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://vapi.91kds.cc/live1/hitv.m3u8?id=hiqs&apiKey=2079b631b519ec17da0bc09844eb8419
-#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" tvg-id="海南少儿" group-title="少儿频道",海南少儿
-http://nn.7x9d.cn/地方台8563/海南.php?id=sepd$LR•IPV4
-#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" tvg-id="海南少儿" group-title="少儿频道",海南少儿
-https://migu.188766.xyz/?migutoken=6f0f1afceaa5258c040b50b1f89bfdc5&id=hn_sepd&type=sz
-#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" tvg-id="海南少儿" group-title="少儿频道",海南少儿
-https://migu.188766.xyz/?migutoken=2d0b3796b93c0d0a9068434e65cbce37&id=hn_sepd&type=sz
-#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" tvg-id="海南少儿" group-title="少儿频道",海南少儿
-https://migu.188766.xyz/?migutoken=9c9969bee01e9a37dca68dd16df63e65&id=hn_sepd&type=sz
-#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" tvg-id="海南少儿" group-title="少儿频道",海南少儿
-https://migu.188766.xyz/?migutoken=0c9220e89aa5bb92fd25dbc47f73c650&id=hn_sepd&type=sz
-#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" tvg-id="海南少儿" group-title="少儿频道",海南少儿
-https://migu.188766.xyz/?migutoken=7827d9fc7bedc235d7359a1ccc57a032&id=hn_sepd&type=sz
-#EXTINF:-1 tvg-name="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" tvg-id="海南少儿" group-title="少儿频道",海南少儿
-#EXTVLCOPT:http-user-agent=okhttp
-http://47.108.20.161:8866/hainan/hainan.php?id=sepd
-#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" tvg-id="经典动画大集合" group-title="少儿频道",经典动画大集合
-http://103.236.77.86:29824/629942219
-#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" tvg-id="经典动画大集合" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="少儿频道",经典动画大集合
-http://gslbmgsplive.miguvideo.com/wd_r3/cctv/jingdiandonghua/600/index.m3u8?msisdn=2026102414423723f576f31e924b36ad0ecd9c23e7ad49&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20261024144237&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=2409:8a00:6030:db21:8b:7cd8:20a9:f40c&SecurityKey=20261024144237&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=601b396463b4acc3db16b44d49a223d2&ddCalcu=26d0e3122b9230a99644d6434bb46a1cbcd3
-#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" tvg-id="经典动画大集合" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="少儿频道",经典动画大集合
-http://139.224.44.53:1234/629942219
-#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" tvg-id="经典动画大集合" group-title="少儿频道",经典动画大集合
-http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/jingdiandonghua/600/index.m3u8?msisdn=20261024160316bb0298c1dbc043379332736b3afa4771&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20261024160316&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=171.8.79.254&SecurityKey=20261024160316&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a23b9c203c0c841dfd62298b9c947d70
-#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" tvg-id="经典动画大集合" group-title="少儿频道",经典动画大集合
-#EXTVLCOPT:http-user-agent=okhttp
-http://175.169.85.35:1234/629942219
-#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" tvg-id="经典动画大集合" group-title="少儿频道",经典动画大集合
-http://mg.cttv.vip/629942219
-#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" tvg-id="经典动画大集合" group-title="少儿频道",经典动画大集合
-http://k.061899.xyz/k.php?id=dhdjh
-#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" tvg-id="经典动画大集合" group-title="少儿频道",经典动画大集合
-http://gslbmgsplive.miguvideo.com/wd_r3/cctv/jingdiandonghua/600/index.m3u8?msisdn=2026092221483504f828f6d8b343208e2239dffc1ff5a1&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20260922214835&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=2409:8a00:6030:3091:927d:76a2:7f21:1749&SecurityKey=20260922214835&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3b453a18f1b9b58ba423d8b41013cd70&ddCalcu=037bed42c593301a01184fb18bd93b2548ab
-#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" tvg-id="经典动画大集合" group-title="少儿频道",经典动画大集合
-http://chen.ccwu.cc:1234/629942219
-#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" tvg-id="经典动画大集合" group-title="少儿频道",经典动画大集合
-http://2280.eu.org:1234/629942219
-#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少.png" tvg-id="辽宁教育青少" group-title="少儿频道",辽宁教育青少
-http://120.76.248.139/live/bfgd/4200000075.m3u8$LR•IPV4•2『线路1』
-#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少.png" tvg-id="辽宁教育青少" group-title="少儿频道",辽宁教育青少
+#EXTINF:-1 tvg-name="辽宁教育青少" tvg-id="辽宁教育青少" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少.png" group-title="少儿频道",辽宁教育青少
 http://120.76.248.139/live/bfgd/4200000075.m3u8
-#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少.png" tvg-id="辽宁教育青少" group-title="少儿频道",辽宁教育青少
-#EXTVLCOPT:http-user-agent=okhttp/3.15
+#EXTINF:-1 tvg-name="辽宁教育青少" tvg-id="辽宁教育青少" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少.png" group-title="少儿频道",辽宁教育青少
 http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
-#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少.png" tvg-id="辽宁教育青少" group-title="少儿频道",辽宁教育青少
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227297/index.m3u8$LR•IPV4•2『线路2』
-#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少.png" tvg-id="辽宁教育青少" group-title="少儿频道",辽宁教育青少
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/1455.m3u8
-#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少.png" tvg-id="辽宁教育青少" group-title="少儿频道",辽宁教育青少
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/1597.m3u8
-#EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少.png" tvg-id="辽宁教育青少" group-title="少儿频道",辽宁教育青少
+#EXTINF:-1 tvg-name="辽宁教育青少" tvg-id="辽宁教育青少" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少.png" group-title="少儿频道",辽宁教育青少
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227297/index.m3u8
+#EXTINF:-1 tvg-name="辽宁教育青少" tvg-id="辽宁教育青少" tvg-logo="https://live.fanmingming.cn/tv/辽宁教育青少.png" group-title="少儿频道",辽宁教育青少
 #EXTVLCOPT:http-user-agent=okhttp/3.8.1
 http://45.192.97.170:8880/play/817.m3u8
-#EXTINF:-1 tvg-name="山东少儿" tvg-id="山东少儿" tvg-logo="https://i.imgur.com/ph7YKNa.png" group-title="少儿频道",山东少儿
-http://58.57.40.22:9901/tsfile/live/1024_1.m3u8
-#EXTINF:-1 tvg-name="山东少儿" tvg-id="山东少儿" tvg-logo="https://i.imgur.com/ph7YKNa.png" group-title="少儿频道",山东少儿
-http://livealone302.iqilu.com/iqilu/sepd.m3u8
-#EXTINF:-1 tvg-name="山东少儿" tvg-id="山东少儿" tvg-logo="https://i.imgur.com/ph7YKNa.png" group-title="少儿频道",山东少儿
-http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东少儿" tvg-id="山东少儿" tvg-logo="https://i.imgur.com/ph7YKNa.png" group-title="少儿频道",山东少儿
-http://223.78.65.165:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东少儿" tvg-id="山东少儿" tvg-logo="https://i.imgur.com/ph7YKNa.png" group-title="少儿频道",山东少儿
-https://stream1.freetv.fun/shan-dong-shao-er-6.m3u8
-#EXTINF:-1 tvg-name="山东少儿" tvg-id="山东少儿" tvg-logo="https://i.imgur.com/ph7YKNa.png" group-title="少儿频道",山东少儿
-https://stream1.freetv.fun/shan-dong-shao-er-9.m3u8
-#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" tvg-id="海南广播电视总台少儿频道" group-title="少儿频道",海南广播电视总台少儿频道
-http://103.236.77.86:29824/962067523
-#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" tvg-id="海南广播电视总台少儿频道" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="少儿频道",海南广播电视总台少儿频道
-http://gslbmgsplive.miguvideo.com/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=202610241442202169662b2a3e4d469235827f8212dd22&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261024144220&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=2409:8a00:6030:db21:8b:7cd8:20a9:f40c&SecurityKey=20261024144220&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=3bd0dfa4d0ed36918a2e1117768bc3d5&ddCalcu=53dbe3d2c02bd08f6a747d101e1de326a981
-#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" tvg-id="海南广播电视总台少儿频道" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="少儿频道",海南广播电视总台少儿频道
-http://139.224.44.53:1234/962067523
-#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" tvg-id="海南广播电视总台少儿频道" group-title="少儿频道",海南广播电视总台少儿频道
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=202610241603108a63ecf8cc754db4983cafb9f2cec8c6&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20261024160310&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=171.8.79.254&SecurityKey=20261024160310&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1f426f9d12e10e9af6c4d29375e54995
-#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" tvg-id="海南广播电视总台少儿频道" group-title="少儿频道",海南广播电视总台少儿频道
-#EXTVLCOPT:http-user-agent=okhttp
-http://175.169.85.35:1234/962067523
-#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" tvg-id="海南广播电视总台少儿频道" group-title="少儿频道",海南广播电视总台少儿频道
-http://mg.cttv.vip/962067523
-#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" tvg-id="海南广播电视总台少儿频道" group-title="少儿频道",海南广播电视总台少儿频道
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=2324&sid=ac2eb240c81b0abf144db0d97fb1977f&exp=1792874469&sig=0414542756f11ae3026b7205bdbe473fcb8ad7ad6556fda467636af6592a4808
-#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" tvg-id="海南广播电视总台少儿频道" group-title="少儿频道",海南广播电视总台少儿频道
-http://gslbmgsplive.miguvideo.com/migu/kailu/nxwl/50/20251225/index.m3u8?msisdn=2026092221482017b382f4a62b4e3b8dedbad273f41ad3&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20260922214820&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=2409:8a00:6030:3091:927d:76a2:7f21:1749&SecurityKey=20260922214820&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=ZQ-A1-9.9.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f28f50306d24ed668fec0bf108095587&ddCalcu=7f82e5825f295000830016fdb204ceedf686
-#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" tvg-id="海南广播电视总台少儿频道" group-title="少儿频道",海南广播电视总台少儿频道
-http://chen.ccwu.cc:1234/962067523
-#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" tvg-id="海南广播电视总台少儿频道" group-title="少儿频道",海南广播电视总台少儿频道
-http://2280.eu.org:1234/962067523
-#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳少儿.png" tvg-id="深圳少儿" group-title="少儿频道",深圳少儿
-http://183.11.239.36:808/hls/157/index.m3u8
-#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳少儿.png" tvg-id="深圳少儿" group-title="少儿频道",深圳少儿
-http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳少儿.png" tvg-id="深圳少儿" group-title="少儿频道",深圳少儿
-http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳少儿.png" tvg-id="深圳少儿" group-title="少儿频道",深圳少儿
-http://113.95.135.178:8188/rtp/239.77.1.244:5146
-#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳少儿.png" tvg-id="深圳少儿" group-title="少儿频道",深圳少儿
-http://116.77.33.98:44330/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳少儿.png" tvg-id="深圳少儿" group-title="少儿频道",深圳少儿
-http://14.157.24.38:2345/rtp/239.77.1.244:5146
-#EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳少儿.png" tvg-id="深圳少儿" group-title="少儿频道",深圳少儿
-https://stream1.freetv.fun/shen-zhen-shao-er-1.m3u8
 #EXTINF:-1 tvg-name="炫动卡通" tvg-id="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/炫动卡通.png" group-title="少儿频道",炫动卡通
 http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="炫动卡通" tvg-id="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/炫动卡通.png" group-title="少儿频道",炫动卡通
 http://183.237.95.108:9901/tsfile/live/1100_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="炫动卡通" tvg-id="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/炫动卡通.png" group-title="少儿频道",炫动卡通
-http://120.196.235.42:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="炫动卡通" tvg-id="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/炫动卡通.png" group-title="少儿频道",炫动卡通
 http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" tvg-id="黑莓动画" group-title="少儿频道",黑莓动画
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://live.264788.xyz/channel/heimeidonghua?streamid=e28cd42e24738c192f5bf90ad9b909da&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" tvg-id="黑莓动画" group-title="少儿频道",黑莓动画
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://live.264788.xyz/channel/heimeidonghua?streamid=7e2280fb52eae0bc10c4fa7c703196ae&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" tvg-id="黑莓动画" group-title="少儿频道",黑莓动画
+#EXTINF:-1 tvg-name="炫动卡通" tvg-id="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/炫动卡通.png" group-title="少儿频道",炫动卡通
+http://120.196.235.42:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东少儿" tvg-id="山东少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东少儿.png" group-title="少儿频道",山东少儿
+http://livealone302.iqilu.com/iqilu/sepd.m3u8
+#EXTINF:-1 tvg-name="山东少儿" tvg-id="山东少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东少儿.png" group-title="少儿频道",山东少儿
+http://223.78.65.165:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东少儿" tvg-id="山东少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东少儿.png" group-title="少儿频道",山东少儿
+http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东少儿" tvg-id="山东少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东少儿.png" group-title="少儿频道",山东少儿
+http://139.129.231.228:50060/rtp/239.21.1.208:5002
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="少儿频道",睛彩青少
+http://192.187.124.34:81/live/jcqs.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="少儿频道",睛彩青少
+http://113.95.135.178:8188/rtp/239.77.1.22:5146
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="少儿频道",睛彩青少
+http://113.95.135.89:8188/rtp/239.77.1.22:5146
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="少儿频道",睛彩青少
+http://14.157.24.38:2345/rtp/239.77.1.22:5146
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="少儿频道",睛彩青少
 #EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/1005.m3u8
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" tvg-id="黑莓动画" group-title="少儿频道",黑莓动画
-#EXTVLCOPT:http-user-agent=okhttp
-http://gslbserv.itv.cmvideo.cn:80/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=toShengfen&mode=1
-#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建少儿.png" tvg-id="福建少儿" group-title="少儿频道",福建少儿
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="少儿频道",睛彩青少
+#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=BingCha
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="少儿频道",睛彩青少
+#EXTVLCOPT:http-user-agent=okhttp/3.8.1
+http://45.192.97.170:8880/play/830.m3u8
+#EXTINF:-1 tvg-name="内蒙少儿" tvg-logo="https://live.fanmingming.cn/tv/内蒙古少儿.png" group-title="少儿频道",内蒙少儿
 #EXTVLCOPT:http-user-agent=okhttp/3.15
-https://live.264788.xyz/channel/fujianshaoer?streamid=e835a9456b847a72e1a0b8d64b585300&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建少儿.png" tvg-id="福建少儿" group-title="少儿频道",福建少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://live.264788.xyz/channel/fujianshaoer?streamid=98ccc174671e43f0e307e3445e59e2b5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建少儿.png" tvg-id="福建少儿" group-title="少儿频道",福建少儿
-http://8.138.7.223/tv/fjtv1.php?id=fjse
-#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建少儿.png" tvg-id="福建少儿" group-title="少儿频道",福建少儿
-https://stream1.freetv.fun/fu-jian-shao-er-1.m3u8
-#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建少儿.png" tvg-id="福建少儿" group-title="少儿频道",福建少儿
-https://stream1.freetv.fun/fu-jian-shao-er-6.m3u8
-#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建少儿.png" tvg-id="福建少儿" group-title="少儿频道",福建少儿
-https://stream1.freetv.fun/fu-jian-shao-er-4.m3u8
-#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建少儿.png" tvg-id="福建少儿" group-title="少儿频道",福建少儿
-https://stream1.freetv.fun/fu-jian-shao-er-7.m3u8
-#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建少儿.png" tvg-id="福建少儿" group-title="少儿频道",福建少儿
-https://stream1.freetv.fun/fu-jian-shao-er-2.m3u8
-#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="少儿频道",少儿动画
-http://120.196.235.42:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="少儿频道",少儿动画
-#EXTVLCOPT:http-user-agent=okhttp
-http://120.238.84.45:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="少儿频道",少儿动画
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://125.42.150.205:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="少儿频道",少儿动画
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.77.0.109:5146
-#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="少儿频道",少儿动画
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.77.0.109:5146
-#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="少儿频道",少儿动画
-http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="少儿频道",少儿动画
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="内蒙少儿" tvg-logo="https://live.fanmingming.cn/tv/内蒙古少儿.png" tvg-id="内蒙少儿" group-title="少儿频道",内蒙少儿
-#EXTVLCOPT:http-user-agent=okhttp
-http://play1-qk.nmtv.cn/live/2318general.m3u8
-#EXTINF:-1 tvg-name="内蒙少儿" tvg-logo="https://live.fanmingming.cn/tv/内蒙古少儿.png" tvg-id="内蒙少儿" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="少儿频道",内蒙少儿
 https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-#EXTINF:-1 tvg-name="内蒙少儿" tvg-logo="https://live.fanmingming.cn/tv/内蒙古少儿.png" tvg-id="内蒙少儿" group-title="少儿频道",内蒙少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://116.113.206.72:8686/rtp/239.125.1.69:4120
-#EXTINF:-1 tvg-name="内蒙少儿" tvg-logo="https://live.fanmingming.cn/tv/内蒙古少儿.png" tvg-id="内蒙少儿" group-title="少儿频道",内蒙少儿
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800$LR•IPV4
-#EXTINF:-1 tvg-name="福州少儿" tvg-id="福州少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福州少儿.png" group-title="少儿频道",福州少儿
-http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-id="北京卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卡酷少儿.png" group-title="少儿频道",北京卡酷少儿
 https://migu.188766.xyz/?migutoken=1023983db6b5249e61d4950c1654cd84&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-id="北京卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卡酷少儿.png" group-title="少儿频道",北京卡酷少儿
 https://migu.188766.xyz/?migutoken=2c51384549aec8a85219fdc0c475e40b&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-id="北京卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卡酷少儿.png" group-title="少儿频道",北京卡酷少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.127.180.196:8083/rtp/226.0.2.57:8368
+http://123.121.5.183:4000/rtp/239.3.1.189:8000
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-id="北京卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卡酷少儿.png" group-title="少儿频道",北京卡酷少儿
+http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-id="北京卡酷少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/北京卡酷少儿.png" group-title="少儿频道",北京卡酷少儿
+http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010081/1.m3u8
 #EXTINF:-1 tvg-name="CN卡通" tvg-id="CN卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CN卡通.png" group-title="少儿频道",CN卡通
 https://play-drm.aliiptv.com/live/cnkt.m3u8?verify=1790056492-z_kcj-4T_dhOI97ARxEdze0-GjYuatr5oYZC-tsv0i0
-#EXTINF:-1 tvg-name="CN卡通" tvg-id="CN卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CN卡通.png" group-title="少儿频道",CN卡通
-http://125.227.210.55:3027/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CN卡通" tvg-id="CN卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CN卡通.png" group-title="少儿频道",CN卡通
-#EXTVLCOPT:http-user-agent=okhttp
-http://31.43.191.125:8080/restream/restream/34927
 #EXTINF:-1 tvg-name="CN卡通" tvg-id="CN卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CN卡通.png" group-title="少儿频道",CN卡通
 https://hls-gateway.vpstv.net/streams/476247.m3u8
 #EXTINF:-1 tvg-name="CN卡通" tvg-id="CN卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CN卡通.png" group-title="少儿频道",CN卡通
 https://stream1.freetv.fun/cnqia-tong-3.ctv
 #EXTINF:-1 tvg-name="CN卡通" tvg-id="CN卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CN卡通.png" group-title="少儿频道",CN卡通
-#EXTVLCOPT:http-user-agent=okhttp
-http://31.43.191.125:8080/restream/restream/34800
-#EXTINF:-1 tvg-name="CN卡通" tvg-id="CN卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CN卡通.png" group-title="少儿频道",CN卡通
 https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 tvg-name="卡酷动画" tvg-id="卡酷动画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷动画.png" group-title="少儿频道",卡酷动画
-http://183.62.8.58:50085/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="河北少儿科教" tvg-id="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="少儿频道",河北少儿科教
+#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" group-title="少儿频道",海南广播电视总台少儿频道
+http://139.224.44.53:1234/962067523
+#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" group-title="少儿频道",海南广播电视总台少儿频道
+http://47.103.64.145:8014/962067523
+#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" group-title="少儿频道",海南广播电视总台少儿频道
+http://117.146.74.202:1234/962067523
+#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" group-title="少儿频道",海南广播电视总台少儿频道
+http://58.210.97.102:1234/962067523
+#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" group-title="少儿频道",海南广播电视总台少儿频道
+http://47.100.80.251:50001/962067523
+#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" group-title="少儿频道",海南广播电视总台少儿频道
+http://103.236.77.86:29824/962067523
+#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" group-title="少儿频道",海南广播电视总台少儿频道
+http://mg.cttv.vip/962067523
+#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" group-title="少儿频道",海南广播电视总台少儿频道
+http://222.213.105.65:7788/962067523
+#EXTINF:-1 tvg-name="海南广播电视总台少儿频道" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/328/202605111614_1778232654695_H32_1080.webp" group-title="少儿频道",海南广播电视总台少儿频道
+http://106.12.29.154:5050/962067523
+#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="少儿频道",经典动画大集合
+http://117.146.74.202:1234/629942219
+#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="少儿频道",经典动画大集合
+http://47.100.80.251:50001/629942219
+#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="少儿频道",经典动画大集合
+http://47.103.64.145:8014/629942219
+#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="少儿频道",经典动画大集合
+http://58.210.97.102:1234/629942219
+#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="少儿频道",经典动画大集合
+http://222.213.105.65:7788/629942219
+#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="少儿频道",经典动画大集合
+http://139.224.44.53:1234/629942219
+#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="少儿频道",经典动画大集合
+http://106.12.29.154:5050/629942219
+#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="少儿频道",经典动画大集合
+http://103.236.77.86:29824/629942219
+#EXTINF:-1 tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/202204010055_5101034205_H32_1080.webp" group-title="少儿频道",经典动画大集合
+http://mg.cttv.vip/629942219
+#EXTINF:-1 tvg-name="深圳少儿" group-title="少儿频道",深圳少儿
+http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 tvg-name="深圳少儿" group-title="少儿频道",深圳少儿
+http://120.198.95.220:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="深圳少儿" group-title="少儿频道",深圳少儿
+http://113.95.135.178:8188/rtp/239.77.1.244:5146
+#EXTINF:-1 tvg-name="深圳少儿" group-title="少儿频道",深圳少儿
+http://14.157.24.38:2345/rtp/239.77.1.244:5146
+#EXTINF:-1 tvg-name="深圳少儿" group-title="少儿频道",深圳少儿
+https://stream1.freetv.fun/shen-zhen-shao-er-1.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="少儿频道",黑莓动画
+http://111.29.9.33:6610/000000001000/1000000004000021734/index.m3u8?channel-id=bestzb&Contentid=1000000004000021734&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="少儿频道",黑莓动画
+http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="少儿频道",黑莓动画
+http://36.105.100.208:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="福州少儿" tvg-id="福州少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福州少儿.png" group-title="少儿频道",福州少儿
 #EXTVLCOPT:http-user-agent=okhttp/3.15
-http://121.19.134.6:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="河北少儿科教" tvg-id="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="少儿频道",河北少儿科教
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://121.19.134.202:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="河北少儿科教" tvg-id="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="少儿频道",河北少儿科教
-#EXTVLCOPT:http-user-agent=okhttp
-http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1893427200&k=d4a455b288ebbc0f53903f4750372b0f
-#EXTINF:-1 tvg-name="河北少儿科教" tvg-id="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="少儿频道",河北少儿科教
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://www.160606.xyz:10010/rtp/239.254.200.21:6000
-#EXTINF:-1 tvg-name="河北少儿科教" tvg-id="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="少儿频道",河北少儿科教
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://www.nettvpro.xyz/hls/hebei.php?id=hbse
-#EXTINF:-1 tvg-name="河北少儿科教" tvg-id="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="少儿频道",河北少儿科教
-http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
-#EXTINF:-1 tvg-name="河北少儿科教" tvg-id="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="少儿频道",河北少儿科教
-http://124.239.135.194:11080/live/sekj/index.m3u8
-#EXTINF:-1 tvg-name="河北少儿科教" tvg-id="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="少儿频道",河北少儿科教
-http://60.10.139.113:8801/hls/43/index.m3u8
-#EXTINF:-1 tvg-name="优优宝贝" tvg-id="优优宝贝" group-title="少儿频道",优优宝贝
-http://120.76.248.139/live/bfgd/4200000153.m3u8
-#EXTINF:-1 tvg-name="优优宝贝" tvg-id="优优宝贝" group-title="少儿频道",优优宝贝
-http://120.76.248.139/live/bfgd/4200000153.m3u8$LR•IPV4
-#EXTINF:-1 tvg-name="优优宝贝" tvg-id="优优宝贝" group-title="少儿频道",优优宝贝
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/1561.m3u8
-#EXTINF:-1 tvg-name="优优宝贝" tvg-id="优优宝贝" group-title="少儿频道",优优宝贝
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.77.1.193:5146
-#EXTINF:-1 tvg-name="优优宝贝" tvg-id="优优宝贝" group-title="少儿频道",优优宝贝
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.39:5146
-#EXTINF:-1 tvg-name="优优宝贝" tvg-id="优优宝贝" group-title="少儿频道",优优宝贝
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.77.1.193:5146
-#EXTINF:-1 tvg-name="优优宝贝" tvg-id="优优宝贝" group-title="少儿频道",优优宝贝
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.39:5146
-#EXTINF:-1 tvg-name="DreamWorks梦工厂动画" tvg-logo="https://logo.catvod.com/DreamWorks梦工厂动画.png" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="少儿频道",DreamWorks梦工厂动画
-#EXTVLCOPT:http-user-agent=okhttp
-https://cdn.qd.je/163189/dreamworks
-#EXTINF:-1 tvg-name="DreamWorks梦工厂动画" tvg-logo="https://logo.catvod.com/DreamWorks梦工厂动画.png" group-title="少儿频道",DreamWorks梦工厂动画
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=2184&sid=ac2eb240c81b0abf144db0d97fb1977f&exp=1792874469&sig=0eb908e73b3b72f8c7837a9b502b5b8599a562daca83300c2dde2a9a46a46343
-#EXTINF:-1 tvg-name="DreamWorks梦工厂动画" tvg-logo="https://logo.catvod.com/DreamWorks梦工厂动画.png" group-title="少儿频道",DreamWorks梦工厂动画
-http://45.192.97.170:8880/play/470.m3u8
-#EXTINF:-1 tvg-name="DreamWorks梦工厂动画" tvg-logo="https://logo.catvod.com/DreamWorks梦工厂动画.png" group-title="少儿频道",DreamWorks梦工厂动画
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-https://cdn12.178.indevs.in/163189/dreamworks
-#EXTINF:-1 tvg-name="DreamWorks梦工厂动画" tvg-logo="https://logo.catvod.com/DreamWorks梦工厂动画.png" group-title="少儿频道",DreamWorks梦工厂动画
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/753.m3u8
-#EXTINF:-1 tvg-name="DreamWorks梦工厂动画" tvg-logo="https://logo.catvod.com/DreamWorks梦工厂动画.png" group-title="少儿频道",DreamWorks梦工厂动画
-#EXTVLCOPT:http-user-agent=okhttp/3.8.1
-http://45.192.97.170:8880/play/1021.m3u8
-#EXTINF:-1 tvg-name="精选动漫台" tvg-logo="https://logo.catvod.com/精选动漫台.png" group-title="少儿频道",精选动漫台
-http://45.192.97.170:8880/play/471.m3u8
-#EXTINF:-1 tvg-name="精选动漫台" tvg-logo="https://logo.catvod.com/精选动漫台.png" group-title="少儿频道",精选动漫台
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=2185&sid=ac2eb240c81b0abf144db0d97fb1977f&exp=1792874469&sig=c989104e719d6041ee34ab2d7fd75159a291eaf2d1b12c421aeec6919f6590d4
-#EXTINF:-1 tvg-name="精选动漫台" tvg-logo="https://logo.catvod.com/精选动漫台.png" group-title="少儿频道",精选动漫台
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/754.m3u8
-#EXTINF:-1 tvg-name="精选动漫台" tvg-logo="https://logo.catvod.com/精选动漫台.png" group-title="少儿频道",精选动漫台
-#EXTVLCOPT:http-user-agent=okhttp/3.8.1
-http://45.192.97.170:8880/play/1022.m3u8
-#EXTINF:-1 tvg-name="精选动漫台" tvg-logo="https://logo.catvod.com/精选动漫台.png" group-title="少儿频道",精选动漫台
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-https://cdn12.178.indevs.in/163189/jxdmt
-#EXTINF:-1 tvg-name="河北少儿" tvg-id="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="少儿频道",河北少儿
-http://1.94.31.214/php/hebei.php?id=sekj
-#EXTINF:-1 tvg-name="四川妇女儿童频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan5.png" tvg-id="SichuanTVWomenandChildrenChannel.cn@SD" group-title="少儿频道",四川妇女儿童频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.213.129.2:4023/rtp/239.94.0.75:5140
-#EXTINF:-1 tvg-name="四川妇女儿童频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan5.png" tvg-id="SichuanTVWomenandChildrenChannel.cn@SD" group-title="少儿频道",四川妇女儿童频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.213.162.184:8899/rtp/239.94.0.75:5140
-#EXTINF:-1 tvg-name="四川妇女儿童频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan5.png" tvg-id="SichuanTVWomenandChildrenChannel.cn@SD" group-title="少儿频道",四川妇女儿童频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.213.169.90:8899/rtp/239.94.0.75:5140
-#EXTINF:-1 tvg-name="四川妇女儿童频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan5.png" tvg-id="SichuanTVWomenandChildrenChannel.cn@SD" group-title="少儿频道",四川妇女儿童频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.213.163.7:8123/rtp/239.94.0.75:5140
-#EXTINF:-1 tvg-name="四川妇女儿童频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan5.png" tvg-id="SichuanTVWomenandChildrenChannel.cn@SD" group-title="少儿频道",四川妇女儿童频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.95.189.242:4000/rtp/239.94.0.75:5140
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 tvg-name="福建少儿" tvg-id="福建少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建少儿.png" group-title="少儿频道",福建少儿
+https://stream1.freetv.fun/fu-jian-shao-er-1.m3u8
+#EXTINF:-1 tvg-name="福建少儿" tvg-id="福建少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建少儿.png" group-title="少儿频道",福建少儿
+https://stream1.freetv.fun/fu-jian-shao-er-6.m3u8
+#EXTINF:-1 tvg-name="福建少儿" tvg-id="福建少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建少儿.png" group-title="少儿频道",福建少儿
+https://stream1.freetv.fun/fu-jian-shao-er-4.m3u8
+#EXTINF:-1 tvg-name="福建少儿" tvg-id="福建少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建少儿.png" group-title="少儿频道",福建少儿
+https://stream1.freetv.fun/fu-jian-shao-er-7.m3u8
+#EXTINF:-1 tvg-name="福建少儿" tvg-id="福建少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建少儿.png" group-title="少儿频道",福建少儿
+https://stream1.freetv.fun/fu-jian-shao-er-2.m3u8
+#EXTINF:-1 tvg-name="福建少儿" tvg-id="福建少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/福建少儿.png" group-title="少儿频道",福建少儿
+http://8.138.7.223/tv/fjtv1.php?id=fjse
+#EXTINF:-1 tvg-name="海南少儿" tvg-id="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" group-title="少儿频道",海南少儿
+http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
+#EXTINF:-1 tvg-name="海南少儿" tvg-id="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" group-title="少儿频道",海南少儿
+https://migu.188766.xyz/?migutoken=6f0f1afceaa5258c040b50b1f89bfdc5&id=hn_sepd&type=sz
+#EXTINF:-1 tvg-name="海南少儿" tvg-id="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" group-title="少儿频道",海南少儿
+https://migu.188766.xyz/?migutoken=2d0b3796b93c0d0a9068434e65cbce37&id=hn_sepd&type=sz
+#EXTINF:-1 tvg-name="海南少儿" tvg-id="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" group-title="少儿频道",海南少儿
+https://migu.188766.xyz/?migutoken=9c9969bee01e9a37dca68dd16df63e65&id=hn_sepd&type=sz
+#EXTINF:-1 tvg-name="海南少儿" tvg-id="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" group-title="少儿频道",海南少儿
+https://migu.188766.xyz/?migutoken=0c9220e89aa5bb92fd25dbc47f73c650&id=hn_sepd&type=sz
+#EXTINF:-1 tvg-name="海南少儿" tvg-id="海南少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南少儿.png" group-title="少儿频道",海南少儿
+https://migu.188766.xyz/?migutoken=7827d9fc7bedc235d7359a1ccc57a032&id=hn_sepd&type=sz
 #EXTINF:-1 tvg-name="甘肃少儿" tvg-id="GS04" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gansu/Gansu4.png" group-title="少儿频道",甘肃少儿
 https://hls.gstv.com.cn/49048r/922k96.m3u8
 #EXTINF:-1 tvg-name="甘肃少儿" tvg-id="GS04" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gansu/Gansu4.png" group-title="少儿频道",甘肃少儿
-#EXTVLCOPT:http-user-agent=okhttp
-http://61.178.227.57:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="甘肃少儿" tvg-id="GS04" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gansu/Gansu4.png" group-title="少儿频道",甘肃少儿
 rtmp://livein.gstv.com.cn/49048r/922k96
+#EXTINF:-1 tvg-name="卡酷动画" tvg-id="卡酷动画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷动画.png" group-title="少儿频道",卡酷动画
+#EXTVLCOPT:http-user-agent=okhttp/3.8.1
+http://45.192.97.170:8880/play/260.m3u8
+#EXTINF:-1 tvg-name="卡酷动画" tvg-id="卡酷动画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷动画.png" group-title="少儿频道",卡酷动画
+http://183.62.8.58:50085/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北少儿" tvg-id="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="少儿频道",河北少儿
+#EXTVLCOPT:http-user-agent=okhttp/3.8.1
+http://45.192.97.170:8880/play/363.m3u8
+#EXTINF:-1 tvg-name="河北少儿" tvg-id="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="少儿频道",河北少儿
+http://1.94.31.214/php/hebei.php?id=sekj
+#EXTINF:-1 tvg-name="河北少儿" tvg-id="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="少儿频道",河北少儿
+http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="少儿频道",少儿动画
+http://120.196.235.42:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="少儿频道",少儿动画
+http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-id="河北少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Hebei4.png" group-title="少儿频道",河北少儿科教
+http://124.239.135.194:11080/live/sekj/index.m3u8
+#EXTINF:-1 tvg-name="优优宝贝" group-title="少儿频道",优优宝贝
+http://120.76.248.139/live/bfgd/4200000153.m3u8
+#EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan5.png" group-title="少儿频道",四川妇女儿童
+#EXTVLCOPT:http-user-agent=okhttp/3.8.1
+http://45.192.97.170:8880/play/468.m3u8
+#EXTINF:-1 tvg-name="少儿动漫" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%91%E5%84%BF%E5%8A%A8%E6%BC%AB.png" group-title="少儿频道",少儿动漫
+http://192.187.124.34:81/live/hssedm.m3u8
 #EXTINF:-1 tvg-name="IPTV少儿动画" group-title="少儿频道",IPTV少儿动画
 http://183.237.95.108:9901/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="IPTV少儿动画" group-title="少儿频道",IPTV少儿动画
-http://113.95.135.89:8188/rtp/239.77.1.91:5146
-#EXTINF:-1 tvg-name="IPTV少儿动画" group-title="少儿频道",IPTV少儿动画
 http://113.95.135.178:8188/rtp/239.77.1.91:5146
 #EXTINF:-1 tvg-name="IPTV少儿动画" group-title="少儿频道",IPTV少儿动画
-http://183.30.201.17:10002/rtp/239.77.1.91:5146
-#EXTINF:-1 tvg-name="IPTV少儿动画" group-title="少儿频道",IPTV少儿动画
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.77.1.91:5146
-#EXTINF:-1 tvg-name="IPTV少儿动画" group-title="少儿频道",IPTV少儿动画
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.77.1.91:5146
+http://113.95.135.89:8188/rtp/239.77.1.91:5146
 #EXTINF:-1 tvg-name="IPTV少儿动画" group-title="少儿频道",IPTV少儿动画
 http://14.157.24.38:2345/rtp/239.77.1.91:5146
 #EXTINF:-1 tvg-name="IPTV少儿动画" group-title="少儿频道",IPTV少儿动画
-http://183.30.201.38:10002/rtp/239.77.1.91:5146
-#EXTINF:-1 tvg-name="梦工场动漫" group-title="少儿频道",梦工场动漫
-http://45.192.97.170:8880/play/377.m3u8
-#EXTINF:-1 tvg-name="梦工场动漫" group-title="少儿频道",梦工场动漫
-#EXTVLCOPT:http-user-agent=okhttp
-http://iptv.4666888.xyz/iptv2A.php?id=40
-#EXTINF:-1 tvg-name="梦工场动漫" group-title="少儿频道",梦工场动漫
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/660.m3u8
-#EXTINF:-1 tvg-name="梦工场动漫" group-title="少儿频道",梦工场动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.8.1
-http://45.192.97.170:8880/play/928.m3u8
-#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱动漫.png" group-title="少儿频道",爱动漫
-http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
-#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱动漫.png" group-title="少儿频道",爱动漫
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱动漫.png" group-title="少儿频道",爱动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://itv.uat.news/TVOD/6000000006000280630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱动漫.png" group-title="少儿频道",爱动漫
-http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8
-#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱动漫.png" group-title="少儿频道",爱动漫
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8
-#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱动漫.png" group-title="少儿频道",爱动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000059/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱动漫.png" group-title="少儿频道",爱动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱动漫.png" group-title="少儿频道",爱动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="华数少儿动画" group-title="少儿频道",华数少儿动画
-http://113.95.135.178:8188/rtp/239.77.0.109:5146
-#EXTINF:-1 tvg-name="华数少儿动画" group-title="少儿频道",华数少儿动画
-http://14.157.24.38:2345/rtp/239.77.0.109:5146
-#EXTINF:-1 tvg-name="华数少儿动画" group-title="少儿频道",华数少儿动画
-http://183.30.201.38:10002/rtp/239.77.0.109:5146
-#EXTINF:-1 tvg-name="Duck TV兒童卡通" group-title="少儿频道",Duck TV兒童卡通
-http://45.192.97.170:8880/play/378.m3u8
-#EXTINF:-1 tvg-name="Duck TV兒童卡通" group-title="少儿频道",Duck TV兒童卡通
-#EXTVLCOPT:http-user-agent=okhttp
-http://iptv.4666888.xyz/iptv2A.php?id=39
-#EXTINF:-1 tvg-name="Duck TV兒童卡通" group-title="少儿频道",Duck TV兒童卡通
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/661.m3u8
-#EXTINF:-1 tvg-name="Duck TV兒童卡通" group-title="少儿频道",Duck TV兒童卡通
-#EXTVLCOPT:http-user-agent=okhttp/3.8.1
-http://45.192.97.170:8880/play/929.m3u8
-#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="少儿频道",经典动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://www.goodiptv.club/yy/24180320
-#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="少儿频道",经典动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://lunbo.v1.mk/yy/24180320
-#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="少儿频道",经典动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://www.goodiptv.club/yy/22777075
-#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="少儿频道",经典动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://lunbo.v1.mk/yy/22777075
-#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="少儿频道",经典动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://live.iill.top/yy/24180320
+http://183.30.201.17:10002/rtp/239.77.1.91:5146
+#EXTINF:-1 tvg-name="少儿" group-title="少儿频道",少儿
+http://139.227.21.22:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="动画片系列" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%A8%E7%94%BB%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="少儿频道",动画片系列
+https://huyazhibo.de5.net/?id=11352878
+#EXTINF:-1 tvg-name="神奇宝贝" tvg-logo="https://epg.112114.xyz/logo/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D.png" group-title="少儿频道",神奇宝贝
+https://huyazhibo.de5.net/?id=21241784
+#EXTINF:-1 tvg-name="济南少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南少儿.png" group-title="少儿频道",济南少儿
+http://139.129.231.228:50060/rtp/239.21.1.68:5002
 #EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="少儿频道",经典动漫
 http://61.133.118.228:5001/yy/24180320
 #EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="少儿频道",经典动漫
 #EXTVLCOPT:http-user-agent=okhttp/3.8.1
 http://45.192.97.170:8880/play/1526.m3u8
-#EXTINF:-1 tvg-name="北京卡酷" tvg-id="北京卡酷" group-title="少儿频道",北京卡酷
-http://204315.xyz:20204/rtp/233.18.204.109:5140$LR•IPV4
-#EXTINF:-1 tvg-name="北京卡酷" tvg-id="北京卡酷" group-title="少儿频道",北京卡酷
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-name="北京卡酷" tvg-id="北京卡酷" group-title="少儿频道",北京卡酷
-http://204315.xyz:20204/rtp/233.18.204.109:5140
-#EXTINF:-1 tvg-name="宝宝动画" group-title="少儿频道",宝宝动画
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.213.129.2:4023/rtp/239.94.1.32:5140
-#EXTINF:-1 tvg-name="宝宝动画" group-title="少儿频道",宝宝动画
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://49.79.129.208:6666/rtp/239.49.1.213:6000
-#EXTINF:-1 tvg-name="宝宝动画" group-title="少儿频道",宝宝动画
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://180.125.146.219:55555/rtp/239.49.1.213:6000
-#EXTINF:-1 tvg-name="宝宝动画" group-title="少儿频道",宝宝动画
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://121.230.33.64:8000/rtp/239.49.1.213:6000
-#EXTINF:-1 tvg-name="宝宝动画" group-title="少儿频道",宝宝动画
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://114.218.93.202:8800/rtp/239.49.1.213:6000
-#EXTINF:-1 tvg-name="宝宝动画" group-title="少儿频道",宝宝动画
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://49.85.222.161:9999/rtp/239.49.1.213:6000
-#EXTINF:-1 tvg-name="宝宝动画" group-title="少儿频道",宝宝动画
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://121.233.142.82:8888/rtp/239.49.1.213:6000
-#EXTINF:-1 tvg-name="广东嘉佳卡通频道" group-title="少儿频道",广东嘉佳卡通频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://121.29.91.239:7077/rtp/239.253.93.203:6381
-#EXTINF:-1 tvg-name="广东嘉佳卡通频道" group-title="少儿频道",广东嘉佳卡通频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.213.129.2:4023/rtp/239.94.1.33:5140
-#EXTINF:-1 tvg-name="广东嘉佳卡通频道" group-title="少儿频道",广东嘉佳卡通频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://221.15.3.77:4000/rtp/225.1.4.92:1121
-#EXTINF:-1 tvg-name="广东嘉佳卡通频道" group-title="少儿频道",广东嘉佳卡通频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://221.15.3.77:4000/rtp/225.1.4.189:1238
-#EXTINF:-1 tvg-name="广东嘉佳卡通频道" group-title="少儿频道",广东嘉佳卡通频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://27.184.28.92:4022/rtp/239.254.201.201:7269
-#EXTINF:-1 tvg-name="SITV动漫秀场" tvg-id="SiTV动漫秀场" group-title="少儿频道",SITV动漫秀场
-http://204315.xyz:20204/rtp/233.18.204.46:5140$LR•IPV4
-#EXTINF:-1 tvg-name="天津少儿" group-title="少儿频道",天津少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://111.167.20.250:5002/rtp/225.1.1.125:5002
-#EXTINF:-1 tvg-name="天津少儿" group-title="少儿频道",天津少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://221.198.100.157:4022/rtp/225.1.1.125:5002
-#EXTINF:-1 tvg-name="天津少儿" group-title="少儿频道",天津少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://221.198.185.136:8888/rtp/225.1.1.125:5002
-#EXTINF:-1 tvg-name="天津少儿" group-title="少儿频道",天津少儿
-#EXTVLCOPT:http-user-agent=okhttp
-http://60.30.67.45:8834/udp/225.1.1.125:5002
-#EXTINF:-1 tvg-name="天津少儿" group-title="少儿频道",天津少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://60.26.60.19:8000/rtp/225.1.1.125:5002
-#EXTINF:-1 tvg-name="重庆少儿" group-title="少儿频道",重庆少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://www.wpfhome.cn:5555/rtp/235.254.199.166:7980
-#EXTINF:-1 tvg-name="重庆少儿" group-title="少儿频道",重庆少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://38.75.136.137:98/gslb/dsdqpub/cqse.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="重庆少儿" group-title="少儿频道",重庆少儿
-#EXTVLCOPT:http-user-agent=okhttp
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqse
-#EXTINF:-1 tvg-name="重庆少儿" group-title="少儿频道",重庆少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://17782331118.top:8188/rtp/235.254.198.166:7980
-#EXTINF:-1 tvg-name="重庆少儿" group-title="少儿频道",重庆少儿
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://17782331118.top:8188/rtp/235.254.199.166:7980
-#EXTINF:-1 tvg-name="草蜢-宝贝对不起" group-title="少儿频道",草蜢-宝贝对不起
-http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
-#EXTINF:-1 tvg-name="iHOT 爱幼教" tvg-id="爱幼教" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱幼教.png" group-title="少儿频道",iHOT 爱幼教
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.213.129.2:4023/rtp/239.94.1.139:5140
-#EXTINF:-1 tvg-name="iHOT 爱动漫" tvg-id="爱动漫" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/IHOT爱动漫.png" group-title="少儿频道",iHOT 爱动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.213.129.2:4023/rtp/239.94.1.141:5140
-#EXTINF:-1 tvg-name="济南少儿" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/济南少儿.png" group-title="少儿频道",济南少儿
-http://139.129.231.228:50060/rtp/239.21.1.68:5002
-#EXTINF:-1 tvg-name="少儿动漫" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%91%E5%84%BF%E5%8A%A8%E6%BC%AB.png" group-title="少儿频道",少儿动漫
-http://192.187.124.34:81/live/hssedm.m3u8
-#EXTINF:-1 tvg-name="青春动漫" group-title="少儿频道",青春动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.213.129.2:4023/rtp/239.94.1.34:5140
-#EXTINF:-1 tvg-name="青春动漫" group-title="少儿频道",青春动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://49.79.129.208:6666/rtp/239.49.1.212:6000
-#EXTINF:-1 tvg-name="青春动漫" group-title="少儿频道",青春动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://180.125.146.219:55555/rtp/239.49.1.212:6000
-#EXTINF:-1 tvg-name="青春动漫" group-title="少儿频道",青春动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://121.230.33.64:8000/rtp/239.49.1.212:6000
-#EXTINF:-1 tvg-name="青春动漫" group-title="少儿频道",青春动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://114.218.93.202:8800/rtp/239.49.1.212:6000
-#EXTINF:-1 tvg-name="青春动漫" group-title="少儿频道",青春动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://49.85.222.161:9999/rtp/239.49.1.212:6000
-#EXTINF:-1 tvg-name="青春动漫" group-title="少儿频道",青春动漫
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://121.233.142.82:8888/rtp/239.49.1.212:6000
-#EXTINF:-1 tvg-name="江西少儿频道" group-title="少儿频道",江西少儿频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://115.150.63.77:9902/tsfile/live/1062_1.m3u8
-#EXTINF:-1 tvg-name="江西少儿频道" group-title="少儿频道",江西少儿频道
-#EXTVLCOPT:http-user-agent=okhttp
-http://115.150.63.77:85/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="少儿频道" group-title="少儿频道",少儿频道
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/302.m3u8
-#EXTINF:-1 tvg-name="少儿频道" group-title="少儿频道",少儿频道
-#EXTVLCOPT:http-user-agent=okhttp/3.8.1
-http://45.192.97.170:8880/play/306.m3u8
-#EXTINF:-1 tvg-name="少儿频道" group-title="少儿频道",少儿频道
-http://139.227.21.22:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="Nick Jr. 兒童頻道" tvg-id="stream-2fd14c64-896c-448f-ac59-ce3b3a8cefb5" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032.png" group-title="少儿频道",Nick Jr. 兒童頻道
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=799&sid=ac2eb240c81b0abf144db0d97fb1977f&exp=1792874469&sig=5ee8de102ba2647085cc80362258f02b9715c19e2216a8076cd9c56ccc0d180f
-#EXTINF:-1 tvg-name="Nick Jr. 兒童頻道" tvg-id="stream-2fd14c64-896c-448f-ac59-ce3b3a8cefb5" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032.png" group-title="少儿频道",Nick Jr. 兒童頻道
-#EXTVLCOPT:http-user-agent=okhttp/3.8.1
-http://45.192.97.170:8880/play/1087.m3u8
-#EXTINF:-1 tvg-name="尼克兒童頻道" tvg-id="stream-329d5037-bdee-494f-bed4-32c9b2b1668c" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105.png" group-title="少儿频道",尼克兒童頻道
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=800&sid=ac2eb240c81b0abf144db0d97fb1977f&exp=1792874469&sig=e7e00a81a3b1e4119ad5de99b48479f95ae3087806c7e09c6ab5e779ef40fb2c
-#EXTINF:-1 tvg-name="尼克兒童頻道" tvg-id="stream-329d5037-bdee-494f-bed4-32c9b2b1668c" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105.png" group-title="少儿频道",尼克兒童頻道
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/820.m3u8
-#EXTINF:-1 tvg-name="尼克兒童頻道" tvg-id="stream-329d5037-bdee-494f-bed4-32c9b2b1668c" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105.png" group-title="少儿频道",尼克兒童頻道
-#EXTVLCOPT:http-user-agent=okhttp/3.8.1
-http://45.192.97.170:8880/play/1088.m3u8
-#EXTINF:-1 tvg-name="經典卡通台" tvg-id="stream-915271a2-e1ee-4154-92f8-03de7dd552b6" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="少儿频道",經典卡通台
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=802&sid=ac2eb240c81b0abf144db0d97fb1977f&exp=1792874469&sig=9cafa3ab7f6914afcf5e65c61fb8bd845a7f2bcc16be4490ba4556a35fec1a89
-#EXTINF:-1 tvg-name="經典卡通台" tvg-id="stream-915271a2-e1ee-4154-92f8-03de7dd552b6" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="少儿频道",經典卡通台
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/825.m3u8
-#EXTINF:-1 tvg-name="經典卡通台" tvg-id="stream-915271a2-e1ee-4154-92f8-03de7dd552b6" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="少儿频道",經典卡通台
-#EXTVLCOPT:http-user-agent=okhttp/3.8.1
-http://45.192.97.170:8880/play/1093.m3u8
+#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱动漫.png" group-title="少儿频道",爱动漫
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
+#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱动漫.png" group-title="少儿频道",爱动漫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱动漫.png" group-title="少儿频道",爱动漫
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8
+#EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱动漫.png" group-title="少儿频道",爱动漫
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8
 #EXTINF:-1 tvg-name="宁夏少儿" tvg-id="NX03" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/ningxia/Ningxia3.png" group-title="少儿频道",宁夏少儿
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
-#EXTINF:-1 tvg-name="动画片系列" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%A8%E7%94%BB%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="少儿频道",动画片系列
-https://huyazhibo.de5.net/?id=11352878
-#EXTINF:-1 tvg-name="动画片系列" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%A8%E7%94%BB%E7%89%87%E7%B3%BB%E5%88%97.png" group-title="少儿频道",动画片系列
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://45.192.97.170:8880/play/1611.m3u8
-#EXTINF:-1 tvg-name="爱幼教" group-title="少儿频道",爱幼教
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://itv.uat.news/TVOD/6000000006000180630/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="爱幼教" group-title="少儿频道",爱幼教
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱幼教" group-title="少儿频道",爱幼教
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱幼教" group-title="少儿频道",爱幼教
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="杭州青少" group-title="少儿频道",杭州青少
-http://www.jeremyoto.com:82/rtp/233.50.201.177:5140
-#EXTINF:-1 tvg-name="杭州青少" group-title="少儿频道",杭州青少
-http://120.55.49.231:3095/rtp/233.50.201.177:5140
-#EXTINF:-1 tvg-name="杭州青少" group-title="少儿频道",杭州青少
-http://www.flyskyman.cn:4022/rtp/233.50.201.177:5140
-#EXTINF:-1 tvg-name="神奇宝贝" tvg-logo="https://epg.112114.xyz/logo/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D.png" group-title="少儿频道",神奇宝贝
-https://huyazhibo.de5.net/?id=21241784
-#EXTINF:-1 tvg-name="北京少儿" group-title="少儿频道",北京少儿
-http://m.061899.xyz/mg/bjkk
-#EXTINF:-1 tvg-name="北京少儿" group-title="少儿频道",北京少儿
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225654/.m3u8
-#EXTINF:-1 tvg-name="江苏优漫卡通频道" group-title="少儿频道",江苏优漫卡通频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://121.29.91.239:7077/rtp/239.253.93.204:6382
-#EXTINF:-1 tvg-name="江苏优漫卡通频道" group-title="少儿频道",江苏优漫卡通频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://27.184.28.92:4022/rtp/239.254.201.203:7178
-#EXTINF:-1 tvg-name="江苏优漫卡通频道" group-title="少儿频道",江苏优漫卡通频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://14.145.187.27:4022/rtp/239.77.0.222:5146
-#EXTINF:-1 tvg-name="江苏优漫卡通频道" group-title="少儿频道",江苏优漫卡通频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://14.145.187.27:4022/rtp/239.77.1.79:5146
-#EXTINF:-1 tvg-name="云南少儿频道" group-title="少儿频道",云南少儿频道
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://119.62.24.75:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://epg.112114.xyz/logo/NewTV%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png" group-title="少儿频道",NewTV黑莓动画
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=6497762188035533951&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://epg.112114.xyz/logo/NewTV%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png" group-title="少儿频道",NewTV黑莓动画
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000021734&livemode=1&stbId=yu&mode=1&$4M
-#EXTINF:-1 tvg-name="BesTV4K动画" group-title="少儿频道",BesTV4K动画
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://www.rogerxlj.top:9998/rtp/233.18.204.171:5140
-#EXTINF:-1 tvg-name="动画轮播" group-title="少儿频道",动画轮播
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/1017.m3u8
 #EXTINF:-1 tvg-name="BRTV卡酷少儿" tvg-id="BRTV卡酷少儿" tvg-logo="https://live.fanmingming.cn/tv/卡酷少儿.png" group-title="少儿频道",BRTV卡酷少儿
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8
-#EXTINF:-1 tvg-name="哈哈炫動" group-title="少儿频道",哈哈炫動
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
-#EXTINF:-1 tvg-name="卡酷少兒" group-title="少儿频道",卡酷少兒
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" tvg-id="猫和老鼠" group-title="动画轮播",猫和老鼠
-https://live.ottiptv.cc/huya/11352879
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" tvg-id="猫和老鼠" group-title="动画轮播",猫和老鼠
-https://live.metshop.top/huya/11352879
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" tvg-id="猫和老鼠" group-title="动画轮播",猫和老鼠
-https://live.metshop.top/huya/11352879$LR•IPV4
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" tvg-id="猫和老鼠" group-title="动画轮播",猫和老鼠
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://cdn.ttvb.eu.org/huya/11352879
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" tvg-id="猫和老鼠" group-title="动画轮播",猫和老鼠
-https://live.iill.top/huya/11352879
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" tvg-id="猫和老鼠" group-title="动画轮播",猫和老鼠
-http://live.iill.top/huya.php?id=11352879
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" tvg-id="猫和老鼠" group-title="动画轮播",猫和老鼠
-http://cdn.jdshipin.com:8880/huya.php?id=11352879
-#EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" tvg-id="七龙珠" group-title="动画轮播",七龙珠
-https://live.ottiptv.cc/huya/11601966
-#EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" tvg-id="七龙珠" group-title="动画轮播",七龙珠
-https://live.metshop.top/huya/11601966
-#EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" tvg-id="七龙珠" group-title="动画轮播",七龙珠
-https://live.ottiptv.cc/huya/11601966$LR•IPV4
-#EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" tvg-id="七龙珠" group-title="动画轮播",七龙珠
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://cdn.ttvb.eu.org/huya/25650806
-#EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" tvg-id="七龙珠" group-title="动画轮播",七龙珠
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://cdn.ttvb.eu.org/huya/11601966
-#EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" tvg-id="七龙珠" group-title="动画轮播",七龙珠
-http://cdn.jdshipin.com:8880/huya.php?id=11601966
-#EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" tvg-id="七龙珠" group-title="动画轮播",七龙珠
-http://1.94.31.214:35455/huya/11601966
-#EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" tvg-id="七龙珠" group-title="动画轮播",七龙珠
-http://www.douzhicloud.site:35455/huya/11601966
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" tvg-id="中华小当家" group-title="动画轮播",中华小当家
-http://61.221.215.25:8800/hls/40/index.m3u8
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" tvg-id="中华小当家" group-title="动画轮播",中华小当家
-https://live.ottiptv.cc/huya/11342413
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" tvg-id="中华小当家" group-title="动画轮播",中华小当家
-https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" tvg-id="中华小当家" group-title="动画轮播",中华小当家
-http://cdn.jdshipin.com:8880/huya.php?id=11342413
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" tvg-id="中华小当家" group-title="动画轮播",中华小当家
-https://live.iill.top/huya/11342413
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" tvg-id="中华小当家" group-title="动画轮播",中华小当家
-http://1.94.31.214:35455/huya/11342413
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" tvg-id="中华小当家" group-title="动画轮播",中华小当家
-http://www.douzhicloud.site:35455/huya/11342413
-#EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" tvg-id="中华小当家" group-title="动画轮播",中华小当家
-https://huyazhibo.de5.net/?id=30613314
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="动画轮播",海绵宝宝
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://www.goodiptv.club/douyu/3949681
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="动画轮播",海绵宝宝
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://www.goodiptv.club/huya/11352919
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="动画轮播",海绵宝宝
-https://live.metshop.top/douyu/3949681
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="动画轮播",海绵宝宝
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://live.ottiptv.cc/huya/11352919
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="动画轮播",海绵宝宝
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://www.goodiptv.club/douyu/11922297
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="动画轮播",海绵宝宝
-http://61.133.118.228:5001/douyu/3949681
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="动画轮播",海绵宝宝
-http://1.94.31.214:35455/huya/11352919
-#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" tvg-id="蜡笔小新" group-title="动画轮播",蜡笔小新
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://www.goodiptv.club/huya/11352970
-#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" tvg-id="蜡笔小新" group-title="动画轮播",蜡笔小新
-http://103.236.77.86:35455/huya/30362138
-#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" tvg-id="蜡笔小新" group-title="动画轮播",蜡笔小新
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" group-title="动画轮播",蜡笔小新
 https://huyazhibo.de5.net/?id=11352970
-#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" tvg-id="蜡笔小新" group-title="动画轮播",蜡笔小新
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" group-title="动画轮播",蜡笔小新
 http://1.94.31.214:35455/huya/11352970
-#EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" tvg-id="蜡笔小新" group-title="动画轮播",蜡笔小新
-http://www.douzhicloud.site:35455/bilibili/30837590
-#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png" tvg-id="哆啦A梦" group-title="动画轮播",哆啦A梦
-#EXTVLCOPT:http-user-agent=okhttp
-http://tv.zimtv.cn/tv/player/api/huya.php?id=11601963
-#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png" tvg-id="哆啦A梦" group-title="动画轮播",哆啦A梦
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://live.metshop.top/huya/11601963
-#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png" tvg-id="哆啦A梦" group-title="动画轮播",哆啦A梦
-https://live.ottiptv.cc/huya/11601963
-#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png" tvg-id="哆啦A梦" group-title="动画轮播",哆啦A梦
-https://live.ottiptv.cc/huya/11601963$LR•IPV4
-#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png" tvg-id="哆啦A梦" group-title="动画轮播",哆啦A梦
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://cdn.ttvb.eu.org/huya/11601963
-#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png" tvg-id="哆啦A梦" group-title="动画轮播",哆啦A梦
-https://huyazhibo.de5.net/?id=11601963
-#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png" tvg-id="哆啦A梦" group-title="动画轮播",哆啦A梦
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://live.iill.top/huya/11601963
-#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png" tvg-id="哆啦A梦" group-title="动画轮播",哆啦A梦
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://live.iill.top/huya.php?id=11601963
-#EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/名侦探柯南.png" tvg-id="名侦探柯南" group-title="动画轮播",名侦探柯南
-https://live.ottiptv.cc/huya/30080236
-#EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/名侦探柯南.png" tvg-id="名侦探柯南" group-title="动画轮播",名侦探柯南
-https://live.ottiptv.cc/huya/30080236$LR•IPV4
-#EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/名侦探柯南.png" tvg-id="名侦探柯南" group-title="动画轮播",名侦探柯南
-https://huyazhibo.de5.net/?id=30080236
-#EXTINF:-1 tvg-name="火影忍者" tvg-id="火影忍者" tvg-logo="https://www.xn--rgv465a.top/tvlogo/火影忍者.png" group-title="动画轮播",火影忍者
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://www.goodiptv.club/huya/29465866
+#EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" group-title="动画轮播",蜡笔小新
+http://103.236.77.86:35455/huya/30362138
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" group-title="动画轮播",猫和老鼠
+https://live.ottiptv.cc/huya/11352879
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" group-title="动画轮播",猫和老鼠
+https://live.metshop.top/huya/11352879
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" group-title="动画轮播",猫和老鼠
+https://huyazhibo.de5.net/?id=11352879
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" group-title="动画轮播",猫和老鼠
+https://live.iill.top/huya/11352879
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" group-title="动画轮播",猫和老鼠
+http://live.iill.top/huya.php?id=11352879
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" group-title="动画轮播",猫和老鼠
+http://1.94.31.214:35455/huya/11352879
+#EXTINF:-1 tvg-name="七龙珠" tvg-id="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" group-title="动画轮播",七龙珠
+https://live.ottiptv.cc/huya/11601966
+#EXTINF:-1 tvg-name="七龙珠" tvg-id="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" group-title="动画轮播",七龙珠
+https://live.metshop.top/huya/11601966
+#EXTINF:-1 tvg-name="七龙珠" tvg-id="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" group-title="动画轮播",七龙珠
+https://huyazhibo.de5.net/?id=30273533
+#EXTINF:-1 tvg-name="七龙珠" tvg-id="七龙珠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七龙珠.png" group-title="动画轮播",七龙珠
+http://1.94.31.214:35455/huya/11601966
+#EXTINF:-1 tvg-name="中华小当家" tvg-id="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="动画轮播",中华小当家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="中华小当家" tvg-id="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="动画轮播",中华小当家
+https://live.ottiptv.cc/huya/11342413
+#EXTINF:-1 tvg-name="中华小当家" tvg-id="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="动画轮播",中华小当家
+https://live.metshop.top/huya/11342413
+#EXTINF:-1 tvg-name="中华小当家" tvg-id="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="动画轮播",中华小当家
+https://huyazhibo.de5.net/?id=30613314
+#EXTINF:-1 tvg-name="中华小当家" tvg-id="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="动画轮播",中华小当家
+https://live.iill.top/huya/11342413
+#EXTINF:-1 tvg-name="中华小当家" tvg-id="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="动画轮播",中华小当家
+http://1.94.31.214:35455/huya/11342413
+#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/海绵宝宝.png" group-title="动画轮播",海绵宝宝
+https://live.metshop.top/douyu/3949681
+#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/海绵宝宝.png" group-title="动画轮播",海绵宝宝
+https://huyazhibo.de5.net/?id=11352919
+#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/海绵宝宝.png" group-title="动画轮播",海绵宝宝
+http://61.133.118.228:5001/douyu/3949681
+#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/海绵宝宝.png" group-title="动画轮播",海绵宝宝
+http://1.94.31.214:35455/huya/11352919
 #EXTINF:-1 tvg-name="火影忍者" tvg-id="火影忍者" tvg-logo="https://www.xn--rgv465a.top/tvlogo/火影忍者.png" group-title="动画轮播",火影忍者
 https://huyazhibo.de5.net/?id=29465866
-#EXTINF:-1 tvg-name="火影忍者" tvg-id="火影忍者" tvg-logo="https://www.xn--rgv465a.top/tvlogo/火影忍者.png" group-title="动画轮播",火影忍者
-http://cdn.jdshipin.com:8880/huya.php?id=29465866
-#EXTINF:-1 tvg-name="火影忍者" tvg-id="火影忍者" tvg-logo="https://www.xn--rgv465a.top/tvlogo/火影忍者.png" group-title="动画轮播",火影忍者
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://live.iill.top/douyu.php?id=1997723
+#EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/名侦探柯南.png" group-title="动画轮播",名侦探柯南
+https://live.ottiptv.cc/huya/30080236
+#EXTINF:-1 tvg-name="名侦探柯南" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/名侦探柯南.png" group-title="动画轮播",名侦探柯南
+https://huyazhibo.de5.net/?id=30080236
 #EXTINF:-1 tvg-name="漫画解说" tvg-id="漫画解说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/漫画解说.png" group-title="动画轮播",漫画解说
 https://www.goodiptv.club/douyu/5907076
 #EXTINF:-1 tvg-name="漫画解说" tvg-id="漫画解说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/漫画解说.png" group-title="动画轮播",漫画解说
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://lunbo.v1.mk/yy/1382735568
-#EXTINF:-1 tvg-name="漫画解说" tvg-id="漫画解说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/漫画解说.png" group-title="动画轮播",漫画解说
 https://yylunbo.ottiptv.cc/yy/1382735568
 #EXTINF:-1 tvg-name="漫画解说" tvg-id="漫画解说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/漫画解说.png" group-title="动画轮播",漫画解说
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://live.iill.top/yy/1382735568
-#EXTINF:-1 tvg-name="漫画解说" tvg-id="漫画解说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/漫画解说.png" group-title="动画轮播",漫画解说
 http://61.133.118.228:5001/yy/1382735568
-#EXTINF:-1 tvg-name="喜羊羊与灰太狼" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/喜羊羊灰太狼.png" tvg-id="喜羊羊与灰太狼" group-title="动画轮播",喜羊羊与灰太狼
-https://live.ottiptv.cc/huya/23865080
-#EXTINF:-1 tvg-name="喜羊羊与灰太狼" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/喜羊羊灰太狼.png" tvg-id="喜羊羊与灰太狼" group-title="动画轮播",喜羊羊与灰太狼
-https://huyazhibo.de5.net/?id=23865080
-#EXTINF:-1 tvg-name="喜羊羊与灰太狼" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/喜羊羊灰太狼.png" tvg-id="喜羊羊与灰太狼" group-title="动画轮播",喜羊羊与灰太狼
-https://live.ottiptv.cc/huya/23865080$LR•IPV4
-#EXTINF:-1 tvg-name="精灵宝可梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/精灵宝可梦.png" tvg-id="精灵宝可梦" group-title="动画轮播",精灵宝可梦
-https://live.ottiptv.cc/huya/23749096
-#EXTINF:-1 tvg-name="精灵宝可梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/精灵宝可梦.png" tvg-id="精灵宝可梦" group-title="动画轮播",精灵宝可梦
-https://live.ottiptv.cc/huya/23749096$LR•IPV4
-#EXTINF:-1 tvg-name="樱桃小丸子" tvg-logo="https://epg.112114.xyz/logo/%E6%A8%B1%E6%A1%83%E5%B0%8F%E4%B8%B8%E5%AD%90.png" group-title="动画轮播",樱桃小丸子
-https://huyazhibo.de5.net/?id=11342394
-#EXTINF:-1 tvg-name="樱桃小丸子" tvg-logo="https://epg.112114.xyz/logo/%E6%A8%B1%E6%A1%83%E5%B0%8F%E4%B8%B8%E5%AD%90.png" group-title="动画轮播",樱桃小丸子
+#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png" group-title="动画轮播",哆啦A梦
+https://live.ottiptv.cc/huya/11601963
+#EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/哆啦A梦.png" group-title="动画轮播",哆啦A梦
+https://huyazhibo.de5.net/?id=11601963
+#EXTINF:-1 tvg-name="熊大熊二" group-title="动画轮播",熊大熊二
 #EXTVLCOPT:http-user-agent=okhttp/3.15
-http://120.220.76.91:2003/huya.php?id=11342394
-#EXTINF:-1 tvg-name="英雄联盟" tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.png" group-title="动画轮播",英雄联盟
-http://1.14.124.206:35455/huya/660000
-#EXTINF:-1 tvg-name="英雄联盟" tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.png" group-title="动画轮播",英雄联盟
-http://8.155.43.98:35455/huya/660000
-#EXTINF:-1 tvg-name="英雄联盟" tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.png" group-title="动画轮播",英雄联盟
-http://8.155.43.98:35455/huya/836458
-#EXTINF:-1 tvg-name="英雄联盟" tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.png" group-title="动画轮播",英雄联盟
-http://1.14.124.206:35455/huya/836458
-#EXTINF:-1 tvg-name="英雄联盟" tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.png" group-title="动画轮播",英雄联盟
-https://huyazhibo.de5.net/?id=23903196
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 #EXTINF:-1 tvg-name="倒霉特熊" group-title="动画轮播",倒霉特熊
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
@@ -974,54 +451,9 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a92
 #EXTINF:-1 tvg-name="反转星球" group-title="动画轮播",反转星球
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-#EXTINF:-1 tvg-name="熊大熊二" group-title="动画轮播",熊大熊二
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 #EXTINF:-1 tvg-name="狮子王國" group-title="动画轮播",狮子王國
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-#EXTINF:-1 tvg-name="DreamWorks 夢工廠動畫" tvg-id="DreamWorks 夢工廠動畫" tvg-logo="https://iptv.yang-1989.xyz/logo/DreamWorks%20夢工廠動畫.webp" group-title="动画轮播",DreamWorks 夢工廠動畫
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=425&sid=ac2eb240c81b0abf144db0d97fb1977f&exp=1792874469&sig=ee2f4bea1019c8cde8ce79a7b32d7fd384f51cfd00115514a0c2b69ada48fd6d
-#EXTINF:-1 tvg-name="DreamWorks 夢工廠動畫" tvg-id="DreamWorks 夢工廠動畫" tvg-logo="https://iptv.yang-1989.xyz/logo/DreamWorks%20夢工廠動畫.webp" group-title="动画轮播",DreamWorks 夢工廠動畫
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=795&sid=ac2eb240c81b0abf144db0d97fb1977f&exp=1792874469&sig=b538c769936a92ba5e48f9f97ef2922743582665472796cac612e608afe48cc9
-#EXTINF:-1 tvg-name="DreamWorks 夢工廠動畫" tvg-id="DreamWorks 夢工廠動畫" tvg-logo="https://iptv.yang-1989.xyz/logo/DreamWorks%20夢工廠動畫.webp" group-title="动画轮播",DreamWorks 夢工廠動畫
-#EXTVLCOPT:http-user-agent=okhttp/3.8.1
-http://45.192.97.170:8880/play/1089.m3u8
-#EXTINF:-1 tvg-name="全职猎人" tvg-logo="https://logo.catvod.com/全职猎人.png" group-title="动画轮播",全职猎人
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://feilong123.vip/huya.php?raw=1&id=30080254
-#EXTINF:-1 tvg-name="全职猎人" tvg-logo="https://logo.catvod.com/全职猎人.png" group-title="动画轮播",全职猎人
-https://huyazhibo.de5.net/?id=30080254
-#EXTINF:-1 tvg-name="全职高手" tvg-logo="https://logo.catvod.com/全职高手.png" group-title="动画轮播",全职高手
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://feilong123.vip/huya.php?raw=1&id=11352901
-#EXTINF:-1 tvg-name="全职高手" tvg-logo="https://logo.catvod.com/全职高手.png" group-title="动画轮播",全职高手
-https://huyazhibo.de5.net/?id=21059628
-#EXTINF:-1 tvg-name="魔法少女" tvg-logo="https://logo.catvod.com/魔法少女.png" group-title="动画轮播",魔法少女
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://feilong123.vip/huya.php?raw=1&id=21059587
-#EXTINF:-1 tvg-name="魔法少女" tvg-logo="https://logo.catvod.com/魔法少女.png" group-title="动画轮播",魔法少女
-https://huyazhibo.de5.net/?id=21059587
-#EXTINF:-1 tvg-name="我的世界" tvg-logo="https://epg.112114.xyz/logo/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C.png" group-title="动画轮播",我的世界
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://cdn-3.ttvb.eu.org/douyu/738878
-#EXTINF:-1 tvg-name="我的世界" tvg-logo="https://epg.112114.xyz/logo/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C.png" group-title="动画轮播",我的世界
-https://huyazhibo.de5.net/?id=374579
-#EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/24H国漫热播.png" group-title="动画轮播",24H国漫热播
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://www.goodiptv.club/yy/1353937086
-#EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/24H国漫热播.png" group-title="动画轮播",24H国漫热播
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://lunbo.v1.mk/yy/1353937086
-#EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/24H国漫热播.png" group-title="动画轮播",24H国漫热播
-https://lunbo.freetv.top/yy/1353937086
-#EXTINF:-1 tvg-name="熊出没" tvg-logo="https://logo.catvod.com/熊出没.png" tvg-id="熊出没" group-title="动画轮播",熊出没
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://feilong123.vip/huya.php?raw=1&id=11342438
-#EXTINF:-1 tvg-name="熊出没" tvg-logo="https://logo.catvod.com/熊出没.png" tvg-id="熊出没" group-title="动画轮播",熊出没
-https://newcntv.qcloudcdn.com/asp/hls//1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8$LR•IPV4•15『线路2』
 #EXTINF:-1 tvg-name="植物王国漫游记" group-title="动画轮播",植物王国漫游记
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/508b9a0c8be74d89a431b24114c91faa/1200.m3u8
@@ -1034,85 +466,84 @@ https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/508b9a0c8be74d89a43
 #EXTINF:-1 tvg-name="植物王国漫游记" group-title="动画轮播",植物王国漫游记
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/fa3ad43978014ff4b64b4bff8914116c/1200.m3u8
-#EXTINF:-1 tvg-name="蜡笔小新3" group-title="动画轮播",蜡笔小新3
-http://103.236.77.86:35455/huya/30065341
-#EXTINF:-1 tvg-name="小猪佩奇" group-title="动画轮播",小猪佩奇
-#EXTVLCOPT:http-user-agent=bingcha/1.1 (mianfeifenxiang)
-http://45.192.97.170:8880/play/1015.m3u8
-#EXTINF:-1 tvg-name="编辑部的故事" tvg-logo="https://logo.catvod.com/编辑部的故事.png" group-title="动画轮播",编辑部的故事
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://feilong123.vip/huya.php?raw=1&id=21059591
-#EXTINF:-1 tvg-name="编辑部的故事" tvg-logo="https://logo.catvod.com/编辑部的故事.png" group-title="动画轮播",编辑部的故事
-#EXTVLCOPT:http-user-agent=okhttp/3.8.1
-http://45.192.97.170:8880/play/1385.m3u8
+#EXTINF:-1 tvg-name="喜羊羊与灰太狼" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/喜羊羊灰太狼.png" group-title="动画轮播",喜羊羊与灰太狼
+https://live.ottiptv.cc/huya/23865080
+#EXTINF:-1 tvg-name="喜羊羊与灰太狼" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/喜羊羊灰太狼.png" group-title="动画轮播",喜羊羊与灰太狼
+https://huyazhibo.de5.net/?id=23865080
+#EXTINF:-1 tvg-name="精灵宝可梦" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/精灵宝可梦.png" group-title="动画轮播",精灵宝可梦
+https://live.ottiptv.cc/huya/23749096
 #EXTINF:-1 tvg-name="大闹天宫" group-title="动画轮播",大闹天宫
 https://newcntv.qcloudcdn.com/asp/hls//2000/0303000a/3/default/f66650f757084b3d93dc5dbe63e99edd/2000.m3u8
-#EXTINF:-1 tvg-name="熊出没•变形记" group-title="动画轮播",熊出没•变形记
-https://newcntv.qcloudcdn.com/asp/hls//2000/0303000a/3/default/1733da751de64e6e910abda889d87a26/2000.m3u8
-#EXTINF:-1 tvg-name="猪猪侠•英雄猪少年" group-title="动画轮播",猪猪侠•英雄猪少年
-https://newcntv.qcloudcdn.com/asp/hls//1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-#EXTINF:-1 tvg-name="猪猪侠•英雄猪少年" group-title="动画轮播",猪猪侠•英雄猪少年
+#EXTINF:-1 tvg-name="大闹天宫" group-title="动画轮播",大闹天宫
 #EXTVLCOPT:http-user-agent=okhttp/3.15
-https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
-#EXTINF:-1 tvg-name="大卫贝肯•倒霉特工熊" group-title="动画轮播",大卫贝肯•倒霉特工熊
-https://newcntv.qcloudcdn.com/asp/hls//1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-#EXTINF:-1 tvg-name="一人之上" tvg-logo="https://logo.catvod.com/一人之上.png" group-title="动画轮播",一人之上
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://feilong123.vip/huya.php?raw=1&id=11602065
+http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a57c9e5e1696486e97d229a3ddb13749/850.m3u8
+#EXTINF:-1 tvg-name="海贼王" tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E8%B4%BC%E7%8E%8B.png" group-title="动画轮播",海贼王
+https://huyazhibo.de5.net/?id=29982634
+#EXTINF:-1 tvg-name="宫崎骏" tvg-logo="https://epg.112114.xyz/logo/%E5%AE%AB%E5%B4%8E%E9%AA%8F.png" group-title="动画轮播",宫崎骏
+https://huyazhibo.de5.net/?id=21059614
+#EXTINF:-1 tvg-name="钢之炼金术师" tvg-logo="https://epg.112114.xyz/logo/%E9%92%A2%E4%B9%8B%E7%82%BC%E9%87%91%E6%9C%AF%E5%B8%88.png" group-title="动画轮播",钢之炼金术师
+https://huyazhibo.de5.net/?id=20985859
+#EXTINF:-1 tvg-name="瑞克与莫蒂" tvg-logo="https://epg.112114.xyz/logo/%E7%91%9E%E5%85%8B%E4%B8%8E%E8%8E%AB%E8%92%82.png" group-title="动画轮播",瑞克与莫蒂
+https://huyazhibo.de5.net/?id=29982655
+#EXTINF:-1 tvg-name="成龙历险记" tvg-logo="https://epg.112114.xyz/logo/%E6%88%90%E9%BE%99%E5%8E%86%E9%99%A9%E8%AE%B0.png" group-title="动画轮播",成龙历险记
+https://huyazhibo.de5.net/?id=11352946
+#EXTINF:-1 tvg-name="樱桃小丸子" tvg-logo="https://epg.112114.xyz/logo/%E6%A8%B1%E6%A1%83%E5%B0%8F%E4%B8%B8%E5%AD%90.png" group-title="动画轮播",樱桃小丸子
+https://huyazhibo.de5.net/?id=11342394
+#EXTINF:-1 tvg-name="全职高手" tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E9%AB%98%E6%89%8B.png" group-title="动画轮播",全职高手
+https://huyazhibo.de5.net/?id=21059628
+#EXTINF:-1 tvg-name="魔法少女" tvg-logo="https://epg.112114.xyz/logo/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3.png" group-title="动画轮播",魔法少女
+https://huyazhibo.de5.net/?id=21059587
+#EXTINF:-1 tvg-name="全职猎人" tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E7%8C%8E%E4%BA%BA.png" group-title="动画轮播",全职猎人
+https://huyazhibo.de5.net/?id=30080254
+#EXTINF:-1 tvg-name="四驱兄弟" tvg-logo="https://epg.112114.xyz/logo/%E5%9B%9B%E9%A9%B1%E5%85%84%E5%BC%9F.png" group-title="动画轮播",四驱兄弟
+https://huyazhibo.de5.net/?id=11352922
+#EXTINF:-1 tvg-name="玩具总动员" tvg-logo="https://epg.112114.xyz/logo/%E7%8E%A9%E5%85%B7%E6%80%BB%E5%8A%A8%E5%91%98.png" group-title="动画轮播",玩具总动员
+https://huyazhibo.de5.net/?id=30080256
+#EXTINF:-1 tvg-name="通灵王" tvg-logo="https://epg.112114.xyz/logo/%E9%80%9A%E7%81%B5%E7%8E%8B.png" group-title="动画轮播",通灵王
+https://huyazhibo.de5.net/?id=20969112
+#EXTINF:-1 tvg-name="游戏王" tvg-logo="https://epg.112114.xyz/logo/%E6%B8%B8%E6%88%8F%E7%8E%8B.png" group-title="动画轮播",游戏王
+https://huyazhibo.de5.net/?id=20985856
+#EXTINF:-1 tvg-name="男子高中生的日常" tvg-logo="https://epg.112114.xyz/logo/%E7%94%B7%E5%AD%90%E9%AB%98%E4%B8%AD%E7%94%9F%E7%9A%84%E6%97%A5%E5%B8%B8.png" group-title="动画轮播",男子高中生的日常
+https://huyazhibo.de5.net/?id=20985858
 #EXTINF:-1 tvg-name="元气少女缘结神" tvg-logo="https://epg.112114.xyz/logo/%E5%85%83%E6%B0%94%E5%B0%91%E5%A5%B3%E7%BC%98%E7%BB%93%E7%A5%9E.png" group-title="动画轮播",元气少女缘结神
 https://huyazhibo.de5.net/?id=11352967
 #EXTINF:-1 tvg-name="全职法师" tvg-logo="https://epg.112114.xyz/logo/%E5%85%A8%E8%81%8C%E6%B3%95%E5%B8%88.png" group-title="动画轮播",全职法师
 https://huyazhibo.de5.net/?id=26355772
-#EXTINF:-1 tvg-name="反叛的鲁路修" tvg-logo="https://epg.112114.xyz/logo/%E5%8F%8D%E5%8F%9B%E7%9A%84%E9%B2%81%E8%B7%AF%E4%BF%AE.png" group-title="动画轮播",反叛的鲁路修
-https://huyazhibo.de5.net/?id=20969113
-#EXTINF:-1 tvg-name="咒术回战" tvg-logo="https://epg.112114.xyz/logo/%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98.png" group-title="动画轮播",咒术回战
-https://huyazhibo.de5.net/?id=21059561
-#EXTINF:-1 tvg-name="哪吒传奇" tvg-logo="https://epg.112114.xyz/logo/%E5%93%AA%E5%90%92%E4%BC%A0%E5%A5%87.png" group-title="动画轮播",哪吒传奇
-https://huyazhibo.de5.net/?id=26355782
-#EXTINF:-1 tvg-name="四驱兄弟" tvg-logo="https://epg.112114.xyz/logo/%E5%9B%9B%E9%A9%B1%E5%85%84%E5%BC%9F.png" group-title="动画轮播",四驱兄弟
-https://huyazhibo.de5.net/?id=11352922
-#EXTINF:-1 tvg-name="大头儿子小头爸爸" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A7%E5%A4%B4%E5%84%BF%E5%AD%90%E5%B0%8F%E5%A4%B4%E7%88%B8%E7%88%B8.png" group-title="动画轮播",大头儿子小头爸爸
-https://huyazhibo.de5.net/?id=20969114
-#EXTINF:-1 tvg-name="宫崎骏" tvg-logo="https://epg.112114.xyz/logo/%E5%AE%AB%E5%B4%8E%E9%AA%8F.png" group-title="动画轮播",宫崎骏
-https://huyazhibo.de5.net/?id=21059614
 #EXTINF:-1 tvg-name="尸兄" tvg-logo="https://epg.112114.xyz/logo/%E5%B0%B8%E5%85%84.png" group-title="动画轮播",尸兄
 https://huyazhibo.de5.net/?id=26355846
-#EXTINF:-1 tvg-name="成龙历险记" tvg-logo="https://epg.112114.xyz/logo/%E6%88%90%E9%BE%99%E5%8E%86%E9%99%A9%E8%AE%B0.png" group-title="动画轮播",成龙历险记
-https://huyazhibo.de5.net/?id=11352946
-#EXTINF:-1 tvg-name="新世纪福音战士" tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB.png" group-title="动画轮播",新世纪福音战士
-https://huyazhibo.de5.net/?id=20985862
-#EXTINF:-1 tvg-name="海贼王" tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E8%B4%BC%E7%8E%8B.png" group-title="动画轮播",海贼王
-https://huyazhibo.de5.net/?id=29982634
-#EXTINF:-1 tvg-name="游戏王" tvg-logo="https://epg.112114.xyz/logo/%E6%B8%B8%E6%88%8F%E7%8E%8B.png" group-title="动画轮播",游戏王
-https://huyazhibo.de5.net/?id=20985856
-#EXTINF:-1 tvg-name="玩具总动员" tvg-logo="https://epg.112114.xyz/logo/%E7%8E%A9%E5%85%B7%E6%80%BB%E5%8A%A8%E5%91%98.png" group-title="动画轮播",玩具总动员
-https://huyazhibo.de5.net/?id=30080256
-#EXTINF:-1 tvg-name="瑞克与莫蒂" tvg-logo="https://epg.112114.xyz/logo/%E7%91%9E%E5%85%8B%E4%B8%8E%E8%8E%AB%E8%92%82.png" group-title="动画轮播",瑞克与莫蒂
-https://huyazhibo.de5.net/?id=29982655
-#EXTINF:-1 tvg-name="男子高中生的日常" tvg-logo="https://epg.112114.xyz/logo/%E7%94%B7%E5%AD%90%E9%AB%98%E4%B8%AD%E7%94%9F%E7%9A%84%E6%97%A5%E5%B8%B8.png" group-title="动画轮播",男子高中生的日常
-https://huyazhibo.de5.net/?id=20985858
+#EXTINF:-1 tvg-name="大头儿子小头爸爸" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A7%E5%A4%B4%E5%84%BF%E5%AD%90%E5%B0%8F%E5%A4%B4%E7%88%B8%E7%88%B8.png" group-title="动画轮播",大头儿子小头爸爸
+https://huyazhibo.de5.net/?id=20969114
+#EXTINF:-1 tvg-name="哪吒传奇" tvg-logo="https://epg.112114.xyz/logo/%E5%93%AA%E5%90%92%E4%BC%A0%E5%A5%87.png" group-title="动画轮播",哪吒传奇
+https://huyazhibo.de5.net/?id=26355782
+#EXTINF:-1 tvg-name="龙族" tvg-logo="https://epg.112114.xyz/logo/%E9%BE%99%E6%97%8F.png" group-title="动画轮播",龙族
+https://huyazhibo.de5.net/?id=23865086
+#EXTINF:-1 tvg-name="间谍过家家" tvg-logo="https://epg.112114.xyz/logo/%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6.png" group-title="动画轮播",间谍过家家
+https://huyazhibo.de5.net/?id=30080149
 #EXTINF:-1 tvg-name="罗小黑战记" tvg-logo="https://epg.112114.xyz/logo/%E7%BD%97%E5%B0%8F%E9%BB%91%E6%88%98%E8%AE%B0.png" group-title="动画轮播",罗小黑战记
 https://huyazhibo.de5.net/?id=24314159
 #EXTINF:-1 tvg-name="葫芦兄弟" tvg-logo="https://epg.112114.xyz/logo/%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F.png" group-title="动画轮播",葫芦兄弟
 https://huyazhibo.de5.net/?id=20985834
-#EXTINF:-1 tvg-name="虫师" tvg-logo="https://epg.112114.xyz/logo/%E8%99%AB%E5%B8%88.png" group-title="动画轮播",虫师
-https://huyazhibo.de5.net/?id=21241791
+#EXTINF:-1 tvg-name="咒术回战" tvg-logo="https://epg.112114.xyz/logo/%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98.png" group-title="动画轮播",咒术回战
+https://huyazhibo.de5.net/?id=21059561
+#EXTINF:-1 tvg-name="反叛的鲁路修" tvg-logo="https://epg.112114.xyz/logo/%E5%8F%8D%E5%8F%9B%E7%9A%84%E9%B2%81%E8%B7%AF%E4%BF%AE.png" group-title="动画轮播",反叛的鲁路修
+https://huyazhibo.de5.net/?id=20969113
 #EXTINF:-1 tvg-name="超自然武装当哒当" tvg-logo="https://epg.112114.xyz/logo/%E8%B6%85%E8%87%AA%E7%84%B6%E6%AD%A6%E8%A3%85%E5%BD%93%E5%93%92%E5%BD%93.png" group-title="动画轮播",超自然武装当哒当
 https://huyazhibo.de5.net/?id=20985850
+#EXTINF:-1 tvg-name="新世纪福音战士" tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%AB.png" group-title="动画轮播",新世纪福音战士
+https://huyazhibo.de5.net/?id=20985862
 #EXTINF:-1 tvg-name="轻羽飞扬" tvg-logo="https://epg.112114.xyz/logo/%E8%BD%BB%E7%BE%BD%E9%A3%9E%E6%89%AC.png" group-title="动画轮播",轻羽飞扬
 https://huyazhibo.de5.net/?id=30805998
-#EXTINF:-1 tvg-name="通灵王" tvg-logo="https://epg.112114.xyz/logo/%E9%80%9A%E7%81%B5%E7%8E%8B.png" group-title="动画轮播",通灵王
-https://huyazhibo.de5.net/?id=20969112
-#EXTINF:-1 tvg-name="钢之炼金术师" tvg-logo="https://epg.112114.xyz/logo/%E9%92%A2%E4%B9%8B%E7%82%BC%E9%87%91%E6%9C%AF%E5%B8%88.png" group-title="动画轮播",钢之炼金术师
-https://huyazhibo.de5.net/?id=20985859
-#EXTINF:-1 tvg-name="间谍过家家" tvg-logo="https://epg.112114.xyz/logo/%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6.png" group-title="动画轮播",间谍过家家
-https://huyazhibo.de5.net/?id=30080149
+#EXTINF:-1 tvg-name="虫师" tvg-logo="https://epg.112114.xyz/logo/%E8%99%AB%E5%B8%88.png" group-title="动画轮播",虫师
+https://huyazhibo.de5.net/?id=21241791
 #EXTINF:-1 tvg-name="魔神英雄传" tvg-logo="https://epg.112114.xyz/logo/%E9%AD%94%E7%A5%9E%E8%8B%B1%E9%9B%84%E4%BC%A0.png" group-title="动画轮播",魔神英雄传
 https://huyazhibo.de5.net/?id=21241839
-#EXTINF:-1 tvg-name="龙族" tvg-logo="https://epg.112114.xyz/logo/%E9%BE%99%E6%97%8F.png" group-title="动画轮播",龙族
-https://huyazhibo.de5.net/?id=23865086
-#EXTINF:-1 tvg-name="迪迦奥特曼" tvg-logo="https://logo.catvod.com/迪迦奥特曼.png" group-title="动画轮播",迪迦奥特曼
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://feilong123.vip/huya.php?raw=1&id=30080215
-#EXTINF:-1 tvg-name="迪迦奥特曼" tvg-logo="https://logo.catvod.com/迪迦奥特曼.png" group-title="动画轮播",迪迦奥特曼
-https://huyazhibo.de5.net/?id=11601966
+#EXTINF:-1 tvg-name="英雄联盟" tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.png" group-title="动画轮播",英雄联盟
+http://8.155.43.98:35455/huya/836458
+#EXTINF:-1 tvg-name="英雄联盟" tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.png" group-title="动画轮播",英雄联盟
+http://1.14.124.206:35455/huya/836458
+#EXTINF:-1 tvg-name="英雄联盟" tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.png" group-title="动画轮播",英雄联盟
+http://8.155.43.98:35455/huya/660000
+#EXTINF:-1 tvg-name="英雄联盟" tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.png" group-title="动画轮播",英雄联盟
+http://1.14.124.206:35455/huya/660000
+#EXTINF:-1 tvg-name="英雄联盟" tvg-logo="https://epg.112114.xyz/logo/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F.png" group-title="动画轮播",英雄联盟
+https://huyazhibo.de5.net/?id=23903196
