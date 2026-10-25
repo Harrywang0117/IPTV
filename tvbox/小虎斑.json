@@ -1,5 +1,5 @@
 {
-    "spider": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;0ac3913718d1e3f7fbfbc6a518d0ee8e",
+    "spider": "https://gitee.com/xhuban/getjar/raw/master/jar/custom_spider_cat.jar;md5;bfd7b3d5a6b1381abd7604b38d930f8c",
     "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
     "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
     "lives": [
@@ -55,7 +55,7 @@
         },
         {
             "key": "pansou",
-            "api": "http://tvbox.zling.vip/wanpan.php?type=quark|uc|baidu|tianyi|xunlei|123",
+            "api": "http://so.yinpai.xyz/wanpan.php?type=quark|uc|baidu|tianyi|xunlei|123",
             "name": "盘搜|集合",
             "type": 4
         },
@@ -675,7 +675,7 @@
         {
             "name": "虎斑XM",
             "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
+            "url": "https://wpsseo.cn/player/?id=",
             "ext": {
                 "header": {
                     "Accept": "*
