@@ -13,32 +13,29 @@ http://45.192.97.170:8880/play/581.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
 http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
 #EXTINF:-1 tvg-name="江苏综艺频道" tvg-id="江苏综艺" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/513/202104022039_5100186420_H32_1080.webp" group-title="综艺晚会",江苏综艺频道
-http://115.190.247.176:1111/626065193
+http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jszongyi/600/index.m3u8?msisdn=ba8f10966ce00f7b6af98e2787fe2c64&mdspid=&spid=699067&netType=0&sid=5500260513&pid=2028597139&timestamp=20261026025611&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626065193&ParentNodeID=-99&assertID=5500260513&client_ip=39.103.188.159&SecurityKey=20261026025611&promotionId=&mvid=5100186420&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=aa35a9a60df5decf41d9eb95351feb89&ddCalcu=9a8avb3ae5dfaa195a36509dbfe59dde1c4f&sv=10004&ct=android
 #EXTINF:-1 tvg-name="最强综艺趴" tvg-id="最强综艺趴" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/654/202204010047_5101034202_H32_1080.webp" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="综艺晚会",最强综艺趴
 http://139.224.44.53:1234/629942228
-#EXTINF:-1 tvg-name="最强综艺趴" tvg-id="最强综艺趴" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/654/202204010047_5101034202_H32_1080.webp" group-title="综艺晚会",最强综艺趴
-http://47.104.178.59:3566/629942228
 #EXTINF:-1 tvg-name="最强综艺趴" tvg-id="最强综艺趴" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/654/202204010047_5101034202_H32_1080.webp" group-title="综艺晚会",最强综艺趴
 http://47.100.80.251:50001/629942228
 #EXTINF:-1 tvg-name="最强综艺趴" tvg-id="最强综艺趴" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/654/202204010047_5101034202_H32_1080.webp" group-title="综艺晚会",最强综艺趴
 http://103.236.77.86:29824/629942228
+#EXTINF:-1 tvg-name="最强综艺趴" tvg-id="最强综艺趴" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/654/202204010047_5101034202_H32_1080.webp" group-title="综艺晚会",最强综艺趴
+http://47.104.178.59:3566/629942228
 #EXTINF:-1 tvg-name="最强综艺趴" tvg-id="最强综艺趴" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/654/202204010047_5101034202_H32_1080.webp" group-title="综艺晚会",最强综艺趴
 http://mg.cttv.vip/629942228
 #EXTINF:-1 tvg-name="最强综艺趴" tvg-id="最强综艺趴" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/654/202204010047_5101034202_H32_1080.webp" group-title="综艺晚会",最强综艺趴
 #EXTVLCOPT:http-user-agent=okhttp
 http://45.192.97.170:8880/play/65.m3u8
 #EXTINF:-1 tvg-name="最强综艺趴" tvg-id="最强综艺趴" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/654/202204010047_5101034202_H32_1080.webp" group-title="综艺晚会",最强综艺趴
-http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/zuiqiangzongyi/600/index.m3u8?msisdn=202610250003021513d7a0c6044d4b814884cd241b5e8c&mdspid=&spid=699004&netType=0&sid=5500315654&pid=2028597139&timestamp=20261025000302&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942228&ParentNodeID=-99&assertID=5500315654&client_ip=171.8.79.254&SecurityKey=20261025000302&promotionId=&mvid=5101034202&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5dfcc81431259cc39324d6f095b48a64
-#EXTINF:-1 tvg-name="射雕英雄传" tvg-id="射雕英雄传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/射雕英雄传.png" group-title="综艺晚会",射雕英雄传
-https://live.ottiptv.cc/huya/23824164
-#EXTINF:-1 tvg-name="射雕英雄传" tvg-id="射雕英雄传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/射雕英雄传.png" group-title="综艺晚会",射雕英雄传
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://live.metshop.top/huya/23728674
-#EXTINF:-1 tvg-name="射雕英雄传" tvg-id="射雕英雄传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/射雕英雄传.png" group-title="综艺晚会",射雕英雄传
-https://live.metshop.top/huya/23824164
+http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/zuiqiangzongyi/600/index.m3u8?msisdn=202610260003011653b7a728794e8fb4882a57b76b5439&mdspid=&spid=699004&netType=0&sid=5500315654&pid=2028597139&timestamp=20261026000301&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942228&ParentNodeID=-99&assertID=5500315654&client_ip=171.8.79.254&SecurityKey=20261026000301&promotionId=&mvid=5101034202&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2356bb7389fae96c269d9899ee7ea244
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-id="射雕英雄传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/射雕英雄传.png" group-title="综艺晚会",射雕英雄传
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 https://www.goodiptv.club/huya/23728674
+#EXTINF:-1 tvg-name="射雕英雄传" tvg-id="射雕英雄传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/射雕英雄传.png" group-title="综艺晚会",射雕英雄传
+https://live.ottiptv.cc/huya/23824164
+#EXTINF:-1 tvg-name="射雕英雄传" tvg-id="射雕英雄传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/射雕英雄传.png" group-title="综艺晚会",射雕英雄传
+https://live.metshop.top/huya/23824164
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-id="射雕英雄传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/射雕英雄传.png" group-title="综艺晚会",射雕英雄传
 #EXTVLCOPT:http-user-agent=okhttp
 http://tv.zimtv.cn/tv/player/api/huya.php?id=23824164
@@ -46,48 +43,51 @@ http://tv.zimtv.cn/tv/player/api/huya.php?id=23824164
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 https://live.ottiptv.cc/yy/1354210357
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-id="射雕英雄传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/射雕英雄传.png" group-title="综艺晚会",射雕英雄传
+#EXTVLCOPT:http-user-agent=okhttp/3.15
+https://live.metshop.top/huya/23728674
+#EXTINF:-1 tvg-name="射雕英雄传" tvg-id="射雕英雄传" tvg-logo="https://www.xn--rgv465a.top/tvlogo/射雕英雄传.png" group-title="综艺晚会",射雕英雄传
 https://vip.ffzy-play7.com/20221227/9986_8397df12/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="山东综艺" tvg-id="山东综艺" tvg-logo="https://i.imgur.com/a2XK8N9.png" group-title="综艺晚会",山东综艺
 http://58.57.40.22:9901/tsfile/live/1021_1.m3u8
 #EXTINF:-1 tvg-name="山东综艺" tvg-id="山东综艺" tvg-logo="https://i.imgur.com/a2XK8N9.png" group-title="综艺晚会",山东综艺
-http://livealone302.iqilu.com/iqilu/zypd.m3u8
-#EXTINF:-1 tvg-name="山东综艺" tvg-id="山东综艺" tvg-logo="https://i.imgur.com/a2XK8N9.png" group-title="综艺晚会",山东综艺
 http://223.78.65.165:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东综艺" tvg-id="山东综艺" tvg-logo="https://i.imgur.com/a2XK8N9.png" group-title="综艺晚会",山东综艺
+http://livealone302.iqilu.com/iqilu/zypd.m3u8
 #EXTINF:-1 tvg-name="山东综艺" tvg-id="山东综艺" tvg-logo="https://i.imgur.com/a2XK8N9.png" group-title="综艺晚会",山东综艺
 http://123.129.70.178:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-name="山东综艺" tvg-id="山东综艺" tvg-logo="https://i.imgur.com/a2XK8N9.png" group-title="综艺晚会",山东综艺
 http://223.78.65.165:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4
-#EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" tvg-id="陀枪师姐" group-title="综艺晚会",陀枪师姐
-https://live.metshop.top/huya/29465857
 #EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" tvg-id="陀枪师姐" group-title="综艺晚会",陀枪师姐
 https://live.metshop.top/huya/29465857$LR•IPV4•2『线路2』
 #EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" tvg-id="陀枪师姐" group-title="综艺晚会",陀枪师姐
 #EXTVLCOPT:http-user-agent=okhttp
 http://tv.zimtv.cn/tv/player/api/huya.php?id=23860039
 #EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" tvg-id="陀枪师姐" group-title="综艺晚会",陀枪师姐
-http://1.14.124.206:35455/huya/29465857$LR•IPV4•2『线路1』
-#EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" tvg-id="陀枪师姐" group-title="综艺晚会",陀枪师姐
 #EXTVLCOPT:http-user-agent=okhttp
 http://tv.zimtv.cn/tv/player/api/huya.php?id=29465857
 #EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" tvg-id="陀枪师姐" group-title="综艺晚会",陀枪师姐
+http://1.14.124.206:35455/huya/29465857$LR•IPV4•2『线路1』
+#EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" tvg-id="陀枪师姐" group-title="综艺晚会",陀枪师姐
 http://1.14.124.206:35455/huya/29465857
 #EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" tvg-id="陀枪师姐" group-title="综艺晚会",陀枪师姐
+https://live.metshop.top/huya/29465857
+#EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" tvg-id="陀枪师姐" group-title="综艺晚会",陀枪师姐
 https://huyazhibo.de5.net/?id=29465857
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-id="笑傲江湖" tvg-logo="https://www.xn--rgv465a.top/tvlogo/笑傲江湖.png" group-title="综艺晚会",笑傲江湖
+http://live.ottiptv.cc/huya/26355790
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-id="笑傲江湖" tvg-logo="https://www.xn--rgv465a.top/tvlogo/笑傲江湖.png" group-title="综艺晚会",笑傲江湖
 #EXTVLCOPT:http-user-agent=okhttp
 http://tv.zimtv.cn/tv/player/api/huya.php?id=26355790
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-id="笑傲江湖" tvg-logo="https://www.xn--rgv465a.top/tvlogo/笑傲江湖.png" group-title="综艺晚会",笑傲江湖
-http://live.ottiptv.cc/huya/26355790
-#EXTINF:-1 tvg-name="笑傲江湖" tvg-id="笑傲江湖" tvg-logo="https://www.xn--rgv465a.top/tvlogo/笑傲江湖.png" group-title="综艺晚会",笑傲江湖
-https://live.metshop.top/huya/26355790
+https://live.metshop.top/huya/23865142
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-id="笑傲江湖" tvg-logo="https://www.xn--rgv465a.top/tvlogo/笑傲江湖.png" group-title="综艺晚会",笑傲江湖
 https://live.ottiptv.cc/huya/26355790
-#EXTINF:-1 tvg-name="笑傲江湖" tvg-id="笑傲江湖" tvg-logo="https://www.xn--rgv465a.top/tvlogo/笑傲江湖.png" group-title="综艺晚会",笑傲江湖
-https://live.metshop.top/huya/23865142
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-id="笑傲江湖" tvg-logo="https://www.xn--rgv465a.top/tvlogo/笑傲江湖.png" group-title="综艺晚会",笑傲江湖
 http://222.186.39.21:35466/huya/26355790
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-id="笑傲江湖" tvg-logo="https://www.xn--rgv465a.top/tvlogo/笑傲江湖.png" group-title="综艺晚会",笑傲江湖
 http://8.155.43.98:35455/huya/26355790
+#EXTINF:-1 tvg-name="笑傲江湖" tvg-id="笑傲江湖" tvg-logo="https://www.xn--rgv465a.top/tvlogo/笑傲江湖.png" group-title="综艺晚会",笑傲江湖
+https://live.metshop.top/huya/26355790
 #EXTINF:-1 tvg-name="笑傲江湖" tvg-id="笑傲江湖" tvg-logo="https://www.xn--rgv465a.top/tvlogo/笑傲江湖.png" group-title="综艺晚会",笑傲江湖
 https://live.iill.top/huya/23865142
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="综艺晚会",鹿鼎记
@@ -97,17 +97,17 @@ https://live.ottiptv.cc/yy/28265277
 http://tv.zimtv.cn/tv/player/api/huya.php?id=23865080
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="综艺晚会",鹿鼎记
 #EXTVLCOPT:http-user-agent=okhttp/3.15
-https://live.metshop.top/huya/23865080
+https://www.goodiptv.club/yy/1456829119
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="综艺晚会",鹿鼎记
-http://live.ottiptv.cc/huya/23650774
+#EXTVLCOPT:http-user-agent=okhttp/3.15
+https://live.metshop.top/huya/23865080
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="综艺晚会",鹿鼎记
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 https://www.goodiptv.club/huya/23865080
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="综艺晚会",鹿鼎记
 http://222.186.39.21:35466/huya/23650774
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="综艺晚会",鹿鼎记
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-https://www.goodiptv.club/yy/1456829119
+http://live.ottiptv.cc/huya/23650774
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="综艺晚会",鹿鼎记
 https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
 #EXTINF:-1 tvg-name="鹿鼎记" tvg-id="鹿鼎记" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/鹿鼎记.png" group-title="综艺晚会",鹿鼎记
@@ -127,12 +127,12 @@ http://gslbserv.itv.cmvideo.cn:80/6399725674632152632/1.m3u8?channel-id=ystenliv
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
 #EXTINF:-1 tvg-name="庆余年" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/庆余年.png" tvg-id="庆余年" group-title="综艺晚会",庆余年
-https://live.ottiptv.cc/huya/11352960
+https://live.ottiptv.cc/huya/11352960$LR•IPV4•3『线路1』
 #EXTINF:-1 tvg-name="庆余年" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/庆余年.png" tvg-id="庆余年" group-title="综艺晚会",庆余年
 #EXTVLCOPT:http-user-agent=okhttp
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11352960
 #EXTINF:-1 tvg-name="庆余年" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/庆余年.png" tvg-id="庆余年" group-title="综艺晚会",庆余年
-https://live.ottiptv.cc/huya/11352960$LR•IPV4•3『线路1』
+https://live.ottiptv.cc/huya/11352960
 #EXTINF:-1 tvg-name="庆余年" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/庆余年.png" tvg-id="庆余年" group-title="综艺晚会",庆余年
 http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
 #EXTINF:-1 tvg-name="庆余年" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/庆余年.png" tvg-id="庆余年" group-title="综艺晚会",庆余年
@@ -162,10 +162,10 @@ https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="大时代" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" tvg-id="大时代" group-title="综艺晚会",大时代
 https://live.metshop.top/huya/23865161$LR•IPV4
 #EXTINF:-1 tvg-name="大时代" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" tvg-id="大时代" group-title="综艺晚会",大时代
-https://live.metshop.top/huya/23865161
-#EXTINF:-1 tvg-name="大时代" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" tvg-id="大时代" group-title="综艺晚会",大时代
 #EXTVLCOPT:http-user-agent=okhttp
 http://tv.zimtv.cn/tv/player/api/huya.php?id=23865161
+#EXTINF:-1 tvg-name="大时代" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" tvg-id="大时代" group-title="综艺晚会",大时代
+https://live.metshop.top/huya/23865161
 #EXTINF:-1 tvg-name="春晚2023" tvg-logo="http://123.57.58.70:5678/data/icon/春晚.png" tvg-id="春晚2023" group-title="综艺晚会",春晚2023
 https://cdn14.yzzy-online.com/20230121/4281_fdd23fb8/index.m3u8
 #EXTINF:-1 tvg-name="春晚2023" tvg-logo="http://123.57.58.70:5678/data/icon/春晚.png" tvg-id="春晚2023" group-title="综艺晚会",春晚2023
@@ -190,21 +190,6 @@ https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
 https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
 #EXTINF:-1 tvg-name="春晚2016" tvg-logo="http://123.57.58.70:5678/data/icon/春晚.png" group-title="综艺晚会",春晚2016
 https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/index.m3u8
-#EXTINF:-1 tvg-name="爱综艺" group-title="综艺晚会",爱综艺
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.77.1.78:5146
-#EXTINF:-1 tvg-name="爱综艺" group-title="综艺晚会",爱综艺
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.77.0.107:5146
-#EXTINF:-1 tvg-name="爱综艺" group-title="综艺晚会",爱综艺
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.77.1.78:5146
-#EXTINF:-1 tvg-name="爱综艺" group-title="综艺晚会",爱综艺
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.77.0.107:5146
-#EXTINF:-1 tvg-name="爱综艺" group-title="综艺晚会",爱综艺
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.220.140:5140
 #EXTINF:-1 tvg-name="春晚1990" tvg-logo="http://123.57.58.70:5678/data/icon/春晚.png" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="综艺晚会",春晚1990
 https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
 #EXTINF:-1 tvg-name="广东综艺(4k)" group-title="综艺晚会",广东综艺(4k)
@@ -214,12 +199,21 @@ http://yanshifen.top:8889/rtp/239.77.0.244:5146
 http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="广东综艺(4k)" group-title="综艺晚会",广东综艺(4k)
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.77.0.245:5146
+http://yanshifen.top:8889/rtp/239.77.0.245:5146
 #EXTINF:-1 tvg-name="广东综艺(4k)" group-title="综艺晚会",广东综艺(4k)
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
 http://www.kem.ink:8188/rtp/239.77.0.244:5146
 #EXTINF:-1 tvg-name="綜藝大贏家" group-title="综艺晚会",綜藝大贏家
 http://iptv.4666888.xyz/iptv2A.php?id=65
+#EXTINF:-1 tvg-name="爱综艺" group-title="综艺晚会",爱综艺
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+http://www.kem.ink:8188/rtp/239.77.1.78:5146
+#EXTINF:-1 tvg-name="爱综艺" group-title="综艺晚会",爱综艺
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+http://yanshifen.top:8889/rtp/239.77.0.107:5146
+#EXTINF:-1 tvg-name="爱综艺" group-title="综艺晚会",爱综艺
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+http://www.kem.ink:8188/rtp/239.77.0.107:5146
 #EXTINF:-1 tvg-name="热门综艺" group-title="综艺晚会",热门综艺
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 http://ott.mobaibox.com/PLTV/3/224/3221228591/index.m3u8
@@ -227,25 +221,19 @@ http://ott.mobaibox.com/PLTV/3/224/3221228591/index.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/3.8.1
 http://45.192.97.170:8880/play/951.m3u8
 #EXTINF:-1 tvg-name="IPTV相声小品" group-title="相声小品",IPTV相声小品
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+http://yanshifen.top:8889/rtp/239.77.0.100:5146
+#EXTINF:-1 tvg-name="IPTV相声小品" group-title="相声小品",IPTV相声小品
 http://183.237.95.108:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="IPTV相声小品" group-title="相声小品",IPTV相声小品
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.77.1.84:5146
-#EXTINF:-1 tvg-name="IPTV相声小品" group-title="相声小品",IPTV相声小品
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.77.1.84:5146
-#EXTINF:-1 tvg-name="IPTV相声小品" group-title="相声小品",IPTV相声小品
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.77.0.100:5146
+http://www.kem.ink:8188/rtp/239.77.0.100:5146
 #EXTINF:-1 tvg-name="IPTV相声小品" group-title="相声小品",IPTV相声小品
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 http://ddns.cyruslee.top:8888/rtp/239.77.1.84:5146
 #EXTINF:-1 tvg-name="IPTV相声小品" group-title="相声小品",IPTV相声小品
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.220.146:5140
-#EXTINF:-1 tvg-name="IPTV相声小品" group-title="相声小品",IPTV相声小品
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.77.0.100:5146
+http://www.kem.ink:8188/rtp/239.77.1.84:5146
 #EXTINF:-1 tvg-name="赵本山" group-title="相声小品",赵本山
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 https://www.goodiptv.club/douyu/9817716
@@ -267,14 +255,17 @@ https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c8e2e53c77ua6v88g
 #EXTINF:-1 tvg-name="钟点工" tvg-id="钟点工" group-title="相声小品",钟点工
 https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c8e2e53c77ua6v88gk9g&ratio=720p&line=0
 #EXTINF:-1 tvg-name="相声小品" group-title="相声小品",相声小品
-http://120.196.235.42:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="相声小品" group-title="相声小品",相声小品
 #EXTVLCOPT:http-user-agent=okhttp
 http://120.238.84.45:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="相声小品" group-title="相声小品",相声小品
+http://120.196.235.42:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="小草" tvg-id="小草" group-title="相声小品",小草
 https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200f580000bqvq5p2kgg1hr4fgtkng&ratio=720p&line=0
 #EXTINF:-1 tvg-name="小草" tvg-id="小草" group-title="相声小品",小草
 https://i.uik.cc/view.php/0bb3de0276d838610d458fd3379b33a0.mp4$LR•IPV4
+#EXTINF:-1 tvg-name="笑声传奇" group-title="相声小品",笑声传奇
+#EXTVLCOPT:http-user-agent=okhttp/3.8.1
+http://45.192.97.170:8880/play/1361.m3u8
 #EXTINF:-1 tvg-name="笑声传奇" group-title="相声小品",笑声传奇
 http://maomao.kandiantv.cn/yy.php?id=1382736880
 #EXTINF:-1 tvg-name="晶晶小品" group-title="相声小品",晶晶小品
@@ -330,9 +321,9 @@ https://live.metshop.top/huya/11352947
 #EXTINF:-1 tvg-name="小品3" group-title="相声小品",小品3
 http://43.138.170.29:35455/huya/11352947
 #EXTINF:-1 tvg-name="功夫" tvg-id="功夫" group-title="相声小品",功夫
-https://live.metshop.top/huya/11352941$LR•IPV4•6『线路2』
+https://live.metshop.top/huya/11352941$LR•IPV4•6『线路1』
 #EXTINF:-1 tvg-name="功夫" tvg-id="功夫" group-title="相声小品",功夫
-http://live.metshop.top/huya/11352941?cdn=alicdn$LR•IPV4•6『线路3』
+http://live.metshop.top/huya/11352941?cdn=alicdn$LR•IPV4•6『线路2』
 #EXTINF:-1 tvg-name="功夫" tvg-id="功夫" group-title="相声小品",功夫
 https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
 #EXTINF:-1 tvg-name="功夫" tvg-id="功夫" group-title="相声小品",功夫
@@ -345,10 +336,10 @@ http://171.8.138.89:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="飞轮海精选30首(2小时)" tvg-logo="https://epg.112114.xyz/logo/%E9%A3%9E%E8%BD%AE%E6%B5%B7%E7%B2%BE%E9%80%8930%E9%A6%96(2%E5%B0%8F%E6%97%B6).png" group-title="演唱会·MV",飞轮海精选30首(2小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cra24sfog65t497nn1o0&ratio=720p&line=0
 #EXTINF:-1 tvg-name="颜人中精选36首(1小时)" tvg-logo="https://epg.112114.xyz/logo/%E9%A2%9C%E4%BA%BA%E4%B8%AD%E7%B2%BE%E9%80%8936%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="演唱会·MV",颜人中精选36首(1小时)
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d07m1fnog65i93c1s7qg&ratio=720p&line=0张惠妹精选10首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cpfe9nfog65hhstjqpn0&ratio=720p&line=0
-#EXTINF:-1 tvg-name="颜人中精选36首(1小时)" tvg-logo="https://epg.112114.xyz/logo/%E9%A2%9C%E4%BA%BA%E4%B8%AD%E7%B2%BE%E9%80%8936%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="演唱会·MV",颜人中精选36首(1小时)
 #EXTVLCOPT:http-user-agent=okhttp
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d07m1fnog65i93c1s7qg&ratio=720p&line=0
+#EXTINF:-1 tvg-name="颜人中精选36首(1小时)" tvg-logo="https://epg.112114.xyz/logo/%E9%A2%9C%E4%BA%BA%E4%B8%AD%E7%B2%BE%E9%80%8936%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="演唱会·MV",颜人中精选36首(1小时)
+https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d07m1fnog65i93c1s7qg&ratio=720p&line=0张惠妹精选10首(1小时),https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cpfe9nfog65hhstjqpn0&ratio=720p&line=0
 #EXTINF:-1 tvg-name="刘若英精选50首(3小时)" tvg-logo="https://epg.112114.xyz/logo/%E5%88%98%E8%8B%A5%E8%8B%B1%E7%B2%BE%E9%80%8950%E9%A6%96(3%E5%B0%8F%E6%97%B6).png" group-title="演唱会·MV",刘若英精选50首(3小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000csi2q17og65ogriq3jv0&ratio=720p&line=0
 #EXTINF:-1 tvg-name="Alin精选16首(1小时)" tvg-logo="https://epg.112114.xyz/logo/Alin%E7%B2%BE%E9%80%8916%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="演唱会·MV",Alin精选16首(1小时)
@@ -419,8 +410,6 @@ http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583211&response=res&format=mp4&type=
 http://www.iesdouyin.com/aweme/v1/play/?video_id=v0300fg10000cd8ge8bc77u61rhg0ul0&ratio=1080p&line=0
 #EXTINF:-1 tvg-name="孙露2" group-title="演唱会·MV",孙露2
 http://www.iesdouyin.com/aweme/v1/play/?video_id=v0200fg10000cm1tshfog65h8e0kfo40&ratio=1080p&line=0
-#EXTINF:-1 tvg-name="韩宝仪2" group-title="演唱会·MV",韩宝仪2
-https://txmov2.a.kwimgs.com/bs3/video-hls/5199405878731760679_hlsb.m3u8
 #EXTINF:-1 tvg-name="经典" group-title="演唱会·MV",经典
 https://live.ottiptv.cc/douyu/6091425
 #EXTINF:-1 tvg-name="罗志祥精选16首(1小时)" tvg-logo="https://epg.112114.xyz/logo/%E7%BD%97%E5%BF%97%E7%A5%A5%E7%B2%BE%E9%80%8916%E9%A6%96(1%E5%B0%8F%E6%97%B6).png" group-title="演唱会·MV",罗志祥精选16首(1小时)
@@ -448,6 +437,8 @@ https://txmov2.a.kwimgs.com/bs3/video- hls/5225583052113602018_hlsb.m3u8
 #EXTINF:-1 tvg-name="邓丽君经典歌曲50首珍藏版" group-title="演唱会·MV",邓丽君经典歌曲50首珍藏版
 #EXTVLCOPT:http-user-agent=okhttp
 https://txmov2.a.kwimgs.com/bs3/video-
+#EXTINF:-1 tvg-name="林依轮10首经典歌曲" group-title="演唱会·MV",林依轮10首经典歌曲
+https://txmov2.a.kwimgs.com/bs3/video-hls/5209257503535513363_hlsb.m3u8
 #EXTINF:-1 tvg-name="冷漠-多情的人不该相遇" group-title="演唱会·MV",冷漠-多情的人不该相遇
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1041689&response=res&format=mp4&type=convert_url
@@ -509,6 +500,8 @@ https://k0u6fy1dy17yc5zw2409x8c5ex5000x740xx5z.djvod.ndcimgs.com/bs3/video-hls/5
 https://k0u6fy1dy17yc6zw2409x8c5ex5000x740xx6z.djvod.ndcimgs.com/bs3/video-hls/5257671255731399908_936fe74351be1d48_9988_hlsfsl200hd15.m3u8
 #EXTINF:-1 tvg-name="周杰伦4" group-title="演唱会·MV",周杰伦4
 https://txmov2.a.kwimgs.com/bs3/video-hls/5230368055161368210_hlsb.m3u8
+#EXTINF:-1 tvg-name="周杰伦5" group-title="演唱会·MV",周杰伦5
+https://txmov2.a.kwimgs.com/bs3/video-hls/5231775534346885885_hlsb.m3u8
 #EXTINF:-1 tvg-name="周杰伦8" group-title="演唱会·MV",周杰伦8
 https://txmov2.a.kwimgs.com/bs3/video-hls/5190680212403952141_c0d403c49df98886_3702_hlsb.m3u8
 #EXTINF:-1 tvg-name="林俊杰3" group-title="演唱会·MV",林俊杰3
@@ -565,17 +558,15 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5229805240166343911_03c586b7260932d0_9
 https://txmov2.a.kwimgs.com/bs3/video-hls/5255419461514071721_e4697df6a4d19097_9701_hlsb.m3u8
 #EXTINF:-1 tvg-name="陈楚生歌曲8首" group-title="演唱会·MV",陈楚生歌曲8首
 https://txmov2.a.kwimgs.com/bs3/video-hls/5225020094292629866_hlsb.m3u8
-#EXTINF:-1 tvg-name="张信哲精选歌曲" group-title="演唱会·MV",张信哲精选歌曲
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219672073739744157_hlsb.m3u8
 #EXTINF:-1 tvg-name="SUPER 金曲" tvg-id="SUPER金曲" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="演唱会·MV",SUPER 金曲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
 #EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=370&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=04ce79f2add1554e394ac80f96482b97dccc2e8d6591da87c9e350d4e98c14b3
+https://tv123.cc.cd/live.php?ch=592&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=c938de9fba63f07f2faae60ce61dbce7bc993e1e9d1adea75b0293c360eb3962
 #EXTINF:-1 tvg-name="SUPER 金曲" tvg-id="SUPER金曲" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="演唱会·MV",SUPER 金曲
 #EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=706&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=28f6bca4e88945dd9ac509ab0f155a13d86bfe0dd44a6db3d250d377b07405a7
+https://tv123.cc.cd/live.php?ch=693&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=a180266bd829bdc7d6b72b2c792797f88afb9649da52e68e1c4f32d27480869e
 #EXTINF:-1 tvg-name="SUPER 金曲" tvg-id="SUPER金曲" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="演唱会·MV",SUPER 金曲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -612,23 +603,26 @@ https://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://logo.catvod.com/八度空间.png" group-title="其他轮播",八度空间
 https://php.jdshipin.com:2096/smt.php?id=TV8
 #EXTINF:-1 tvg-name="美亚C+" tvg-id="美亚C+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="其他轮播",美亚C+
-http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
-#EXTINF:-1 tvg-name="美亚C+" tvg-id="美亚C+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="其他轮播",美亚C+
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
-#EXTINF:-1 tvg-name="金光布袋戲" tvg-id="金光布袋戲" tvg-logo="https://iptv.yang-1989.xyz/logo/金光布袋戲.webp" group-title="其他轮播",金光布袋戲
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=289&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=4584c64d651f8324347c9223f8fe9da8cc8ef7ba133c9a855a0eb95f1ce41816
-#EXTINF:-1 tvg-name="金光布袋戲" tvg-id="金光布袋戲" tvg-logo="https://iptv.yang-1989.xyz/logo/金光布袋戲.webp" group-title="其他轮播",金光布袋戲
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=885&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=a58989f433543dbe8deed0a8c78f3faca9f15a66865e2b62d6e3d0022985cdfb
-#EXTINF:-1 tvg-name="金光布袋戲" tvg-id="金光布袋戲" tvg-logo="https://iptv.yang-1989.xyz/logo/金光布袋戲.webp" group-title="其他轮播",金光布袋戲
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=290&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=218fb2a24ed7396b736c264610a88511b8043f4fbadcc075f0f2aab59a98ab75
+#EXTINF:-1 tvg-name="美亚C+" tvg-id="美亚C+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/美亚C.png" group-title="其他轮播",美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/01.m3u8
 #EXTINF:-1 tvg-name="金光布袋戲" tvg-id="金光布袋戲" tvg-logo="https://iptv.yang-1989.xyz/logo/金光布袋戲.webp" group-title="其他轮播",金光布袋戲
 #EXTVLCOPT:http-user-agent=okhttp/3.8.1
 http://45.192.97.170:8880/play/1111.m3u8
 #EXTINF:-1 tvg-name="金光布袋戲" tvg-id="金光布袋戲" tvg-logo="https://iptv.yang-1989.xyz/logo/金光布袋戲.webp" group-title="其他轮播",金光布袋戲
 http://45.192.97.170:8880/play/380.m3u8
+#EXTINF:-1 tvg-name="金光布袋戲" tvg-id="金光布袋戲" tvg-logo="https://iptv.yang-1989.xyz/logo/金光布袋戲.webp" group-title="其他轮播",金光布袋戲
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=511&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=6aa88f03ccc5064ceddc2734cea1d4a116ffdd0fb8127db16407dc3d489d3e89
+#EXTINF:-1 tvg-name="金光布袋戲" tvg-id="金光布袋戲" tvg-logo="https://iptv.yang-1989.xyz/logo/金光布袋戲.webp" group-title="其他轮播",金光布袋戲
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=512&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=0c63c094fd87c6f992a02e60bc00eb94540d3290c3199d88416f97a3a0e541b7
+#EXTINF:-1 tvg-name="金光布袋戲" tvg-id="金光布袋戲" tvg-logo="https://iptv.yang-1989.xyz/logo/金光布袋戲.webp" group-title="其他轮播",金光布袋戲
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=873&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=1023457439b6f44043a1f694ff16f56d77ba572dc0264427419d3dd6d53a3d06
+#EXTINF:-1 tvg-name="金光布袋戲" tvg-id="金光布袋戲" tvg-logo="https://iptv.yang-1989.xyz/logo/金光布袋戲.webp" group-title="其他轮播",金光布袋戲
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=2578&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=a00f5a8e0607c8d7eb05aa7c6d24a0974109f6832602e09dcee88ba990de0cf2
 #EXTINF:-1 tvg-name="金光布袋戲" tvg-id="金光布袋戲" tvg-logo="https://iptv.yang-1989.xyz/logo/金光布袋戲.webp" group-title="其他轮播",金光布袋戲
 #EXTVLCOPT:http-user-agent=okhttp/3.8.1
 http://45.192.97.170:8880/play/931.m3u8
@@ -636,22 +630,116 @@ http://45.192.97.170:8880/play/931.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 http://17782331118.top:8188/rtp/235.254.197.145:7980
 #EXTINF:-1 tvg-name="中国交通" tvg-id="中国交通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/中国交通.png" group-title="其他轮播",中国交通
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://www.wpfhome.cn:5555/rtp/235.254.197.145:7980
-#EXTINF:-1 tvg-name="中国交通" tvg-id="中国交通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/中国交通.png" group-title="其他轮播",中国交通
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
 http://www.kem.ink:8188/rtp/239.77.1.249:5146
 #EXTINF:-1 tvg-name="中国交通" tvg-id="中国交通" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/中国交通.png" group-title="其他轮播",中国交通
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
 http://yanshifen.top:8889/rtp/239.77.1.249:5146
 #EXTINF:-1 tvg-name="八度空間" tvg-id="八度空間" tvg-logo="https://iptv.yang-1989.xyz/logo/八度空間.webp" group-title="其他轮播",八度空間
+http://45.192.97.170:8880/play/384.m3u8
+#EXTINF:-1 tvg-name="八度空間" tvg-id="八度空間" tvg-logo="https://iptv.yang-1989.xyz/logo/八度空間.webp" group-title="其他轮播",八度空間
 #EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=246&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=5b1727df8d0f5660858b9e669e8c36adde98ea9d7f7fbc07912977250f63907c
+https://tv123.cc.cd/live.php?ch=468&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=9e8f429c52510cb8e69009f50fccfc3792e75593585a1bff6b4cfffdfadfbff4
 #EXTINF:-1 tvg-name="愛奇藝" group-title="其他轮播",愛奇藝
 #EXTVLCOPT:http-user-agent=okhttp/3.8.1
 http://45.192.97.170:8880/play/920.m3u8
 #EXTINF:-1 tvg-name="愛奇藝" group-title="其他轮播",愛奇藝
 http://45.192.97.170:8880/play/369.m3u8
+#EXTINF:-1 tvg-name="电竞天堂" group-title="其他轮播",电竞天堂
+#EXTVLCOPT:http-user-agent=okhttp/3.15
+http://171.213.129.2:4023/rtp/239.94.1.45:5140
+#EXTINF:-1 tvg-name="电竞天堂" group-title="其他轮播",电竞天堂
+#EXTVLCOPT:http-user-agent=okhttp/3.15
+http://171.213.162.184:8899/rtp/239.94.1.45:5140
+#EXTINF:-1 tvg-name="电竞天堂" group-title="其他轮播",电竞天堂
+#EXTVLCOPT:http-user-agent=okhttp/3.15
+http://171.213.169.90:8899/rtp/239.94.1.45:5140
+#EXTINF:-1 tvg-name="电竞天堂" group-title="其他轮播",电竞天堂
+#EXTVLCOPT:http-user-agent=okhttp/3.15
+http://171.213.163.7:8123/rtp/239.94.1.45:5140
+#EXTINF:-1 tvg-name="电竞天堂" group-title="其他轮播",电竞天堂
+#EXTVLCOPT:http-user-agent=okhttp/3.15
+http://182.143.113.25:40000/rtp/239.94.1.45:5140
+#EXTINF:-1 tvg-name="爱电竞" tvg-id="爱电竞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱电竞.png" group-title="其他轮播",爱电竞
+http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000230630
+#EXTINF:-1 tvg-name="爱电竞" tvg-id="爱电竞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱电竞.png" group-title="其他轮播",爱电竞
+#EXTVLCOPT:http-user-agent=okhttp/3.15
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000054/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000054&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="爱电竞" tvg-id="爱电竞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱电竞.png" group-title="其他轮播",爱电竞
+#EXTVLCOPT:http-user-agent=okhttp/3.15
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="雪山飞狐" tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="其他轮播",雪山飞狐
+http://live.ottiptv.cc/huya/23734176
+#EXTINF:-1 tvg-name="雪山飞狐" tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="其他轮播",雪山飞狐
+http://222.186.39.21:35466/huya/23734176
+#EXTINF:-1 tvg-name="雪山飞狐" tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="其他轮播",雪山飞狐
+http://8.155.43.98:35455/huya/23734176
+#EXTINF:-1 tvg-name="雪山飞狐" tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="其他轮播",雪山飞狐
+http://1.14.124.206:35455/huya/23734176
+#EXTINF:-1 tvg-name="雪山飞狐" tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="其他轮播",雪山飞狐
+https://huyazhibo.de5.net/?id=23734176
+#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+http://yanshifen.top:8889/rtp/239.253.43.116:5146
+#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+http://www.kem.ink:8188/rtp/239.253.43.119:5146
+#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+http://yanshifen.top:8889/rtp/239.253.43.117:5146
+#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
+http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
+#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+http://yanshifen.top:8889/rtp/239.253.43.115:5146
+#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+http://www.kem.ink:8188/rtp/239.253.43.116:5146
+#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+http://www.kem.ink:8188/rtp/239.253.43.117:5146
+#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+http://yanshifen.top:8889/rtp/239.253.43.119:5146
+#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+http://www.kem.ink:8188/rtp/239.253.43.115:5146
+#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
+#EXTVLCOPT:http-user-agent=okhttp/3.15
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226646/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+#EXTINF:-1 tvg-name="廣東珠江" group-title="其他轮播",廣東珠江
+http://173.208.234.146/live/gdzjitv.m3u8
+#EXTINF:-1 tvg-name="娛樂百分百" group-title="其他轮播",娛樂百分百
+http://iptv.4666888.xyz/iptv2A.php?id=64
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-id="stream-f61f2a32-eeee-475c-884d-b0141c3aab22" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="其他轮播",豬哥亮歌廳秀
+#EXTVLCOPT:http-user-agent=okhttp/3.8.1
+http://45.192.97.170:8880/play/1080.m3u8
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-id="stream-f61f2a32-eeee-475c-884d-b0141c3aab22" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="其他轮播",豬哥亮歌廳秀
+https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv006&token=https://t.me/GPT_858
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-id="stream-f61f2a32-eeee-475c-884d-b0141c3aab22" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="其他轮播",豬哥亮歌廳秀
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=786&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=6f2e0b581ae80f7d5373dfbb23d3f57c53a10840d560ad81092f1ec8fc198a20
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-id="stream-f61f2a32-eeee-475c-884d-b0141c3aab22" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="其他轮播",豬哥亮歌廳秀
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=2568&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=a2d7ba5e488d1a893ad0f05a0b319bf0f418637662e62c514a453d3e23e5e3d4
+#EXTINF:-1 tvg-name="洪金宝" tvg-id="洪金宝" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" group-title="其他轮播",洪金宝
+http://173.208.234.146/live/vlhjb.m3u8
+#EXTINF:-1 tvg-name="洪金宝" tvg-id="洪金宝" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" group-title="其他轮播",洪金宝
+http://1.14.124.206:35455/huya/11279251$LR•IPV4•2『线路1』
+#EXTINF:-1 tvg-name="洪金宝" tvg-id="洪金宝" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" group-title="其他轮播",洪金宝
+http://8.155.43.98:35455/huya/11279251$LR•IPV4•2『线路2』
+#EXTINF:-1 tvg-name="洪金宝" tvg-id="洪金宝" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" group-title="其他轮播",洪金宝
+https://stream1.freetv.fun/hong-jin-bao-4.ctv
+#EXTINF:-1 tvg-name="洪金宝" tvg-id="洪金宝" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" group-title="其他轮播",洪金宝
+https://stream1.freetv.fun/hong-jin-bao-5.ctv
+#EXTINF:-1 tvg-name="洪金宝" tvg-id="洪金宝" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" group-title="其他轮播",洪金宝
+https://stream1.freetv.fun/hong-jin-bao-2.ctv
+#EXTINF:-1 tvg-name="深圳國際" group-title="其他轮播",深圳國際
+#EXTVLCOPT:http-user-agent=okhttp
+video://https://m.italkbbtv.com/live/6a3a378a20a80832dc74e4c0
+#EXTINF:-1 tvg-name="深圳國際" group-title="其他轮播",深圳國際
+#EXTVLCOPT:http-user-agent=okhttp
+http://211.23.95.147:18881/live/dtv41_h265.ts
 #EXTINF:-1 tvg-name="游戏竞技" group-title="其他轮播",游戏竞技
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 http://27.184.28.92:4022/rtp/239.254.201.157:6269
@@ -673,101 +761,6 @@ http://49.85.222.161:9999/rtp/239.49.1.71:6000
 #EXTINF:-1 tvg-name="游戏竞技" group-title="其他轮播",游戏竞技
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 http://121.233.142.82:8888/rtp/239.49.1.71:6000
-#EXTINF:-1 tvg-name="电竞天堂" group-title="其他轮播",电竞天堂
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.213.129.2:4023/rtp/239.94.1.45:5140
-#EXTINF:-1 tvg-name="电竞天堂" group-title="其他轮播",电竞天堂
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.213.162.184:8899/rtp/239.94.1.45:5140
-#EXTINF:-1 tvg-name="电竞天堂" group-title="其他轮播",电竞天堂
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.213.169.90:8899/rtp/239.94.1.45:5140
-#EXTINF:-1 tvg-name="电竞天堂" group-title="其他轮播",电竞天堂
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.213.163.7:8123/rtp/239.94.1.45:5140
-#EXTINF:-1 tvg-name="电竞天堂" group-title="其他轮播",电竞天堂
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://171.95.189.242:4000/rtp/239.94.1.45:5140
-#EXTINF:-1 tvg-name="电竞天堂" group-title="其他轮播",电竞天堂
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://182.135.33.210:2222/rtp/239.94.1.45:5140
-#EXTINF:-1 tvg-name="电竞天堂" group-title="其他轮播",电竞天堂
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://182.143.113.25:40000/rtp/239.94.1.45:5140
-#EXTINF:-1 tvg-name="爱电竞" tvg-id="爱电竞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱电竞.png" group-title="其他轮播",爱电竞
-http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000230630
-#EXTINF:-1 tvg-name="爱电竞" tvg-id="爱电竞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱电竞.png" group-title="其他轮播",爱电竞
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000054/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000054&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="爱电竞" tvg-id="爱电竞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱电竞.png" group-title="其他轮播",爱电竞
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="雪山飞狐" tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="其他轮播",雪山飞狐
-http://live.ottiptv.cc/huya/23734176
-#EXTINF:-1 tvg-name="雪山飞狐" tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="其他轮播",雪山飞狐
-http://1.14.124.206:35455/huya/23734176
-#EXTINF:-1 tvg-name="雪山飞狐" tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="其他轮播",雪山飞狐
-http://222.186.39.21:35466/huya/23734176
-#EXTINF:-1 tvg-name="雪山飞狐" tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="其他轮播",雪山飞狐
-http://8.155.43.98:35455/huya/23734176
-#EXTINF:-1 tvg-name="雪山飞狐" tvg-logo="https://epg.112114.xyz/logo/%E9%9B%AA%E5%B1%B1%E9%A3%9E%E7%8B%90.png" group-title="其他轮播",雪山飞狐
-https://huyazhibo.de5.net/?id=23734176
-#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.119:5146
-#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
-http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
-#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.116:5146
-#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.117:5146
-#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.115:5146
-#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.116:5146
-#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.117:5146
-#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.119:5146
-#EXTINF:-1 tvg-name="百事通高清" group-title="其他轮播",百事通高清
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226646/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 tvg-name="廣東珠江" group-title="其他轮播",廣東珠江
-http://173.208.234.146/live/gdzjitv.m3u8
-#EXTINF:-1 tvg-name="娛樂百分百" group-title="其他轮播",娛樂百分百
-http://iptv.4666888.xyz/iptv2A.php?id=64
-#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-id="stream-f61f2a32-eeee-475c-884d-b0141c3aab22" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="其他轮播",豬哥亮歌廳秀
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=798&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=38d36509c559b8136e9a7cde2cbccdca0fe9c2861961d2d2bd638db8943abf68
-#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-id="stream-f61f2a32-eeee-475c-884d-b0141c3aab22" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="其他轮播",豬哥亮歌廳秀
-#EXTVLCOPT:http-user-agent=okhttp/3.8.1
-http://45.192.97.170:8880/play/1080.m3u8
-#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-id="stream-f61f2a32-eeee-475c-884d-b0141c3aab22" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="其他轮播",豬哥亮歌廳秀
-https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv006&token=https://t.me/GPT_858
-#EXTINF:-1 tvg-name="洪金宝" tvg-id="洪金宝" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" group-title="其他轮播",洪金宝
-http://173.208.234.146/live/vlhjb.m3u8
-#EXTINF:-1 tvg-name="洪金宝" tvg-id="洪金宝" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" group-title="其他轮播",洪金宝
-http://8.155.43.98:35455/huya/11279251$LR•IPV4•2『线路2』
-#EXTINF:-1 tvg-name="洪金宝" tvg-id="洪金宝" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" group-title="其他轮播",洪金宝
-http://1.14.124.206:35455/huya/11279251$LR•IPV4•2『线路1』
-#EXTINF:-1 tvg-name="洪金宝" tvg-id="洪金宝" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" group-title="其他轮播",洪金宝
-https://stream1.freetv.fun/hong-jin-bao-4.ctv
-#EXTINF:-1 tvg-name="洪金宝" tvg-id="洪金宝" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" group-title="其他轮播",洪金宝
-https://stream1.freetv.fun/hong-jin-bao-5.ctv
-#EXTINF:-1 tvg-name="洪金宝" tvg-id="洪金宝" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" group-title="其他轮播",洪金宝
-https://stream1.freetv.fun/hong-jin-bao-2.ctv
-#EXTINF:-1 tvg-name="深圳國際" group-title="其他轮播",深圳國際
-#EXTVLCOPT:http-user-agent=okhttp
-video://https://m.italkbbtv.com/live/6a3a378a20a80832dc74e4c0
-#EXTINF:-1 tvg-name="深圳國際" group-title="其他轮播",深圳國際
-#EXTVLCOPT:http-user-agent=okhttp
-http://211.23.95.147:18881/live/dtv41_h265.ts
 #EXTINF:-1 tvg-name="海看电竞" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/海看电竞.png" group-title="其他轮播",海看电竞
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 http://144.255.44.115:7788/rtp/239.21.1.135:5002
@@ -786,10 +779,10 @@ https://live.264788.xyz/channel/newtvjingpinmengchong?streamid=a268aaeeceaeb5136
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
 #EXTINF:-1 tvg-name="天龙 神雕金庸" group-title="其他轮播",天龙 神雕金庸
+https://live.ottiptv.cc/yy/1356043609
+#EXTINF:-1 tvg-name="天龙 神雕金庸" group-title="其他轮播",天龙 神雕金庸
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
 http://45.192.97.170:8880/play/252.m3u8
-#EXTINF:-1 tvg-name="天龙 神雕金庸" group-title="其他轮播",天龙 神雕金庸
-https://live.ottiptv.cc/yy/1356043609
 #EXTINF:-1 tvg-name="天龙 神雕金庸" group-title="其他轮播",天龙 神雕金庸
 #EXTVLCOPT:http-user-agent=okhttp/3.8.1
 http://45.192.97.170:8880/play/1202.m3u8
@@ -797,35 +790,23 @@ http://45.192.97.170:8880/play/1202.m3u8
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
 http://45.192.97.170:8880/play/195.m3u8
 #EXTINF:-1 tvg-name="小蓉儿 正在直播" group-title="其他轮播",小蓉儿 正在直播
+https://live.ottiptv.cc/yy/1351762426
+#EXTINF:-1 tvg-name="小蓉儿 正在直播" group-title="其他轮播",小蓉儿 正在直播
 #EXTVLCOPT:http-user-agent=okhttp/3.8.1
 http://45.192.97.170:8880/play/1145.m3u8
-#EXTINF:-1 tvg-name="小蓉儿 正在直播" group-title="其他轮播",小蓉儿 正在直播
-https://live.ottiptv.cc/yy/1351762426
+#EXTINF:-1 tvg-name="少年歌行1.2~" group-title="其他轮播",少年歌行1.2~
+https://live.ottiptv.cc/yy/29067083
 #EXTINF:-1 tvg-name="少年歌行1.2~" group-title="其他轮播",少年歌行1.2~
 #EXTVLCOPT:http-user-agent=okhttp/3.8.1
 http://45.192.97.170:8880/play/1192.m3u8
-#EXTINF:-1 tvg-name="少年歌行1.2~" group-title="其他轮播",少年歌行1.2~
-https://live.ottiptv.cc/yy/29067083
 #EXTINF:-1 tvg-name="经典雪豹24h" group-title="其他轮播",经典雪豹24h
 https://live.ottiptv.cc/yy/1459010966
 #EXTINF:-1 tvg-name="经典雪豹24h" group-title="其他轮播",经典雪豹24h
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://45.192.97.170:8880/play/218.m3u8
-#EXTINF:-1 tvg-name="经典雪豹24h" group-title="其他轮播",经典雪豹24h
 #EXTVLCOPT:http-user-agent=okhttp/3.8.1
 http://45.192.97.170:8880/play/1168.m3u8
-#EXTINF:-1 tvg-name="中甲联赛" group-title="其他轮播",中甲联赛
-http://120.198.84.146:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="中甲联赛" group-title="其他轮播",中甲联赛
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://114.97.146.105:8001/rtp/238.1.79.39:4424
-#EXTINF:-1 tvg-name="收视指南" group-title="其他轮播",收视指南
-http://120.196.235.42:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="收视指南" group-title="其他轮播",收视指南
-http://120.198.84.146:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="收视指南" group-title="其他轮播",收视指南
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.220.144:5140
+#EXTINF:-1 tvg-name="经典雪豹24h" group-title="其他轮播",经典雪豹24h
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+http://45.192.97.170:8880/play/218.m3u8
 #EXTINF:-1 tvg-name="弈坛春秋" tvg-id="弈坛春秋" tvg-logo="https://live.fanmingming.com/tv/弈坛春秋.png" group-title="其他轮播",弈坛春秋
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
 http://223.110.245.139/PLTV/4/224/3221227031/index.m3u8
@@ -836,10 +817,13 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="【战狼3吴京】首播" group-title="其他轮播",【战狼3吴京】首播
-https://live.ottiptv.cc/yy/1456668939
-#EXTINF:-1 tvg-name="【战狼3吴京】首播" group-title="其他轮播",【战狼3吴京】首播
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
 http://45.192.97.170:8880/play/281.m3u8
+#EXTINF:-1 tvg-name="【战狼3吴京】首播" group-title="其他轮播",【战狼3吴京】首播
+https://live.ottiptv.cc/yy/1456668939
+#EXTINF:-1 tvg-name="【战狼3吴京】首播" group-title="其他轮播",【战狼3吴京】首播
+#EXTVLCOPT:http-user-agent=okhttp/3.8.1
+http://45.192.97.170:8880/play/1231.m3u8
 #EXTINF:-1 tvg-name="欢迎光临" group-title="其他轮播",欢迎光临
 https://live.ottiptv.cc/yy/1355532933
 #EXTINF:-1 tvg-name="谈判专家" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="其他轮播",谈判专家
@@ -957,10 +941,10 @@ http://sk.cri.cn/hyhq.m3u8
 #EXTVLCOPT:http-user-agent=okhttp
 https://sk.cri.cn/hyhq.m3u8
 #EXTINF:-1 tvg-name="楚天交通广播" group-title="其他轮播",楚天交通广播
-http://ls.qingting.fm/live/1291.m3u8
-#EXTINF:-1 tvg-name="楚天交通广播" group-title="其他轮播",楚天交通广播
 #EXTVLCOPT:http-user-agent=okhttp
 https://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
+#EXTINF:-1 tvg-name="楚天交通广播" group-title="其他轮播",楚天交通广播
+http://ls.qingting.fm/live/1291.m3u8
 #EXTINF:-1 tvg-name="韓流美食料理秀" group-title="其他轮播",韓流美食料理秀
 http://iptv.4666888.xyz/iptv2A.php?id=63
 #EXTINF:-1 tvg-name="新加坡国际" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/新加坡国际.png" group-title="其他轮播",新加坡国际
@@ -975,120 +959,21 @@ http://117.172.235.44:60000/rtp/239.10.0.153:5140
 #EXTINF:-1 tvg-name="光影" tvg-logo="https://epg.112114.xyz/logo/%E5%85%89%E5%BD%B1%E9%A2%91%E9%81%93.png" group-title="其他轮播",光影
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 http://117.172.235.50:60000/rtp/239.10.0.153:5140
-#EXTINF:-1 tvg-name="光影" tvg-logo="https://epg.112114.xyz/logo/%E5%85%89%E5%BD%B1%E9%A2%91%E9%81%93.png" group-title="其他轮播",光影
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.220.200:5140
 #EXTINF:-1 tvg-name="法制天地" group-title="其他轮播",法制天地
 #EXTVLCOPT:http-user-agent=okhttp/3.15
 http://60.26.60.19:8000/rtp/225.1.1.237:5002
 #EXTINF:-1 tvg-name="法制天地" group-title="其他轮播",法制天地
 #EXTVLCOPT:http-user-agent=okhttp
 http://111.8.224.6:9999/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="直播室101" group-title="其他轮播",直播室101
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.219.53:5140
-#EXTINF:-1 tvg-name="直播室101" group-title="其他轮播",直播室101
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.217:5146
-#EXTINF:-1 tvg-name="直播室101" group-title="其他轮播",直播室101
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.217:5146
-#EXTINF:-1 tvg-name="直播室102" group-title="其他轮播",直播室102
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.219.91:5140
-#EXTINF:-1 tvg-name="直播室102" group-title="其他轮播",直播室102
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.153:5146
-#EXTINF:-1 tvg-name="直播室102" group-title="其他轮播",直播室102
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.153:5146
-#EXTINF:-1 tvg-name="直播室103" group-title="其他轮播",直播室103
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.219.111:5140
-#EXTINF:-1 tvg-name="直播室103" group-title="其他轮播",直播室103
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.154:5146
-#EXTINF:-1 tvg-name="直播室103" group-title="其他轮播",直播室103
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.154:5146
-#EXTINF:-1 tvg-name="直播室104" group-title="其他轮播",直播室104
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.219.112:5140
-#EXTINF:-1 tvg-name="直播室104" group-title="其他轮播",直播室104
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.155:5146
-#EXTINF:-1 tvg-name="直播室104" group-title="其他轮播",直播室104
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.155:5146
-#EXTINF:-1 tvg-name="直播室105" group-title="其他轮播",直播室105
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.219.117:5140
-#EXTINF:-1 tvg-name="直播室105" group-title="其他轮播",直播室105
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.156:5146
-#EXTINF:-1 tvg-name="直播室105" group-title="其他轮播",直播室105
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.156:5146
-#EXTINF:-1 tvg-name="直播室106" group-title="其他轮播",直播室106
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.219.135:5140
-#EXTINF:-1 tvg-name="直播室106" group-title="其他轮播",直播室106
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.157:5146
-#EXTINF:-1 tvg-name="直播室106" group-title="其他轮播",直播室106
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.157:5146
-#EXTINF:-1 tvg-name="直播室107" group-title="其他轮播",直播室107
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.219.136:5140
-#EXTINF:-1 tvg-name="直播室107" group-title="其他轮播",直播室107
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.158:5146
-#EXTINF:-1 tvg-name="直播室107" group-title="其他轮播",直播室107
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.158:5146
-#EXTINF:-1 tvg-name="直播室108" group-title="其他轮播",直播室108
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.219.203:5140
-#EXTINF:-1 tvg-name="直播室108" group-title="其他轮播",直播室108
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.160:5146
-#EXTINF:-1 tvg-name="直播室108" group-title="其他轮播",直播室108
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.160:5146
-#EXTINF:-1 tvg-name="直播室109" group-title="其他轮播",直播室109
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.219.204:5140
-#EXTINF:-1 tvg-name="直播室109" group-title="其他轮播",直播室109
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.161:5146
-#EXTINF:-1 tvg-name="直播室109" group-title="其他轮播",直播室109
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.161:5146
-#EXTINF:-1 tvg-name="直播室110" group-title="其他轮播",直播室110
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.219.205:5140
-#EXTINF:-1 tvg-name="直播室110" group-title="其他轮播",直播室110
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.162:5146
-#EXTINF:-1 tvg-name="直播室110" group-title="其他轮播",直播室110
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.162:5146
-#EXTINF:-1 tvg-name="直播室111" group-title="其他轮播",直播室111
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://106.5.101.4:6001/rtp/239.252.219.215:5140
-#EXTINF:-1 tvg-name="直播室111" group-title="其他轮播",直播室111
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://www.kem.ink:8188/rtp/239.253.43.163:5146
-#EXTINF:-1 tvg-name="直播室111" group-title="其他轮播",直播室111
-#EXTVLCOPT:http-user-agent=okhttp/5.3.2
-http://yanshifen.top:8889/rtp/239.253.43.163:5146
-#EXTINF:-1 tvg-name="靓妆" group-title="其他轮播",靓妆
-#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://60.26.60.19:8000/rtp/225.1.1.200:5002
 #EXTINF:-1 tvg-name="靓妆" group-title="其他轮播",靓妆
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
 http://www.kem.ink:8188/rtp/239.77.0.212:5146
+#EXTINF:-1 tvg-name="靓妆" group-title="其他轮播",靓妆
+#EXTVLCOPT:http-user-agent=okhttp/5.3.2
+http://yanshifen.top:8889/rtp/239.77.0.212:5146
+#EXTINF:-1 tvg-name="靓妆" group-title="其他轮播",靓妆
+#EXTVLCOPT:http-user-agent=okhttp/3.15
+http://60.26.60.19:8000/rtp/225.1.1.200:5002
 #EXTINF:-1 tvg-name="靓妆" group-title="其他轮播",靓妆
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
 http://www.kem.ink:8188/rtp/239.77.1.118:5146
@@ -1099,77 +984,77 @@ http://yanshifen.top:8889/rtp/239.77.1.118:5146
 #EXTVLCOPT:http-user-agent=okhttp
 http://124.90.45.52:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="共同通信News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_56.png" tvg-id="rch_56" group-title="其他轮播",共同通信News
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=422&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=c9f98dd8eef934e8f5c22c7304474dab8a52cb341b4734fe6cbf94f92fe64c2b
-#EXTINF:-1 tvg-name="共同通信News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_56.png" tvg-id="rch_56" group-title="其他轮播",共同通信News
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=78&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=4680101cd79f988825b783e31107fe3764f4b7b6961063a241e517ac1ac15474
-#EXTINF:-1 tvg-name="共同通信News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_56.png" tvg-id="rch_56" group-title="其他轮播",共同通信News
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-name="麻雀" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_74.png" tvg-id="rch_74" group-title="其他轮播",麻雀
+#EXTINF:-1 tvg-name="共同通信News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_56.png" tvg-id="rch_56" group-title="其他轮播",共同通信News
 #EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=442&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=99a107ada6fe45b84d11639218c7eac7b96f3a46f67651a6e245575667fc5414
-#EXTINF:-1 tvg-name="麻雀" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_74.png" tvg-id="rch_74" group-title="其他轮播",麻雀
+https://tv123.cc.cd/live.php?ch=300&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=2e14626faa10e9fa82d73d89b65c7ccade8c0df5f80dfdc8a12142e6383c9b0f
+#EXTINF:-1 tvg-name="共同通信News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_56.png" tvg-id="rch_56" group-title="其他轮播",共同通信News
 #EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=96&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=f84b81c57eba8b169c9838b319717712ce069615d8da2b2123a89fc7e373944f
+https://tv123.cc.cd/live.php?ch=1014&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=151dbc4d4634a43a558b743cfed8a814a57aab9847f5de2c66f6c24474302d94
 #EXTINF:-1 tvg-name="麻雀" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_74.png" tvg-id="rch_74" group-title="其他轮播",麻雀
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
-#EXTINF:-1 tvg-name="羽毛球专场" tvg-logo="https://epg.112114.xyz/logo/%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",羽毛球专场
-http://1.14.124.206:35455/huya/30806115
+#EXTINF:-1 tvg-name="麻雀" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_74.png" tvg-id="rch_74" group-title="其他轮播",麻雀
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=318&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=611801fa4dfe55045e60b530a73fa17d214e12889ab5aa3fa00b12cbc95d374f
+#EXTINF:-1 tvg-name="麻雀" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_74.png" tvg-id="rch_74" group-title="其他轮播",麻雀
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=1034&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=3dcb46823b2c0f6165d5ed10533a8c6e942c5c6f5814bb07271c0e13ab43bb96
 #EXTINF:-1 tvg-name="羽毛球专场" tvg-logo="https://epg.112114.xyz/logo/%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",羽毛球专场
 https://huyazhibo.de5.net/?id=30806115
-#EXTINF:-1 tvg-name="乒乓球专场" tvg-logo="https://epg.112114.xyz/logo/%E4%B9%92%E4%B9%93%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",乒乓球专场
-http://1.14.124.206:35455/huya/23505696
+#EXTINF:-1 tvg-name="羽毛球专场" tvg-logo="https://epg.112114.xyz/logo/%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",羽毛球专场
+http://1.14.124.206:35455/huya/30806115
 #EXTINF:-1 tvg-name="乒乓球专场" tvg-logo="https://epg.112114.xyz/logo/%E4%B9%92%E4%B9%93%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",乒乓球专场
 https://huyazhibo.de5.net/?id=23505696
+#EXTINF:-1 tvg-name="乒乓球专场" tvg-logo="https://epg.112114.xyz/logo/%E4%B9%92%E4%B9%93%E7%90%83%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",乒乓球专场
+http://1.14.124.206:35455/huya/23505696
 #EXTINF:-1 tvg-name="赛车专场" tvg-logo="https://epg.112114.xyz/logo/%E8%B5%9B%E8%BD%A6%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",赛车专场
 http://1.14.124.206:35455/huya/18152482
 #EXTINF:-1 tvg-name="赛车专场" tvg-logo="https://epg.112114.xyz/logo/%E8%B5%9B%E8%BD%A6%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",赛车专场
 https://huyazhibo.de5.net/?id=18152482
 #EXTINF:-1 tvg-name="摔跤专场" tvg-logo="https://epg.112114.xyz/logo/%E6%91%94%E8%B7%A4%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",摔跤专场
-http://1.14.124.206:35455/huya/20072812
-#EXTINF:-1 tvg-name="摔跤专场" tvg-logo="https://epg.112114.xyz/logo/%E6%91%94%E8%B7%A4%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",摔跤专场
 https://huyazhibo.de5.net/?id=20072812
-#EXTINF:-1 tvg-name="拳击专场" tvg-logo="https://epg.112114.xyz/logo/%E6%8B%B3%E5%87%BB%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",拳击专场
-http://1.14.124.206:35455/huya/18152380
+#EXTINF:-1 tvg-name="摔跤专场" tvg-logo="https://epg.112114.xyz/logo/%E6%91%94%E8%B7%A4%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",摔跤专场
+http://1.14.124.206:35455/huya/20072812
 #EXTINF:-1 tvg-name="拳击专场" tvg-logo="https://epg.112114.xyz/logo/%E6%8B%B3%E5%87%BB%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",拳击专场
 https://huyazhibo.de5.net/?id=18152380
-#EXTINF:-1 tvg-name="格斗专场" tvg-logo="https://epg.112114.xyz/logo/%E6%A0%BC%E6%96%97%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",格斗专场
-http://1.14.124.206:35455/huya/20072796
+#EXTINF:-1 tvg-name="拳击专场" tvg-logo="https://epg.112114.xyz/logo/%E6%8B%B3%E5%87%BB%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",拳击专场
+http://1.14.124.206:35455/huya/18152380
 #EXTINF:-1 tvg-name="格斗专场" tvg-logo="https://epg.112114.xyz/logo/%E6%A0%BC%E6%96%97%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",格斗专场
 https://huyazhibo.de5.net/?id=20072796
-#EXTINF:-1 tvg-name="柔道专场" tvg-logo="https://epg.112114.xyz/logo/%E6%9F%94%E9%81%93%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",柔道专场
-http://1.14.124.206:35455/huya/20072837
+#EXTINF:-1 tvg-name="格斗专场" tvg-logo="https://epg.112114.xyz/logo/%E6%A0%BC%E6%96%97%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",格斗专场
+http://1.14.124.206:35455/huya/20072796
 #EXTINF:-1 tvg-name="柔道专场" tvg-logo="https://epg.112114.xyz/logo/%E6%9F%94%E9%81%93%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",柔道专场
 https://huyazhibo.de5.net/?id=20072837
-#EXTINF:-1 tvg-name="摩托专场" tvg-logo="https://epg.112114.xyz/logo/%E6%91%A9%E6%89%98%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",摩托专场
-http://1.14.124.206:35455/huya/19197407
+#EXTINF:-1 tvg-name="柔道专场" tvg-logo="https://epg.112114.xyz/logo/%E6%9F%94%E9%81%93%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",柔道专场
+http://1.14.124.206:35455/huya/20072837
 #EXTINF:-1 tvg-name="摩托专场" tvg-logo="https://epg.112114.xyz/logo/%E6%91%A9%E6%89%98%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",摩托专场
 https://huyazhibo.de5.net/?id=19197407
+#EXTINF:-1 tvg-name="摩托专场" tvg-logo="https://epg.112114.xyz/logo/%E6%91%A9%E6%89%98%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",摩托专场
+http://1.14.124.206:35455/huya/19197407
 #EXTINF:-1 tvg-name="健美专场" tvg-logo="https://epg.112114.xyz/logo/%E5%81%A5%E7%BE%8E%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",健美专场
 http://1.14.124.206:35455/huya/26106704
 #EXTINF:-1 tvg-name="健美专场" tvg-logo="https://epg.112114.xyz/logo/%E5%81%A5%E7%BE%8E%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",健美专场
 https://huyazhibo.de5.net/?id=23244436
 #EXTINF:-1 tvg-name="健身专场" tvg-logo="https://epg.112114.xyz/logo/%E5%81%A5%E8%BA%AB%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",健身专场
-http://1.14.124.206:35455/huya/24354754
-#EXTINF:-1 tvg-name="健身专场" tvg-logo="https://epg.112114.xyz/logo/%E5%81%A5%E8%BA%AB%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",健身专场
 https://huyazhibo.de5.net/?id=24354754
+#EXTINF:-1 tvg-name="健身专场" tvg-logo="https://epg.112114.xyz/logo/%E5%81%A5%E8%BA%AB%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",健身专场
+http://1.14.124.206:35455/huya/24354754
 #EXTINF:-1 tvg-name="越野专场" tvg-logo="https://epg.112114.xyz/logo/%E8%B6%8A%E9%87%8E%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",越野专场
 https://huyazhibo.de5.net/?id=30020978
 #EXTINF:-1 tvg-name="越野专场" tvg-logo="https://epg.112114.xyz/logo/%E8%B6%8A%E9%87%8E%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",越野专场
 http://1.14.124.206:35455/huya/30020978
 #EXTINF:-1 tvg-name="Big3专场" tvg-logo="https://epg.112114.xyz/logo/Big3%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",Big3专场
-http://1.14.124.206:35455/huya/30847442
-#EXTINF:-1 tvg-name="Big3专场" tvg-logo="https://epg.112114.xyz/logo/Big3%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",Big3专场
 https://huyazhibo.de5.net/?id=30847442
-#EXTINF:-1 tvg-name="飞盘专场" tvg-logo="https://epg.112114.xyz/logo/%E9%A3%9E%E7%9B%98%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",飞盘专场
-http://1.14.124.206:35455/huya/30689549
+#EXTINF:-1 tvg-name="Big3专场" tvg-logo="https://epg.112114.xyz/logo/Big3%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",Big3专场
+http://1.14.124.206:35455/huya/30847442
 #EXTINF:-1 tvg-name="飞盘专场" tvg-logo="https://epg.112114.xyz/logo/%E9%A3%9E%E7%9B%98%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",飞盘专场
 https://huyazhibo.de5.net/?id=30689549
-#EXTINF:-1 tvg-name="瑜伽专场" tvg-logo="https://epg.112114.xyz/logo/%E7%91%9C%E4%BC%BD%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",瑜伽专场
-http://1.14.124.206:35455/huya/20753449
+#EXTINF:-1 tvg-name="飞盘专场" tvg-logo="https://epg.112114.xyz/logo/%E9%A3%9E%E7%9B%98%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",飞盘专场
+http://1.14.124.206:35455/huya/30689549
 #EXTINF:-1 tvg-name="瑜伽专场" tvg-logo="https://epg.112114.xyz/logo/%E7%91%9C%E4%BC%BD%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",瑜伽专场
 https://huyazhibo.de5.net/?id=20753449
+#EXTINF:-1 tvg-name="瑜伽专场" tvg-logo="https://epg.112114.xyz/logo/%E7%91%9C%E4%BC%BD%E4%B8%93%E5%9C%BA.png" group-title="其他轮播",瑜伽专场
+http://1.14.124.206:35455/huya/20753449
 #EXTINF:-1 tvg-name="澎湃景区" tvg-logo="https://epg.112114.xyz/logo/%E6%BE%8E%E6%B9%83%E6%99%AF%E5%8C%BA.png" group-title="其他轮播",澎湃景区
 https://play-a2.quklive.com/live/1765245429980053.m3u8
 #EXTINF:-1 tvg-name="天地争霸美猴王" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E5%9C%B0%E4%BA%89%E9%9C%B8%E7%BE%8E%E7%8C%B4%E7%8E%8B.png" group-title="其他轮播",天地争霸美猴王
@@ -1188,20 +1073,23 @@ https://huyazhibo.de5.net/?id=29465860
 http://live.nctv.top/douyu1.php?id=40471
 #EXTINF:-1 tvg-name="深圳国际" group-title="其他轮播",深圳国际
 #EXTVLCOPT:http-user-agent=okhttp
-http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269811.ts
+http://mtayeh.ottb.xyz/live/774710333494/659822672281/58634.ts
 #EXTINF:-1 tvg-name="深圳国际" group-title="其他轮播",深圳国际
 #EXTVLCOPT:http-user-agent=okhttp
-http://mtayeh.ottb.xyz/live/774710333494/659822672281/58634.ts
-#EXTINF:-1 tvg-name="日喀则汉语" group-title="其他轮播",日喀则汉语
-https://console.rkzrm.cn:20323/4.m3u8
+http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269811.ts
 #EXTINF:-1 tvg-name="日喀则汉语" group-title="其他轮播",日喀则汉语
 #EXTVLCOPT:http-user-agent=okhttp
 https://consolestream.rkzrm.cn:20323/4.m3u8
+#EXTINF:-1 tvg-name="日喀则汉语" group-title="其他轮播",日喀则汉语
+https://console.rkzrm.cn:20323/4.m3u8
 #EXTINF:-1 tvg-name="GCN教会" group-title="其他轮播",GCN教会
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 #EXTINF:-1 tvg-name="信大" tvg-id="信大" group-title="其他轮播",信大
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+#EXTINF:-1 tvg-name="浙江國際" group-title="其他轮播",浙江國際
+#EXTVLCOPT:http-user-agent=okhttp
+video://https://m.italkbbtv.com/live/6a3100be9b50412f007572fc
 #EXTINF:-1 tvg-name="浙江國際" group-title="其他轮播",浙江國際
 #EXTVLCOPT:http-user-agent=okhttp
 http://211.23.95.147:18881/live/dtv44_h265.ts
@@ -1212,20 +1100,23 @@ http://211.23.95.147:18881/live/dtv45_h265.ts
 #EXTVLCOPT:http-user-agent=okhttp
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 #EXTINF:-1 tvg-name="爱奇艺 iQiyi" tvg-logo="https://logo.catvod.com/爱奇艺 iQiyi.png" tvg-id="stream-71edd060-8d27-4f02-a03e-33a9a879f494" group-title="其他轮播",爱奇艺 iQiyi
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=603&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=bc18f13b8b97ecd4413539b140cf6cab89207c72ca9e6e44ceacab231678e782
-#EXTINF:-1 tvg-name="爱奇艺 iQiyi" tvg-logo="https://logo.catvod.com/爱奇艺 iQiyi.png" tvg-id="stream-71edd060-8d27-4f02-a03e-33a9a879f494" group-title="其他轮播",爱奇艺 iQiyi
 #EXTVLCOPT:http-user-agent=okhttp/5.3.2
 https://smt.giptv.indevs.in/Qiyi/playlist.m3u8
-#EXTINF:-1 tvg-name="互動窗 1" tvg-id="互動窗 1" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",互動窗 1
+#EXTINF:-1 tvg-name="爱奇艺 iQiyi" tvg-logo="https://logo.catvod.com/爱奇艺 iQiyi.png" tvg-id="stream-71edd060-8d27-4f02-a03e-33a9a879f494" group-title="其他轮播",爱奇艺 iQiyi
 #EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=695&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=228055755bc1dac8e076fef0073d3bfdfca50ee002761d761c3082206ef3f6f4
+https://tv123.cc.cd/live.php?ch=1141&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=90356d55a23c2fd4595b808ceb3ac577907f6ff455d5fce3e07fc523c736d2cd
+#EXTINF:-1 tvg-name="爱奇艺 iQiyi" tvg-logo="https://logo.catvod.com/爱奇艺 iQiyi.png" tvg-id="stream-71edd060-8d27-4f02-a03e-33a9a879f494" group-title="其他轮播",爱奇艺 iQiyi
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=1967&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=e2206c21f27b81f2c6f31dc4e5b1f0ddfc882f3cbf40965f5382bef480d55e82
 #EXTINF:-1 tvg-name="互動窗 1" tvg-id="互動窗 1" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",互動窗 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
 #EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=359&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=b33171f8d1e94ede5413dd272bc9b21c29e36c82f1965387ceb75a91ca70d092
+https://tv123.cc.cd/live.php?ch=581&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=a775100e18640c16d32e60b7c58e50653fcbbeed6a45bdc515acc6d1ff89b8a6
+#EXTINF:-1 tvg-name="互動窗 1" tvg-id="互動窗 1" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",互動窗 1
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=682&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=d52103dc47c0fa607989031d0ca81d770fbd65483e91b284130a7a1b0aca9b6a
 #EXTINF:-1 tvg-name="互動窗 1" tvg-id="互動窗 1" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",互動窗 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1233,14 +1124,14 @@ https://tv123.cc.cd/live.php?ch=359&sid=825fb7afb9a461094e19658e3216224c&exp=179
 #EXTVLCOPT:http-user-agent=okhttp
 https://php.946985.filegear-sg.me/mytv265.php?id=C3
 #EXTINF:-1 tvg-name="互動窗 2" tvg-id="互動窗 2" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",互動窗 2
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=696&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=c64100d4c7e9f72820df6897f96b7a063a8158d0b97904a0cd522739d927f6a0
-#EXTINF:-1 tvg-name="互動窗 2" tvg-id="互動窗 2" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",互動窗 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
 #EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=360&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=9827d8a78fda9ef5d3b5175cac2d6bbd393e13c66080393c6197e3ce66ab4800
+https://tv123.cc.cd/live.php?ch=582&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=f03917fe02d61fbad962e54b92f61017ce378f6ad299aac7bdef8ec73a437739
+#EXTINF:-1 tvg-name="互動窗 2" tvg-id="互動窗 2" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",互動窗 2
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=683&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=3164c2d065a35d60d46479e0df2cff053651f2b563f4f4a7302d5bf4909a4a9e
 #EXTINF:-1 tvg-name="互動窗 2" tvg-id="互動窗 2" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",互動窗 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1248,14 +1139,14 @@ https://tv123.cc.cd/live.php?ch=360&sid=825fb7afb9a461094e19658e3216224c&exp=179
 #EXTVLCOPT:http-user-agent=okhttp
 https://php.946985.filegear-sg.me/mytv265.php?id=C2
 #EXTINF:-1 tvg-name="SUPER 獎門人" tvg-id="SUPER獎門人" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",SUPER 獎門人
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=701&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=b58376c826a200b48cfed6b9965412b34b1f9235cff20f7d90a1b48d4a24eea0
-#EXTINF:-1 tvg-name="SUPER 獎門人" tvg-id="SUPER獎門人" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",SUPER 獎門人
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
 #EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=365&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=27a10c8798c445af5091aba58a1b79ba1c812454d7289dff4fffd72d077fc1af
+https://tv123.cc.cd/live.php?ch=587&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=9080c0cae6723285d66403081ac6269bf70744850809d7b1f581404d8748a1c8
+#EXTINF:-1 tvg-name="SUPER 獎門人" tvg-id="SUPER獎門人" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",SUPER 獎門人
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=688&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=0d6ff3f5b114e7662132eac672e995ecf9d5416b5ab124299870b581aa185cac
 #EXTINF:-1 tvg-name="SUPER 獎門人" tvg-id="SUPER獎門人" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",SUPER 獎門人
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1263,14 +1154,14 @@ https://tv123.cc.cd/live.php?ch=365&sid=825fb7afb9a461094e19658e3216224c&exp=179
 #EXTVLCOPT:http-user-agent=okhttp
 https://php.946985.filegear-sg.me/mytv265.php?id=SVAR
 #EXTINF:-1 tvg-name="SUPER 識食" tvg-id="SUPER識食" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",SUPER 識食
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=703&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=c9d488cdc7b3da29df5219e511e845d3d48d249d622d23a3c5a7d161d148b7dd
-#EXTINF:-1 tvg-name="SUPER 識食" tvg-id="SUPER識食" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",SUPER 識食
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
 #EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=367&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=bba663dd8cff2a840a90043aa5877bddb4372b95d766face2e8c2730d71a921e
+https://tv123.cc.cd/live.php?ch=589&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=b1e31ccfa1f42862eab409ce6245ee10f5454958421b10b5b5a98d5a3e80758e
+#EXTINF:-1 tvg-name="SUPER 識食" tvg-id="SUPER識食" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",SUPER 識食
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=690&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=16b3c6d32accc5368393491edec85a1fdc8c799994475ccf7bf5d587bfe41285
 #EXTINF:-1 tvg-name="SUPER 識食" tvg-id="SUPER識食" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",SUPER 識食
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1278,14 +1169,14 @@ https://tv123.cc.cd/live.php?ch=367&sid=825fb7afb9a461094e19658e3216224c&exp=179
 #EXTVLCOPT:http-user-agent=okhttp
 https://php.946985.filegear-sg.me/mytv265.php?id=SFOO
 #EXTINF:-1 tvg-name="SUPER 識嘆" tvg-id="SUPER識嘆" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",SUPER 識嘆
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=704&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=4380b1bcf1d8d8c403c1e1a2f9b36efdc5888cee82d98a9946cdd217067a111d
-#EXTINF:-1 tvg-name="SUPER 識嘆" tvg-id="SUPER識嘆" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",SUPER 識嘆
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
 #EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=368&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=57b8701eb12b2d282fe97dd0989fbd2fa299e5b418b007c57e144083c1a5c8cb
+https://tv123.cc.cd/live.php?ch=590&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=fdf42a49564b4330593dd1bf4052b116f491aaf250c91dc3c1232d23f5cc0005
+#EXTINF:-1 tvg-name="SUPER 識嘆" tvg-id="SUPER識嘆" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",SUPER 識嘆
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=691&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=b6f545ae0c461125e22196bd9405f2b025aa628c601c46476505144acf4f3e36
 #EXTINF:-1 tvg-name="SUPER 識嘆" tvg-id="SUPER識嘆" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",SUPER 識嘆
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1293,14 +1184,14 @@ https://tv123.cc.cd/live.php?ch=368&sid=825fb7afb9a461094e19658e3216224c&exp=179
 #EXTVLCOPT:http-user-agent=okhttp
 https://php.946985.filegear-sg.me/mytv265.php?id=STRA
 #EXTINF:-1 tvg-name="真情SUPER煲" tvg-id="真情SUPER煲" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",真情SUPER煲
-#EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=709&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=f7126a7058a8eb6053cdb829850cb0b31c7737e7e1a095a4c00174d6847bac38
-#EXTINF:-1 tvg-name="真情SUPER煲" tvg-id="真情SUPER煲" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",真情SUPER煲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
 #EXTVLCOPT:http-user-agent=okhttp
-https://tv123.cc.cd/live.php?ch=373&sid=825fb7afb9a461094e19658e3216224c&exp=1792910784&sig=3e914c2cbdf31e4498a168332922c524505e3d27e7df45148658a30e4cc97698
+https://tv123.cc.cd/live.php?ch=595&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=f20763ad7abd47af489542b4226f520951b81be34377c2bf6c55e933eba0c3fe
+#EXTINF:-1 tvg-name="真情SUPER煲" tvg-id="真情SUPER煲" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",真情SUPER煲
+#EXTVLCOPT:http-user-agent=okhttp
+https://tv123.cc.cd/live.php?ch=696&sid=34268daa2ee31287fd466aa149fb381b&exp=1792998182&sig=320b8655d65575390ba826609fcd67984690182df95a3212e15687f6a866c615
 #EXTINF:-1 tvg-name="真情SUPER煲" tvg-id="真情SUPER煲" tvg-logo="https://php.946985.filegear-sg.me/logo/MytvSuper.png" group-title="其他轮播",真情SUPER煲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
