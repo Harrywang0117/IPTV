@@ -52,14 +52,11 @@ jobs:
           ${{ github.event.inputs.force == 'true' && 'ARGS="$ARGS --force"' || '' }}
           python python/live下载器.py $ARGS
 
-      - name: 生成分类订阅 iptv/
-        run: python python/直播聚合订阅.py
-
       - name: 提交产物
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git pull --rebase --autostash
-          git add -A tvbox/ livelist.txt iptv/
+          git add -A tvbox/ livelist.txt
           git commit -m "chore(live): 每日更新直播源 $(TZ='CST-8' date +%Y-%m-%d)" || echo "no changes"
           git push
