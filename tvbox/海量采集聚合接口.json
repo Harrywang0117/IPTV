@@ -32,7 +32,7 @@
     },
     {
       "key": "wolong",
-      "name": "卧龙资源",
+      "name": "🍀卧龙资源",
       "type": 1,
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "searchable": 1,
@@ -50,7 +50,7 @@
     },
     {
       "key": "baiduyun",
-      "name": "百度云资源",
+      "name": "🍀百度云资源",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "searchable": 1,
@@ -59,7 +59,7 @@
     },
     {
       "key": "baofeng",
-      "name": "暴风资源",
+      "name": "🍀暴风资源",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -68,7 +68,7 @@
     },
     {
       "key": "jisu",
-      "name": "极速资源",
+      "name": "🍀极速资源",
       "type": 1,
       "api": "https://jszyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -95,7 +95,7 @@
     },
     {
       "key": "modu",
-      "name": "魔都资源",
+      "name": "🍀魔都资源",
       "type": 1,
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -104,7 +104,7 @@
     },
     {
       "key": "sanliuling",
-      "name": "360资源",
+      "name": "🍀360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -149,7 +149,7 @@
     },
     {
       "key": "guangsu",
-      "name": "光速资源",
+      "name": "🍀光速资源",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -176,7 +176,7 @@
     },
     {
       "key": "huya",
-      "name": "虎牙资源",
+      "name": "🍀虎牙资源",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -194,7 +194,7 @@
     },
     {
       "key": "lezi",
-      "name": "乐子资源",
+      "name": "🍀乐子资源",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -266,7 +266,7 @@
     },
     {
       "key": "feifan1",
-      "name": "非凡线路1",
+      "name": "🍀非凡线路1",
       "type": 1,
       "api": "http://ffzy1.tv/api.php/provide/vod",
       "searchable": 1,
@@ -446,7 +446,7 @@
     },
     {
       "key": "maotai",
-      "name": "茅台资源",
+      "name": "🍀茅台资源",
       "type": 1,
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "searchable": 1,
@@ -608,9 +608,9 @@
     },
     {
       "key": "360资源",
-      "name": "360资源",
+      "name": "🍀｜360｜采集",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/at/json/",
+      "api": "https://360zy.com/api.php/seaxml/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1778,9 +1778,9 @@
     },
     {
       "key": "魔都资源",
-      "name": "🤣魔都┃动漫",
+      "name": "魔都丨APP",
       "type": 1,
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod/?ac=list",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2762,6 +2762,33 @@
       "name": "📦 网盘影视·直连版",
       "type": 1,
       "api": "https://xn--5mq46jrwl99dn01d.top/tvbox-api/tvbox/my/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "澜露QQ群: 316032063",
+      "name": "🐧防失联Q群:316032063",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "视频采集3",
+      "name": "采集视频3",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "91md",
+      "name": "91md",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
