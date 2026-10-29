@@ -2714,9 +2714,9 @@
     },
     {
       "key": "3",
-      "name": "👖奈飞",
+      "name": "👖体育",
       "type": 1,
-      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "api": "https://jsnzkpg.de5.net/t4.json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2789,6 +2789,15 @@
       "name": "91md",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "10",
+      "name": "👖奈飞",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
