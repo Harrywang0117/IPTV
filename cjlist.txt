@@ -253,11 +253,11 @@ U酷资源|U酷资源|type: 0|api: https://api.ukuapi88.com/api.php/provide/vod/
 金蝉|金蝉｜聚合|type: 1|api: http://zy.jinchancaiji.com/api.php/provide/vod
 天翼影视|天翼｜影视|type: 1|api: http://7.qqqtv.top/api.php/provide/vod/
 🚨豪华|豪华资源🔥无界|type: 1|api: https://hhzyapi.com/api.php/provide/vod/?ac=list
-2|👖体育|type: 1|api: https://jsnzkpg.de5.net/t4.json
 黄色仓库|AV|🦋 黄色仓库(旧)｜🔞|type: 1|api: https://hsckzy.vip/api.php/provide/vod/
 桃花资源|AV|🦋 桃花资源｜🔞|type: 1|api: https://thzy1.me/api.php/provide/vod/
 乐播资源|AV|🦋 乐播资源｜🔞|type: 1|api: https://lbapi9.com/api.php/provide/vod/
 lsb资源|AV|🦋 lsb资源｜🔞|type: 1|api: https://apilsbzy1.com/api.php/provide/vod/
+2|👖体育|type: 1|api: https://jsnzkpg.de5.net/t4.json
 百度|烂大街！|type: 1|api: https://api.apibdzy.com/api.php/provide/vod/
 虎牙资源|烂大街|type: 1|api: https://www.huyaapi.com/api.php/provide/vod/
 wsycj|采集|type: 1|api: https://api.wsyzy.net/api.php/provide/vod
