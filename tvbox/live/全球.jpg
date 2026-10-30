@@ -1,3 +1,44 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="全球",全球
-404 Not Found
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title></title>
+    <meta name="keywords"
+          content="POETIZE - 最美博客,POETIZE,Sara,生活倒影,最美博客,个人博客,个人网站,生活笔记,记录生活.">
+    <meta name="description" content="POETIZE,作诗,有诗意地描写.这是我的个人网站,我的生活倒影,有诗意地记录自己的生活.">
+    <meta name="author" content="Sara">
+    <link rel="canonical" href="">
+    <link rel="icon" href="">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:title" content="">
+    <meta property="og:description"
+          content="POETIZE,作诗,有诗意地描写.这是我的个人网站,我的生活倒影,有诗意地记录自己的生活.">
+    <meta property="og:image" content="">
+    <meta property="og:site_name" content="">
+    <meta property="og:locale" content="zh_CN">
+    <meta name="robots" content="index, follow">
+    <script src="/assets/jquery.min.js"></script>
+    <script src="/assets/wow.min.js"></script>
+    <script src="/assets/swiper-bundle.min.js"></script>
+    <link rel="stylesheet" href="/assets/swiper-bundle.min.css">
+    <link rel="stylesheet" href="/assets/animate.min.css">
+    <style>
+        body {
+            margin: 0;
+        }
+    </style>
+    <script defer="defer" src="/js/runtime.50c32777.js"></script>
+    <script defer="defer" src="/js/vendor.element-ui.f0394fed.js"></script>
+    <script defer="defer" src="/js/chunk-vendors.7876a006.js"></script>
+    <script defer="defer" src="/js/app.9195cb67.js"></script>
+    <link href="/css/vendor.element-ui.10dd4e95.css" rel="stylesheet">
+    <link href="/css/chunk-vendors.25e4ff52.css" rel="stylesheet">
+    <link href="/css/app.fd2b0f25.css" rel="stylesheet">
+</head>
+<body>
+<div id="app"></div>
+</body>
+<script>new WOW().init();</script>
+</html>

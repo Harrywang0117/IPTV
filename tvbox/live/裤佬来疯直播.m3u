@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="9418832" tvg-name="可乐⁶⁶⁶" tvg-logo="https://yimage.laifeng.com/image/BD9A456F1F7341469A65FF3E99BABDA2?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="新人",可乐⁶⁶⁶
 https://laifeng.445569.xyz/live/9418832
-#EXTINF:-1 tvg-id="618721" tvg-name="大蛋恭贺韩哥升" tvg-logo="https://image.laifeng.com/0A0200006138C4CAA28431818933A499?x-oss-process=null/format,png" group-title="音乐",大蛋恭贺韩哥升 - 负债十万咋的都得干啊
-https://laifeng.445569.xyz/live/618721
+#EXTINF:-1 tvg-id="9417315" tvg-name="张芯雅" tvg-logo="https://yimage.laifeng.com/image/FC96E614131744959773F28BCF34D73D?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",张芯雅
+https://laifeng.445569.xyz/live/9417315
 #EXTINF:-1 tvg-id="9415407" tvg-name="甜心的36度C" tvg-logo="https://yimage.laifeng.com/image/D549316BC39243CE9C424E5144D645EE?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",甜心的36度C
 https://laifeng.445569.xyz/live/9415407
 #EXTINF:-1 tvg-id="9414436" tvg-name="ᵀᴼᴾ知恩" tvg-logo="https://yimage.laifeng.com/image/10BDF7F5D9424AB4A19B54ACECF34FC7?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="颜值",ᵀᴼᴾ知恩
 https://laifeng.445569.xyz/live/9414436
+#EXTINF:-1 tvg-id="57281" tvg-name="天啊丶" tvg-logo="https://yimage.laifeng.com/image/68D9E70E81A8409299107613AA694154?x-oss-process=image/resize,m_fill,h_600,w_600/format,png" group-title="脱口秀",天啊丶 - 闲聊
+https://laifeng.445569.xyz/live/57281
