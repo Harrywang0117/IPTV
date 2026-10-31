@@ -106,7 +106,7 @@ jieyingshi|界影|type: 3|api: https://fastlink.cokey.xyz/f/5rMnUd/jieyingshi.py
 人人影视|♨️人人｜影视|type: 3|api: https://17264.kstore.space/人人影视.py
 皮皮虾|♨️皮虾｜皮皮|type: 3|api: https://pan.szfx.top/down.php/540e0c721a30390c4f5d2d77b8286905.py
 七猫|七猫｜短剧|type: 3|api: https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py
-qw|七味|type: 3|api: https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/七味.py
+qw|七味|type: 3|api: https://pan.29o.cn/down.php/64c724e1188ce33d5e8f04eccbcd455e.py
 央库云|央视｜云聚|type: 3|api: http://47.96.82.41:5188/svip/py/央库云.py
 央视影视|央视｜APP|type: 3|api: http://47.96.82.41:5188/svip/py/央视影视.py
 py_6v|☀六微🔹视频|type: 3|api: https://7337.kstore.vip/xw/py/6v.py
@@ -282,11 +282,14 @@ lav|🦋 lav(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubuser
 小红薯|🦋 小红薯(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/小红薯.py
 推特|🦋 推特(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/推特.py
 kemono|🦋 kemono(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/kemono.py
+洛雪|洛雪|type: 3|api: https://pan.szfx.top/down.php/5c0847922c8e8096eeb8687035667049.py
 西瓜|西瓜|type: 3|api: https://meow.668yun.top/api/s/Kp2S08TE7dpIwYVKnJWyFPfdioM6FVTw/西瓜官方（有部分 4k）.py
 懂骗|懂骗|type: 3|api: https://meow.668yun.top/api/s/ZYpfL0zwfl8JPrvmGZiFxSbVo2T83fWN/懂片.py
 移动|移动|type: 3|api: https://meow.668yun.top/api/s/OWI0MAGzodWnJqBlFEC9C1nJ2g1MmOr9/移动4k.py
 影|影|type: 3|api: https://meow.668yun.top/api/s/NR4CtxMmpYPj4nf1KkkhpDYaH0hX5nC3/影探4K.py
 看剧AI|看剧AI|type: 3|api: https://mpimg.cn/down.php/f05fb3db58ed6eeb41e2e850f4b09115.py
+4kav|4kav|type: 3|api: https://pan.szfx.top/down.php/1fa2308fcccbbd9d125344104d9ca158.py
+央视PY|丨央视丨|type: 3|api: https://mpimg.cn/down.php/a01436462aacba707ad6b678fe42cfa1.py
 存档emby|拾光┃EMBY|type: 3|api: http://47.96.82.41:5188/svip/py/py_emby.py
 锦鲤短剧|锦鲤｜短剧|type: 3|api: http://47.96.82.41:5188/svip/py/锦鲤短剧.py
 软软短剧|软软｜短剧|type: 3|api: http://47.96.82.41:5188/svip/py/软鸭短剧.py

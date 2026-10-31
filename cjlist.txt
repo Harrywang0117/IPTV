@@ -1,4 +1,5 @@
 MV_vod|电视┃MTV|type: 1|api: https://mv.wogg.link/mv/vod
+巨量|巨量 • 影视|type: 1|api: https://api.juliang.live/api/provide/vod
 官采|🎫官采┃[采集]|type: 1|api: https://cj.jusj.top/api.php/provide/vod/?ac=list
 电影天堂|🌼电影┃天堂🌼|type: 1|api: https://caiji.dyttzyapi.com/api.php/provide/vod
 澜露QQ群: 316032063|🐧防失联Q群:316032063|type: 1|api: http://cj.lziapi.com/api.php/provide/vod/
@@ -217,7 +218,6 @@ OK资源|OK资源|type: 0|api: https://api.okzy.org/api.php/provide/vod/from/okm
 爱奇艺资源|爱奇艺资源┃刺桐|type: 1|api: https://iqiyizyapi.com/api.php/provide/vod/
 789资源|789资源┃刺桐|type: 1|api: http://www.caiji.cyou/api.php/provide/vod/
 金蝉资源|金蝉资源┃刺桐|type: 1|api: https://zy.jinchancaiji.com/api.php/provide/vod/
-ysc-pan|📦 网盘影视·直连版|type: 1|api: https://xn--5mq46jrwl99dn01d.top/tvbox-api/tvbox/my/api.php/provide/vod/
 天涯资源|🦋 天涯资源(有三级片)|type: 0|api: https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list
 iKun资源|🦋 iKun资源(有三级片)|type: 0|api: https://ikunzyapi.com/api.php/provide/vod/at/xml
 slyzy|🦋 湿乐园｜🔞|type: 1|api: https://xxavs.com/api.php/provide/vod
@@ -253,6 +253,7 @@ U酷资源|U酷资源|type: 0|api: https://api.ukuapi88.com/api.php/provide/vod/
 金蝉|金蝉｜聚合|type: 1|api: http://zy.jinchancaiji.com/api.php/provide/vod
 天翼影视|天翼｜影视|type: 1|api: http://7.qqqtv.top/api.php/provide/vod/
 🚨豪华|豪华资源🔥无界|type: 1|api: https://hhzyapi.com/api.php/provide/vod/?ac=list
+ysc-pan|📦 网盘影视·直连版|type: 1|api: https://xn--5mq46jrwl99dn01d.top/tvbox-api/tvbox/my/api.php/provide/vod/
 黄色仓库|AV|🦋 黄色仓库(旧)｜🔞|type: 1|api: https://hsckzy.vip/api.php/provide/vod/
 桃花资源|AV|🦋 桃花资源｜🔞|type: 1|api: https://thzy1.me/api.php/provide/vod/
 乐播资源|AV|🦋 乐播资源｜🔞|type: 1|api: https://lbapi9.com/api.php/provide/vod/

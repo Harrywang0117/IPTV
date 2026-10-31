@@ -493,7 +493,7 @@
       "key": "qw",
       "name": "七味",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/七味.py",
+      "api": "https://pan.29o.cn/down.php/64c724e1188ce33d5e8f04eccbcd455e.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -3203,6 +3203,33 @@
       "name": "📌测试",
       "type": 3,
       "api": "https://jsnz.pages.dev/f/e7124867.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "洛雪",
+      "name": "洛雪",
+      "type": 3,
+      "api": "https://pan.szfx.top/down.php/5c0847922c8e8096eeb8687035667049.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "4kav",
+      "name": "4kav",
+      "type": 3,
+      "api": "https://pan.szfx.top/down.php/1fa2308fcccbbd9d125344104d9ca158.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "央视PY",
+      "name": "丨央视丨",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/a01436462aacba707ad6b678fe42cfa1.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
