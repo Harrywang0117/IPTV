@@ -1445,9 +1445,9 @@
     },
     {
       "key": "山木",
-      "name": "山木",
+      "name": "♨️山木｜4K线路",
       "type": 3,
-      "api": "https://fastlink.cokey.xyz/f/p6rZcj/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AE.py",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/sm.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1571,9 +1571,9 @@
     },
     {
       "key": "山楂",
-      "name": "山楂",
+      "name": "♨️山楂｜4K线路",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/393b1f31b4e5525ff2b9a73878a646ee.py",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/sz.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -3230,6 +3230,15 @@
       "name": "丨央视丨",
       "type": 3,
       "api": "https://mpimg.cn/down.php/a01436462aacba707ad6b678fe42cfa1.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "qkw1",
+      "name": "全看影院",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/dd661a252935cd30df6aa185e23d4488.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1

@@ -73,7 +73,7 @@ Xhamster.py|Xhamster.py|type: 3|api: https://raw.githubusercontent.com/yuanwango
 香蕉|香蕉.py|type: 3|api: https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/plugin/adult/香蕉.py
 小红薯APP.py|小红薯APP.py|type: 3|api: https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/plugin/adult/小红薯APP.py
 推特APP.py|推特APP.py|type: 3|api: https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/plugin/adult/推特APP.py
-山木|山木|type: 3|api: https://fastlink.cokey.xyz/f/p6rZcj/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AE.py
+山木|♨️山木｜4K线路|type: 3|api: https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/sm.py
 应该可以|应该可以|type: 3|api: https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py
 爱影视|爱影|type: 3|api: https://fastlink.cokey.xyz/f/aLgkSJ/whaleapp.py
 高清点播|高清点播|type: 3|api: https://pan.29o.cn/down.php/323eba3848f29250c407a014113c784a.py
@@ -84,7 +84,7 @@ Xhamster.py|Xhamster.py|type: 3|api: https://raw.githubusercontent.com/yuanwango
 云播|云播|type: 3|api: https://pan.29o.cn/down.php/50044f29473ab3d13de5d21fdf224154.py
 雪落|雪落|type: 3|api: https://mpimg.cn/down.php/f729b5a1d215a4cbaa147d67f85a410e.py
 4k-av|💓‍4k-av|type: 3|api: https://pan.szfx.top/down.php/21da377c5e328d67e943a2acc1947ff3.py
-山楂|山楂|type: 3|api: https://mpimg.cn/down.php/393b1f31b4e5525ff2b9a73878a646ee.py
+山楂|♨️山楂｜4K线路|type: 3|api: https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/sz.py
 Acfun|Acfun|type: 3|api: https://fastlink.cokey.xyz/f/XB4Oik/Acfun.py
 布布|🐷布布|type: 3|api: https://pan.szfx.top/down.php/254f42dd986cccf7bec7c7f069ef5346.py
 分享|枫叶|type: 3|api: https://pan.szfx.top/down.php/b963d79ea0ea6e386515863d823eab89.py
@@ -282,6 +282,7 @@ lav|🦋 lav(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubuser
 小红薯|🦋 小红薯(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/小红薯.py
 推特|🦋 推特(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/推特.py
 kemono|🦋 kemono(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/kemono.py
+qkw1|全看影院|type: 3|api: https://mpimg.cn/down.php/dd661a252935cd30df6aa185e23d4488.py
 洛雪|洛雪|type: 3|api: https://pan.szfx.top/down.php/5c0847922c8e8096eeb8687035667049.py
 西瓜|西瓜|type: 3|api: https://meow.668yun.top/api/s/Kp2S08TE7dpIwYVKnJWyFPfdioM6FVTw/西瓜官方（有部分 4k）.py
 懂骗|懂骗|type: 3|api: https://meow.668yun.top/api/s/ZYpfL0zwfl8JPrvmGZiFxSbVo2T83fWN/懂片.py
