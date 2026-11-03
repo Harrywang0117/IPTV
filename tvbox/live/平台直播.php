@@ -1,905 +1,150 @@
-    <!-- ===== 顶部悬浮 ===== -->
-<!-- ===== jiuyou cpm ===== -->
-<!--<script src="https://r8quse.icu/api/s/s3db7daa558b.js"></script>-->
-<!-- ===== jiuyou cpc ===== -->
-<!--<script src="https://r8quse.icu/api/s/sedd1082a78b.js"></script>-->
-<!-- ===== 88 cpm ===== -->
-<!--<script src="https://k2n2fzb.com:866/slot?8225462100335650212-42428"></script>-->
-<!-- ===== jiuyou侧边悬浮 ===== -->
-<!--<script src="https://r8quse.icu/api/s/s2deff4a5a2c.js"></script>-->
-<!--<script src="https://r8quse.icu/api/s/s9d19f2bbe38.js"></script>-->
-
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>影视仓 · 4K聚合</title>
-    <!-- Font Awesome 6 (免费图标库) -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
-    <!-- Google Fonts (高端影视风格字体) -->
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
-    <style>
-        /* ============================================================
-                   1. CSS 变量 & 重置
-                   ============================================================ */
-        :root {
-            --gold: #f6b83d;
-            --gold-light: #fce181;
-            --gold-dark: #d48d2b;
-            --red-accent: #e50914;
-            --bg-deep: #0a0a0f;
-            --bg-card: rgba(255, 255, 255, 0.04);
-            --border-glow: rgba(246, 184, 61, 0.15);
-            --text-primary: #f3f7fc;
-            --text-secondary: #a8b9d4;
-            --shadow-heavy: 0 25px 50px -8px rgba(0, 0, 0, 0.8);
-        }
+  <meta charset="utf8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <script>
+      (function(){
+          setTimeout(function(){
+              window.location.reload();
+          }, 5000);
+      }())
+  </script>
+  <link rel="icon" href="data:,">
+  <title>One moment, please...</title>
+  <style>
+.spinner {
+    -webkit-animation: spin 1s ease-out;
+    animation: spin 1s ease-out;
+}
+@keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+        -o-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+#outer-container {
+    text-align: center;
+}
+#container {
+        display: inline-block;
+        height: 100px;
+    }
+#text {
+    float: left;
+    height: 100px;
+    line-height: 100px;
+    font-size: 3rem;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0 .4em 0 .2em;
+    letter-spacing: 0.06em;
+    color: rgba(38, 122, 72, 0.86);
+}
+@media (min-height: 180px) {
+    #outer-container {
+        margin-top: 0;
+    }
+}
+@media (min-height: 360px) {
+    #outer-container {
+        margin-top: 5%;
+    }
+}
+@media (min-height: 540px) {
+    #outer-container {
+        margin-top: 10%;
+    }
+}
+@media (min-height: 720px) {
+    #outer-container {
+        margin-top: 20%;
+    }
+}
+@media (min-width: 1450px) {
+    .throbber {
+        width: 90px;
+        height: 90px;
+        float: left;
+        padding: 5px 0 5px 5px;
+        opacity: 0.86;
+    }
+    #container {
+        display: inline-block;
+        border: 3px solid rgb(38, 122, 72, 0.86);
+        border-radius: 51px;
+        height: 100px;
+    }
+}
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: 'Inter', sans-serif;
-            background: var(--bg-deep);
-            min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 20px;
-            /* 模拟影院暗光环境 */
-            background-image: radial-gradient(circle at 10% 20%, rgba(255, 215, 0, 0.03) 0%, transparent 30%),
-                radial-gradient(circle at 90% 80%, rgba(229, 9, 20, 0.05) 0%, transparent 40%),
-                linear-gradient(135deg, #0a0a0f 0%, #141824 100%);
-            background-attachment: fixed;
-        }
-
-        /* 背景动态光晕 (高端影院氛围) */
-        body::before {
-            content: '';
-            position: fixed;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: radial-gradient(circle at 50% 50%, rgba(246, 184, 61, 0.03) 0%, transparent 50%);
-            animation: ambientGlow 15s ease-in-out infinite alternate;
-            z-index: 0;
-            pointer-events: none;
-        }
-
-        @keyframes ambientGlow {
-            0% {
-                transform: translate(0, 0);
-                opacity: 0.5;
-            }
-            100% {
-                transform: translate(5%, 10%);
-                opacity: 1;
-            }
-        }
-
-        /* ============================================================
-                   2. 主容器 (高级玻璃质感)
-                   ============================================================ */
-        .container {
-            position: relative;
-            z-index: 1;
-            max-width: 480px;
-            width: 100%;
-            background: rgba(18, 22, 36, 0.75);
-            backdrop-filter: blur(20px);
-            -webkit-backdrop-filter: blur(20px);
-            border-radius: 48px 48px 32px 32px;
-            padding: 32px 24px 28px;
-            border: 1px solid rgba(255, 255, 255, 0.06);
-            box-shadow: var(--shadow-heavy), inset 0 1px 0 rgba(255, 255, 255, 0.05);
-            overflow: hidden;
-        }
-
-        /* 顶部金色装饰线 */
-        .container::after {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 10%;
-            width: 80%;
-            height: 2px;
-            background: linear-gradient(90deg, transparent, var(--gold), transparent);
-            opacity: 0.6;
-        }
-
-        /* ============================================================
-                   3. 头部 (影视仓品牌标识)
-                   ============================================================ */
-        .header {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin-bottom: 28px;
-            position: relative;
-            z-index: 2;
-        }
-
-        .header-left {
-            display: flex;
-            align-items: baseline;
-            gap: 10px;
-        }
-
-        .header-left .tv {
-            font-family: 'Playfair Display', serif;
-            font-size: 36px;
-            font-weight: 700;
-            font-style: italic;
-            color: var(--gold);
-            text-shadow: 0 0 20px rgba(246, 184, 61, 0.3), 0 0 60px rgba(246, 184, 61, 0.1);
-            letter-spacing: 2px;
-            line-height: 1;
-        }
-
-        .header-left .tv-sub {
-            font-family: 'Playfair Display', serif;
-            font-size: 24px;
-            font-weight: 400;
-            color: #ffffff;
-            letter-spacing: 6px;
-            opacity: 0.9;
-            text-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
-            margin-left: -2px;
-        }
-
-        /* 装饰性分隔符 */
-        .header-divider {
-            width: 60px;
-            height: 2px;
-            background: linear-gradient(90deg, var(--gold), transparent);
-            margin: -10px auto 20px;
-            border-radius: 2px;
-        }
-
-        /* ============================================================
-                   4. 提示条 (电影风格字幕)
-                   ============================================================ */
-        .notice {
-            background: rgba(246, 184, 61, 0.06);
-            border-left: 3px solid var(--gold);
-            border-radius: 8px;
-            padding: 12px 16px;
-            margin-bottom: 24px;
-            display: flex;
-            align-items: flex-start;
-            gap: 12px;
-            backdrop-filter: blur(4px);
-            border: 1px solid rgba(246, 184, 61, 0.08);
-            border-left-width: 4px;
-        }
-
-        .notice i {
-            color: var(--gold);
-            font-size: 16px;
-            margin-top: 1px;
-            flex-shrink: 0;
-        }
-
-        .notice p {
-            color: var(--text-secondary);
-            font-size: 13px;
-            line-height: 1.7;
-            font-weight: 400;
-            letter-spacing: 0.3px;
-        }
-
-        .notice p strong {
-            color: var(--gold-light);
-            font-weight: 600;
-        }
-
-        .notice .highlight {
-            color: var(--gold);
-            font-weight: 500;
-        }
-
-        /* ============================================================
-                   5. 卡片网格 (高端大气电影感)
-                   ============================================================ */
-        .grid {
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-            margin-bottom: 24px;
-        }
-
-        .card-link {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            background: var(--bg-card);
-            border: 1px solid rgba(255, 255, 255, 0.06);
-            border-radius: 18px;
-            padding: 14px 18px 14px 18px;
-            transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-            cursor: pointer;
-            text-decoration: none;
-            color: inherit;
-            position: relative;
-            backdrop-filter: blur(4px);
-            overflow: hidden;
-        }
-
-        /* 卡片悬停高级效果 */
-        .card-link:hover {
-            background: rgba(255, 255, 255, 0.08);
-            border-color: rgba(246, 184, 61, 0.25);
-            transform: translateY(-4px) scale(1.02);
-            box-shadow: 0 16px 40px -8px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(246, 184, 61, 0.1);
-        }
-
-        .card-link:active {
-            transform: scale(0.98);
-        }
-
-        /* 卡片左侧内容 */
-        .card-link .left {
-            display: flex;
-            align-items: center;
-            gap: 14px;
-            flex: 1;
-            min-width: 0;
-        }
-
-        /* 图标容器 (流光玻璃质感) */
-        .card-link .icon-wrap {
-            width: 44px;
-            height: 44px;
-            border-radius: 14px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 18px;
-            color: #fff;
-            flex-shrink: 0;
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid rgba(255, 255, 255, 0.08);
-            box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
-            transition: all 0.3s ease;
-        }
-
-        .card-link:hover .icon-wrap {
-            background: rgba(246, 184, 61, 0.15);
-            border-color: var(--gold);
-            box-shadow: 0 0 20px rgba(246, 184, 61, 0.15);
-        }
-
-        /* 不同卡片的图标颜色 (柔和高级) */
-        .icon-main i {
-            color: var(--gold);
-        }
-        .icon-backup i {
-            color: #60a5fa;
-        }
-        .icon-multi i {
-            color: #a78bfa;
-        }
-        .icon-tvbox i {
-            color: #34d399;
-        }
-        .icon-ok i {
-            color: #f472b6;
-        }
-        .icon-old i {
-            color: #fb923c;
-        }
-        .icon-tutorial i {
-            color: #22d3ee;
-        }
-
-        /* 文字信息 */
-        .card-link .info {
-            display: flex;
-            flex-direction: column;
-            min-width: 0;
-        }
-
-        .card-link .info .title {
-            font-size: 16px;
-            font-weight: 600;
-            color: var(--text-primary);
-            letter-spacing: 0.5px;
-            transition: color 0.2s;
-        }
-
-        .card-link:hover .info .title {
-            color: #ffffff;
-        }
-
-        .card-link .info .sub {
-            font-size: 12px;
-            color: var(--text-secondary);
-            margin-top: 2px;
-            font-weight: 400;
-            letter-spacing: 0.3px;
-        }
-
-        /* 右侧标签 (电影分级风格) */
-        .card-link .badge {
-            background: rgba(255, 255, 255, 0.06);
-            border: 1px solid rgba(255, 255, 255, 0.06);
-            border-radius: 40px;
-            padding: 4px 14px;
-            font-size: 11px;
-            font-weight: 600;
-            color: var(--text-secondary);
-            white-space: nowrap;
-            flex-shrink: 0;
-            margin-left: 8px;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            transition: all 0.3s ease;
-        }
-
-        .card-link:hover .badge {
-            background: rgba(246, 184, 61, 0.1);
-            border-color: var(--gold);
-            color: var(--gold-light);
-        }
-
-        .card-link .badge-primary {
-            color: var(--gold);
-            border-color: rgba(246, 184, 61, 0.2);
-        }
-
-        /* 箭头 */
-        .card-link .arrow {
-            color: rgba(255, 255, 255, 0.15);
-            font-size: 14px;
-            margin-left: 6px;
-            flex-shrink: 0;
-            transition: all 0.3s ease;
-        }
-
-        .card-link:hover .arrow {
-            color: var(--gold);
-            transform: translateX(4px);
-        }
-
-        /* 卡片底部光晕 (悬停时出现) */
-        .card-link::after {
-            content: '';
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            height: 2px;
-            background: linear-gradient(90deg, transparent, var(--gold), transparent);
-            opacity: 0;
-            transition: opacity 0.3s ease;
-        }
-
-        .card-link:hover::after {
-            opacity: 0.6;
-        }
-
-        /* ============================================================
-                   6. 底部 (网盘4K资源标识)
-                   ============================================================ */
-        .footer-link {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 16px 0 4px;
-            border-top: 1px solid rgba(255, 255, 255, 0.04);
-            margin-top: 8px;
-        }
-
-        .footer-link .tag {
-            font-size: 12px;
-            color: var(--text-secondary);
-            background: rgba(255, 255, 255, 0.03);
-            padding: 6px 18px;
-            border-radius: 40px;
-            border: 1px solid rgba(255, 255, 255, 0.04);
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            letter-spacing: 0.5px;
-            backdrop-filter: blur(4px);
-        }
-
-        .footer-link .tag i {
-            font-size: 12px;
-            color: var(--gold);
-        }
-
-        /* ============================================================
-                   7. 复制弹窗 (高端影院票务风格)
-                   ============================================================ */
-        .copy-modal-overlay {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.85);
-            backdrop-filter: blur(12px);
-            -webkit-backdrop-filter: blur(12px);
-            justify-content: center;
-            align-items: center;
-            z-index: 1000;
-            padding: 24px;
-            animation: fadeIn 0.3s ease;
-        }
-
-        .copy-modal-overlay.active {
-            display: flex;
-        }
-
-        .copy-modal {
-            background: linear-gradient(145deg, rgba(26, 35, 48, 0.95), rgba(17, 25, 34, 0.98));
-            backdrop-filter: blur(20px);
-            border-radius: 32px;
-            padding: 36px 28px 28px;
-            max-width: 400px;
-            width: 100%;
-            border: 1px solid rgba(255, 255, 255, 0.08);
-            box-shadow: 0 50px 100px -12px rgba(0, 0, 0, 0.8), 0 0 0 1px rgba(246, 184, 61, 0.05);
-            position: relative;
-            text-align: center;
-            animation: slideUp 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
-        }
-
-        @keyframes slideUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px) scale(0.95);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0) scale(1);
-            }
-        }
-
-        .copy-modal .copy-close {
-            position: absolute;
-            top: 16px;
-            right: 18px;
-            background: none;
-            border: none;
-            color: rgba(255, 255, 255, 0.3);
-            font-size: 20px;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-
-        .copy-modal .copy-close:hover {
-            color: #fff;
-            transform: rotate(90deg);
-        }
-
-        .copy-modal .copy-icon {
-            font-size: 48px;
-            color: var(--gold);
-            margin-bottom: 8px;
-            text-shadow: 0 0 30px rgba(246, 184, 61, 0.2);
-        }
-
-        .copy-modal h3 {
-            font-family: 'Playfair Display', serif;
-            color: #ffffff;
-            font-size: 22px;
-            font-weight: 700;
-            margin-bottom: 4px;
-            letter-spacing: 1px;
-        }
-
-        .copy-modal .copy-desc {
-            color: var(--text-secondary);
-            font-size: 14px;
-            margin-bottom: 20px;
-            font-weight: 300;
-        }
-
-        .copy-modal .addr-box {
-            background: rgba(0, 0, 0, 0.5);
-            border-radius: 16px;
-            padding: 16px 18px;
-            border: 1px solid rgba(255, 255, 255, 0.06);
-            word-break: break-all;
-            font-size: 15px;
-            color: #eef3fc;
-            font-weight: 500;
-            font-family: 'Inter', monospace;
-            margin-bottom: 24px;
-            user-select: all;
-            box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.4);
-        }
-
-        .copy-modal .copy-btn {
-            background: linear-gradient(135deg, var(--gold), var(--gold-dark));
-            border: none;
-            border-radius: 60px;
-            padding: 14px 36px;
-            font-size: 16px;
-            font-weight: 700;
-            color: #0b0e14;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            display: inline-flex;
-            align-items: center;
-            gap: 10px;
-            box-shadow: 0 8px 28px rgba(246, 184, 61, 0.25);
-            letter-spacing: 0.5px;
-        }
-
-        .copy-modal .copy-btn:hover {
-            transform: scale(1.04);
-            box-shadow: 0 12px 40px rgba(246, 184, 61, 0.4);
-            filter: brightness(1.05);
-        }
-
-        .copy-modal .copy-btn:active {
-            transform: scale(0.96);
-        }
-
-        .copy-modal .copy-status {
-            margin-top: 16px;
-            font-size: 14px;
-            color: #34d399;
-            height: 24px;
-            font-weight: 500;
-        }
-
-        /* ============================================================
-                   8. 工具 & 动画类
-                   ============================================================ */
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-            }
-            to {
-                opacity: 1;
-            }
-        }
-
-        /* 响应式微调 */
-        @media (max-width: 420px) {
-            .container {
-                padding: 24px 16px 20px;
-                border-radius: 32px;
-            }
-            .header-left .tv {
-                font-size: 28px;
-            }
-            .header-left .tv-sub {
-                font-size: 20px;
-                letter-spacing: 4px;
-            }
-            .card-link {
-                padding: 12px 14px;
-            }
-            .card-link .icon-wrap {
-                width: 38px;
-                height: 38px;
-                font-size: 16px;
-            }
-            .card-link .info .title {
-                font-size: 15px;
-            }
-            .card-link .badge {
-                font-size: 10px;
-                padding: 3px 10px;
-            }
-            .copy-modal {
-                padding: 28px 18px 22px;
-            }
-            .copy-modal .addr-box {
-                font-size: 13px;
-                padding: 12px 14px;
-            }
-        }
-
-        @media (max-width: 360px) {
-            .header-left .tv {
-                font-size: 24px;
-            }
-            .header-left .tv-sub {
-                font-size: 17px;
-                letter-spacing: 2px;
-            }
-            .card-link .left {
-                gap: 10px;
-            }
-            .card-link .icon-wrap {
-                width: 32px;
-                height: 32px;
-                font-size: 14px;
-            }
-            .card-link .info .sub {
-                font-size: 10px;
-            }
-        }
-    </style>
+  </style>
 </head>
 <body>
-
-    <!-- ============================================================
-    主容器
-    ============================================================ -->
-    <div class="container">
-
-        <!-- 头部 -->
-        <div class="header">
-            <div class="header-left">
-                <span class="tv">TV</span>
-                <span class="tv-sub">影视仓</span>
-            </div>
-        </div>
-        <div class="header-divider"></div>
-
-        <!-- 提示条 -->
-        <div class="notice">
-            <i class="fas fa-circle-exclamation"></i>
-            <p>
-                主接口如果配置失败，可换<strong>备用接口</strong>！最新软件可在下方内置
-                <span class="highlight">影视仓</span>，内置 <span class="highlight">ok影视</span> 中下载。
-                老设备可用最下方的 <strong>安卓4.x专用</strong>。
-            </p>
-        </div>
-
-        <!-- 卡片列表 -->
-        <div class="grid">
-
-            <!-- 网盘4K配置教程 (链接跳转) -->
-            <a class="card-link" href="https://www.kdocs.cn/l/clE7ivDI3NAr" target="_blank">
-                <div class="left">
-                    <div class="icon-wrap icon-tutorial"><i class="fas fa-book-open"></i></div>
-                    <div class="info">
-                        <div class="title">网盘4K配置教程</div>
-                        <div class="sub">详细教程</div>
-                    </div>
-                </div>
-                <span class="badge">教程</span>
-                <i class="fas fa-chevron-right arrow"></i>
-            </a>
-
-            <!-- 主接口 (点击复制) -->
-            <div class="card-link" data-copy="https://700sjro44343.vicp.fun/240731/one/" data-name="主接口">
-                <div class="left">
-                    <div class="icon-wrap icon-main"><i class="fas fa-plug"></i></div>
-                    <div class="info">
-                        <div class="title">主接口</div>
-                        <div class="sub">配置即用</div>
-                    </div>
-                </div>
-                <span class="badge badge-primary">推荐</span>
-                <i class="fas fa-chevron-right arrow"></i>
-            </div>
-
-        <!-- ===== 固定横幅广告1  cpc ===== -->
-<!-- jiuyou cpm固定横幅 -->
-<!--<script id="gg178-scr1pt" src="https://r8quse.icu/api/s/s2d41b828098.js"></script>-->
-
-<!-- 88 cpm固定横幅 -->
-<!--<script src="https://k2n2fzb.com:866/slot?8225462100335650212-42429"></script>-->
-
-
-            <!-- 备用接口 (点击复制) -->
-            <div class="card-link" data-copy="http://www.影视仓.com" data-name="备用接口">
-                <div class="left">
-                    <div class="icon-wrap icon-backup"><i class="fas fa-circle-nodes"></i></div>
-                    <div class="info">
-                        <div class="title">备用接口</div>
-                        <div class="sub">配置即用</div>
-                    </div>
-                </div>
-                <span class="badge">备用</span>
-                <i class="fas fa-chevron-right arrow"></i>
-            </div>
-
-            <!-- 多仓地址 (点击复制) -->
-            <div class="card-link" data-copy="https://700sjro44343.vicp.fun/vip/vip/duo.txt" data-name="多仓地址">
-                <div class="left">
-                    <div class="icon-wrap icon-multi"><i class="fas fa-layer-group"></i></div>
-                    <div class="info">
-                        <div class="title">多仓地址</div>
-                        <div class="sub">在线更新</div>
-                    </div>
-                </div>
-                <span class="badge">更新</span>
-                <i class="fas fa-chevron-right arrow"></i>
-            </div>
-
-            <!-- 内置影视仓 (链接跳转) -->
-            <a class="card-link" href="https://drive.uc.cn/s/2029e450e3544?public=1#/list/share" target="_blank">
-                <div class="left">
-                    <div class="icon-wrap icon-tvbox"><i class="fas fa-film"></i></div>
-                    <div class="info">
-                        <div class="title">内置影视仓</div>
-                        <div class="sub">安装即用</div>
-                    </div>
-                </div>
-                <span class="badge">最新</span>
-                <i class="fas fa-chevron-right arrow"></i>
-            </a>
-
-            <!-- 内置OK影视 (链接跳转) -->
-            <a class="card-link" href="https://drive.uc.cn/s/780b370d1fb74?public=1#/list/share" target="_blank">
-                <div class="left">
-                    <div class="icon-wrap icon-ok"><i class="fas fa-check-circle"></i></div>
-                    <div class="info">
-                        <div class="title">内置OK影视</div>
-                        <div class="sub">安装即用</div>
-                    </div>
-                </div>
-                <span class="badge">稳定</span>
-                <i class="fas fa-chevron-right arrow"></i>
-            </a>
-
-            <!-- 老设备安卓4.x专用 (链接跳转) -->
-            <a class="card-link" href="https://drive.uc.cn/s/af18def0210c4?public=1#/list/share" target="_blank">
-                <div class="left">
-                    <div class="icon-wrap icon-old"><i class="fas fa-robot"></i></div>
-                    <div class="info">
-                        <div class="title">老设备安卓4.x专用</div>
-                        <div class="sub">兼容轻量</div>
-                    </div>
-                </div>
-                <span class="badge">经典</span>
-                <i class="fas fa-chevron-right arrow"></i>
-            </a>
-
-        </div>
-
-
-
-        <!-- ===== 固定横幅广告2  cpc ===== -->
-<!-- ===== jiuyo  cpc ===== -->
-<!--<script id="gg178-scr1pt" src="https://r8quse.icu/api/s/sfd4904e5bb9.js"></script>-->
-<!-- jiuyou cpm固定横幅 -->
-<!--<script id="gg178-scr1pt" src="https://r8quse.icu/api/s/s2d41b828098.js"></script>-->
-
-<!-- 88 cpm固定横幅 -->
-<!--<script src="https://k2n2fzb.com:866/slot?8225462100335650212-42429"></script>-->
-
-
-        <!-- 底部 -->
-        <div class="footer-link">
-            <span class="tag">
-                <i class="fas fa-cloud-arrow-up"></i> 网盘4K资源
-            </span>
-        </div>
-
+  <div id="outer-container">
+    <div id="container">
+<div class="throbber">
+    <svg class="spinner" width="90px" height="90px" viewBox="0 0 47 47"
+         version="1.1"
+         xmlns="http://www.w3.org/2000/svg"
+         xmlns:xlink="http://www.w3.org/1999/xlink">
+        <title>Loader</title>
+        <defs>
+            <polygon id="path-1"
+                     points="0 0.375484146 0 15.7255695 15.7013244 15.7255695 15.7013244 0.375484146 0 0.375484146"></polygon>
+        </defs>
+        <g id="Page-1" stroke="none" stroke-width="1" fill="none"
+           fill-rule="evenodd">
+            <g id="Logo" transform="translate(-5.000000, -2.000000)">
+                <g id="Group-2" transform="translate(5.000000, 2.000000)">
+                    <path d="M22.6150244,4.52988293 C23.1538049,3.06256585 23.6031707,1.59582195 24.231939,0.158882927 C25.1902805,2.22459024 25.8190488,4.43989512 26.7768171,6.47579756 C29.1417195,7.40376098 31.7164024,7.7929439 34.1116829,8.69110244 C28.9623171,11.2663585 23.7229634,13.7510537 18.4836098,16.176139 C19.7709512,12.2545049 21.2382683,8.4217122 22.6150244,4.52988293 L22.6150244,4.52988293 Z"
+                          id="Fill-1" fill="#467C45"></path>
+                    <path d="M13.7718598,8.94461585 C16.1424939,7.68077439 18.4500793,6.28968902 20.8207134,5.02527439 C18.9240915,10.8412378 16.7747012,16.5614817 14.8465549,22.3774451 C12.7292622,18.3950549 10.895689,14.2544695 8.9044939,10.2090305 C8.27228659,8.85004268 7.5455061,7.55353049 7.00844512,6.16359146 C9.31545732,6.95342073 11.4648476,8.24935976 13.7718598,8.94461585"
+                          id="Fill-3" fill="#467C45"></path>
+                    <path d="M24.2134256,15.0745049 C29.4602305,12.4969561 34.7379866,9.91940732 40.0157427,7.4031878 C39.1565598,9.61276098 38.1747183,11.7300537 37.2232549,13.9086756 C38.4504134,16.2099561 39.9544134,18.388578 41.0898646,20.7511878 C35.4435598,18.9405415 29.8287793,17.0381878 24.2134256,15.0745049"
+                          id="Fill-5" fill="#467C45"></path>
+                    <g id="Group-9"
+                       transform="translate(0.000000, 11.919659)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-8"></g>
+                        <path d="M8.34869024,0.375484146 C9.93064146,3.33419146 11.2781659,6.43963049 12.7426171,9.45622805 C13.7387878,11.5362646 14.793422,13.5876427 15.7013244,15.7255695 C10.4579585,13.9091915 5.21401951,12.03435 -0.000114634146,10.0718134 C2.05069024,9.1341061 4.21842195,8.4898622 6.29845854,7.61119146 C6.97193415,5.17980122 7.67521463,2.77706951 8.34869024,0.375484146"
+                              id="Fill-7" fill="#467C45"
+                              mask="url(#mask-2)"></path>
+                    </g>
+                    <path d="M29.1793195,18.0496049 C33.5600634,19.4670561 37.9081366,21.0776659 42.2888805,22.5593122 C43.6742341,23.0745927 45.1558805,23.4609098 46.5085634,24.1372512 C44.2216122,25.039422 41.9025634,25.9100683 39.6477098,26.8110927 C38.8103073,29.4195927 38.2302585,32.1261049 37.3607585,34.7346049 C35.5890878,31.4497634 34.0432463,28.0353854 32.3684415,24.6852024 C31.3052098,22.4945439 30.1456854,20.3044585 29.1793195,18.0496049"
+                          id="Fill-10" fill="#467C45"></path>
+                    <path d="M28.9972232,29.3489207 C29.5789915,27.69475 30.0684793,26.0113476 30.7419549,24.3887012 C31.538089,25.7660305 32.1811866,27.2356402 32.9154183,28.6444939 C34.7220524,32.4709817 36.68115,36.205189 38.4568329,40.0316768 C36.2827963,39.1449817 34.1402841,38.1654329 31.9364427,37.2460671 C29.6403207,38.4709329 27.4662841,39.9405427 25.1094061,41.1035061 C26.3033207,37.1549329 27.7419793,33.2671159 28.9972232,29.3489207"
+                          id="Fill-12" fill="#467C45"></path>
+                    <path d="M4.97133902,25.64555 C9.93385122,27.1873793 14.7737049,29.036428 19.6748878,30.6705378 C20.4148512,30.9170012 21.1542415,31.1944159 21.8328756,31.5337329 C16.5304732,33.9685622 11.3214976,36.6498549 5.95776585,38.99355 C6.82096098,36.8355622 7.89966829,34.7698549 8.7319122,32.581489 C7.68358293,30.1764646 6.11194878,28.01905 4.97133902,25.64555"
+                          id="Fill-14" fill="#467C45"></path>
+                    <path d="M15.4549183,35.8770488 C19.4671134,33.9317073 23.4483573,31.8952317 27.4915037,30.0433171 C26.4110768,33.6542927 25.0222841,37.203939 23.8186256,40.8143415 C23.1090402,42.7275854 22.5530646,44.7033049 21.7511988,46.5855976 C20.7630524,44.4866463 20.0534671,42.2650366 19.1277963,40.1351341 C16.6276256,39.2094634 14.0042232,38.684439 11.4736744,37.9748537 C12.6773329,37.0801341 14.1584061,36.586061 15.4549183,35.8770488"
+                          id="Fill-16" fill="#467C45"></path>
+                </g>
+            </g>
+        </g>
+    </svg>
+</div>
+      <div id="text">
+        Please wait while your request is being verified...
+      </div>
     </div>
-
-    <!-- ============================================================
-    复制弹窗
-    ============================================================ -->
-    <div class="copy-modal-overlay" id="copyModalOverlay">
-        <div class="copy-modal">
-            <button class="copy-close" id="copyModalClose"><i class="fas fa-times"></i></button>
-            <div class="copy-icon"><i class="fas fa-link"></i></div>
-            <h3 id="copyModalTitle">主接口</h3>
-            <p class="copy-desc">点击下方按钮复制地址，在应用中粘贴使用</p>
-            <div class="addr-box" id="copyModalAddr">http://www.影视仓.com</div>
-            <button class="copy-btn" id="copyModalBtn">
-                <i class="fas fa-copy"></i> 复制地址
-            </button>
-            <div class="copy-status" id="copyStatus"></div>
-        </div>
-    </div>
-
-    <!-- ============================================================
-    JavaScript 交互
-    ============================================================ -->
-    <script>
-        (function() {
-            'use strict';
-
-            // 获取元素
-            const copyOverlay = document.getElementById('copyModalOverlay');
-            const copyClose = document.getElementById('copyModalClose');
-            const copyTitle = document.getElementById('copyModalTitle');
-            const copyAddr = document.getElementById('copyModalAddr');
-            const copyBtn = document.getElementById('copyModalBtn');
-            const copyStatus = document.getElementById('copyStatus');
-
-            let currentCopyText = '';
-
-            // 打开弹窗
-            function openCopyModal(name, address) {
-                currentCopyText = address;
-                copyTitle.textContent = name;
-                copyAddr.textContent = address;
-                copyStatus.textContent = '';
-                copyStatus.style.color = '#34d399';
-                copyOverlay.classList.add('active');
-                document.body.style.overflow = 'hidden';
-            }
-
-            // 关闭弹窗
-            function closeCopyModal() {
-                copyOverlay.classList.remove('active');
-                document.body.style.overflow = '';
-                copyStatus.textContent = '';
-            }
-
-            // 关闭事件
-            copyClose.addEventListener('click', closeCopyModal);
-            copyOverlay.addEventListener('click', function(e) {
-                if (e.target === this) closeCopyModal();
-            });
-            document.addEventListener('keydown', function(e) {
-                if (e.key === 'Escape' && copyOverlay.classList.contains('active')) {
-                    closeCopyModal();
-                }
-            });
-
-            // 复制逻辑
-            function fallbackCopy(text) {
-                const textarea = document.createElement('textarea');
-                textarea.value = text;
-                textarea.style.position = 'fixed';
-                textarea.style.left = '-9999px';
-                textarea.style.top = '-9999px';
-                document.body.appendChild(textarea);
-                textarea.select();
-                try {
-                    const success = document.execCommand('copy');
-                    if (success) {
-                        copyStatus.textContent = '✅ 已复制到剪贴板！';
-                        copyStatus.style.color = '#34d399';
-                    } else {
-                        copyStatus.textContent = '❌ 复制失败，请手动复制';
-                        copyStatus.style.color = '#f87171';
-                    }
-                } catch (e) {
-                    copyStatus.textContent = '❌ 复制失败，请手动复制';
-                    copyStatus.style.color = '#f87171';
-                }
-                document.body.removeChild(textarea);
-            }
-
-            copyBtn.addEventListener('click', function() {
-                if (!currentCopyText) return;
-                if (navigator.clipboard && navigator.clipboard.writeText) {
-                    navigator.clipboard.writeText(currentCopyText).then(() => {
-                        copyStatus.textContent = '✅ 已复制到剪贴板！';
-                        copyStatus.style.color = '#34d399';
-                    }).catch(() => {
-                        fallbackCopy(currentCopyText);
-                    });
-                } else {
-                    fallbackCopy(currentCopyText);
-                }
-            });
-
-            // 绑定 data-copy 卡片
-            document.querySelectorAll('.card-link[data-copy]').forEach(el => {
-                el.addEventListener('click', function(e) {
-                    const address = this.getAttribute('data-copy');
-                    const name = this.getAttribute('data-name') || '地址';
-                    if (address) {
-                        openCopyModal(name, address);
-                    }
-                });
-            });
-
-            console.log('🎬 影视仓 · 高端聚合页已加载');
-        })();
-    </script>
-
+  </div>
+  <div id="yut231x32xyd"></div>
+  <script>
+var a0I=a0v;(function(d,Q){var a0y={d:0xac,Q:0x94,m:0xaa,v:0xa5,p:0xae,r:0xb5,w:0xca,o:0xbb},U=a0v,m=d();while(!![]){try{var v=parseInt(U(0xc5))/0x1*(-parseInt(U(0xbc))/0x2)+parseInt(U(a0y.d))/0x3*(-parseInt(U(a0y.Q))/0x4)+parseInt(U(0x99))/0x5*(-parseInt(U(a0y.m))/0x6)+-parseInt(U(a0y.v))/0x7*(-parseInt(U(a0y.p))/0x8)+-parseInt(U(a0y.r))/0x9*(parseInt(U(0xa9))/0xa)+-parseInt(U(a0y.w))/0xb*(-parseInt(U(a0y.o))/0xc)+parseInt(U(0x93))/0xd;if(v===Q)break;else m['push'](m['shift']());}catch(p){m['push'](m['shift']());}}}(a0m,0xb1385));function a0v(d,Q){var m=a0m();return a0v=function(v,p){v=v-0x92;var r=m[v];return r;},a0v(d,Q);}var a0p=window[a0I(0xc8)],a0r={'webdriverCheck':function(){var a0a={d:0xc6},t=a0I;return t(a0a.d)in window||!!a0p[t(0xc6)];},'userAgentCheck':function(){var a0c={d:0x9d,Q:0x9b},B=a0I;return/headless|bytespider/i[B(a0c.d)](a0p[B(a0c.Q)]);},'appVersionCheck':function(){var a0e={d:0x9d},T=a0I;return/headless/i[T(a0e.d)](a0p['appVersion']);},'pluginArraySpoofing':function(){var a0S={d:0x96,Q:0xb0,m:0xb0,v:0xb7},k=a0I;let d=PluginArray[k(a0S.d)]===a0p[k(a0S.Q)]['__proto__'];if(a0p[k(a0S.m)]['length']>0x0)d&=Plugin[k(0x96)]===a0p[k(a0S.Q)][0x0][k(a0S.v)];return!d;},'mimeTypeArraySpoofing':function(){var a0n={d:0xa2},Y=a0I;let d=MimeTypeArray['prototype']===a0p[Y(a0n.d)]['__proto__'];if(a0p['mimeTypes'][Y(0x98)]>0x0)d&=MimeType[Y(0x96)]===a0p['mimeTypes'][0x0]['__proto__'];return!d;},'noLanguage':function(){var a0g={d:0x98},J=a0I;return!a0p[J(0x92)]||a0p[J(0xa1)][J(a0g.d)]===0x0;},'zeroOuterDimensions':function(){return window['outerHeigh'+'t']===0x0&&window['outerWidth']===0x0;}},a0w=function(m,v){var a0z={d:0xbe,Q:0xab,m:0xb6},C=a0I,p=(function(){var w=!![];return function(o,s){var b=w?function(){if(s){var h=s['apply'](o,arguments);return s=null,h;}}:function(){};return w=![],b;};}()),r=p(this,function(){var G=a0v;return r[G(0x9a)]()[G(0xb6)](G(a0z.d)+'+$')[G(0x9a)]()[G(a0z.Q)+'r'](r)[G(a0z.m)](G(0xbe)+'+$');});r(),window[C(0x9c)+'stener']?window[C(0xa0)][C(0x9c)+C(0xc9)]('DOMContent'+C(0xad),m,v):window['document'][C(0xcb)+'t']('onreadysta'+C(0xbd),m);};a0w(function(){var a0W={d:0xa0,Q:0xc4,m:0xb4,v:0xba,p:0xaf,r:0xba,w:0xaf,o:0x98,s:0x9f,b:0xb9,h:0xc0,M:0xa7,X:0xa4,N:0xa3,O:0x95,Z:0xb2,H:0xc3,x:0x95,K:0xc7,j:0x9e,D:0xb3,I:0xb8,y:0xa8,a:0x9e,c:0xc2,e:0xa8,S:0x97,n:0xc1};setTimeout(function(){var f=a0v,d=window[f(a0W.d)][f(a0W.Q)+f(0xa6)]('yut231x32xyd'),Q=+((+!+[]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![])),m=window['document']['createElem'+'ent']('form'),v=window[f(a0W.d)]['createElem'+f(0xaf)](f(a0W.m)),p=window[f(a0W.d)][f(a0W.v)+f(0xaf)](f(0xb4)),r=window[f(0xa0)]['createElem'+'ent'](f(0xb4)),w=window[f(0xa0)][f(0xba)+f(a0W.p)](f(a0W.m)),o=window['document'][f(a0W.r)+f(a0W.w)](f(0xb4)),s=+((+!+[]+!![]+!![])+(+!+[]+!![]+!![]+!![]+!![]+[])+(+!+[]+!![]+!![]+!![]+!![])+(+!+[]+!![]+!![]+[])+(+![])+(+!+[]+!![]+!![]+!![]+!![]+!![]+!![]+!![]+[])+(+![])),b='wsidchk',h='pdata',M='http%3A%2F%2Fnn666.shop',X='/z0f76a1d14fd21a8fb5fd0d03e0fdc3d3cedae52f',N='failedChecks',O=Object['entries'](a0r)['map'](([K,j])=>{try{return j()?K:null;}catch(D){return null;}})[f(0xb1)](K=>K!==null),Z=O[f(a0W.o)]>0x0;if(Z){var H=new URLSearchParams();H[f(0xc0)]('id',f(a0W.s)+'1b41b08f12'+f(a0W.b)+'9e'),H[f(a0W.h)]('ts','1793742619'),H['append'](b,Q+s),H[f(0xc0)](h,M),H['append'](f(a0W.M),'0'),O[f(a0W.X)](K=>H[f(0xc0)](N,K));var x=new XMLHttpRequest();x[f(a0W.N)](f(a0W.O),X+'?'+H[f(0x9a)]()),x[f(a0W.Z)](null);}else m['id']='yut231x32xyd',m[f(0xbf)]='display:no'+'ne;',m[f(a0W.H)]=f(a0W.x),m[f(a0W.K)]=X,v['id']='pinjursg7zyg',v[f(0xc2)]=b,v['value']=Q+s,v['type']=f(a0W.j),r['name']='id',r[f(0xa8)]=f(a0W.D)+'60b54a2be4'+f(a0W.I)+'c7',r[f(0x97)]=f(a0W.j),w['name']='ts',w[f(a0W.y)]='1793742619',w[f(0x97)]=f(a0W.a),p['id']='lkipz2bpsdr0',p[f(a0W.c)]=h,p[f(a0W.e)]=M,p[f(0x97)]=f(a0W.j),o[f(0xc2)]=f(a0W.M),o['value']='0',o[f(a0W.S)]=f(0x9e),m[f(a0W.n)+'d'](v),m['appendChil'+'d'](p),m[f(a0W.n)+'d'](r),m[f(0xc1)+'d'](w),m['appendChil'+'d'](o),d[f(0xc1)+'d'](m),m['submit']();},0x3e8);},![]);function a0m(){var u=['languages','mimeTypes','open','forEach','950446zkBThY','ById','cttl','value','30nAUhTd','5030544yduVkp','constructo','966198oXUofg','Loaded','40FYCCxA','ent','plugins','filter','send','7fa3b767c4','input','3830634iFfzlD','search','__proto__','d49030b349','0950635027','createElem','98232BcNxND','2535326XxWouZ','techange','(((.+)+)+)','style','append','appendChil','name','method','getElement','1dRnHcE','webdriver','action','navigator','stener','1045BCoNgg','attachEven','language','42853590rEAgso','8eulsqM','GET','prototype','type','length','5xSDjTG','toString','userAgent','addEventLi','test','hidden','a6105c0a61','document'];a0m=function(){return u;};return a0m();}
+  </script>
 </body>
 </html>
-
-
-<!-- ===== 底部悬浮 ===== -->
-<!-- ===== jiuyo cpm===== -->
-<!--<script src="https://r8quse.icu/api/s/s7d502366b8e.js"></script>-->
-<!-- ===== jiuyo cpc===== -->
-<!--<script src="https://r8quse.icu/api/s/s9dc86d02e8a.js"></script>-->
-<!-- ===== 88 cpm===== -->
-<!--<script src="https://k2n2fzb.com:866/slot?8225462100335650212-2537"></script>-->
