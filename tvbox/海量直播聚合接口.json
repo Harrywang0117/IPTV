@@ -79,7 +79,7 @@
       "source": "澜露"
     },
     {
-      "name": "综合直播",
+      "name": "综合",
       "url": "http://193.123.86.190:14888/TV/iptv.php",
       "ua": "bingcha/1.1 (mianfeifenxiang)",
       "source": "饭太硬6线"
@@ -103,7 +103,7 @@
       "source": "王二小5线"
     },
     {
-      "name": "综合直播1线",
+      "name": "综合直播",
       "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "ua": "bingcha/1.1 (mianfeifenxiang) ",
       "source": "王二小5线"
@@ -697,7 +697,7 @@
       "source": "东篱"
     },
     {
-      "name": "综合直播2线",
+      "name": "综合直播1线",
       "url": "https://ds65.tv1288.xyz",
       "ua": "bingcha/1.1 (mianfeifenxiang) ",
       "source": "东篱"
