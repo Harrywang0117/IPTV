@@ -38,7 +38,6 @@ CCTV1,http://59.173.122.230:10001/rtp/239.254.96.3:7992
 CCTV1,http://www.rogerxlj.top:9998/rtp/233.18.204.168:5140
 CCTV1,http://www.rogerxlj.top:9998/rtp/233.18.204.52:5140
 CCTV1,http://www.rogerxlj.top:9998/rtp/233.18.204.20:5140
-CCTV1,http://www.221111.best:8012/rtp/239.3.1.129:8008
 CCTV2,http://www.siyao.xin:4000/rtp/225.1.4.74:1103
 CCTV2,http://www.siyao.xin:4000/rtp/225.1.4.2:1031
 CCTV2,http://ddns.cyruslee.top:8888/rtp/239.77.0.137:5146
@@ -60,7 +59,6 @@ CCTV2,http://59.173.122.230:10001/rtp/239.69.1.102:10250
 CCTV2,http://59.173.122.230:10001/rtp/239.254.96.154:8998
 CCTV2,http://www.rogerxlj.top:9998/rtp/233.18.204.68:5140
 CCTV2,http://www.rogerxlj.top:9998/rtp/233.18.204.21:5140
-CCTV2,http://www.221111.best:8012/rtp/239.3.1.60:8084
 CCTV3,http://www.siyao.xin:4000/rtp/225.1.4.158:1194
 CCTV3,http://ddns.cyruslee.top:8888/rtp/239.77.0.32:5146
 CCTV3,http://ddns.cyruslee.top:8888/rtp/239.77.0.169:5146
@@ -82,8 +80,6 @@ CCTV3,http://www.wpfhome.cn:5555/rtp/235.254.199.141:7980
 CCTV3,http://59.173.122.230:10001/rtp/239.69.1.122:10370
 CCTV3,http://www.rogerxlj.top:9998/rtp/233.18.204.69:5140
 CCTV3,http://www.rogerxlj.top:9998/rtp/233.18.204.22:5140
-CCTV3,http://www.221111.best:8012/rtp/239.3.1.172:8001
-CCTV3,http://www.221111.best:8012/rtp/239.3.1.193:8012
 CCTV4,http://www.siyao.xin:4000/rtp/225.1.5.30:1333
 CCTV4,http://www.siyao.xin:4000/rtp/225.1.4.4:1033
 CCTV4,http://www.siyao.xin:4000/rtp/225.1.5.31:1342
@@ -124,9 +120,6 @@ CCTV4K,http://www.rogerxlj.top:9998/rtp/233.18.204.188:5140
 CCTV4K,http://www.rogerxlj.top:9998/rtp/233.18.204.204:5140
 CCTV4,http://www.rogerxlj.top:9998/rtp/233.18.204.70:5140
 CCTV4,http://www.rogerxlj.top:9998/rtp/233.18.204.23:5140
-CCTV4,http://www.221111.best:8012/rtp/239.3.1.105:8092
-CCTV4,http://www.221111.best:8012/rtp/239.3.1.213:4220
-CCTV4,http://www.221111.best:8012/rtp/239.3.1.214:4220
 CCTV5,http://www.siyao.xin:4000/rtp/225.1.4.159:1195
 CCTV5,http://www.siyao.xin:4000/rtp/225.1.4.75:1104
 CCTV5,http://ddns.cyruslee.top:8888/rtp/239.77.0.170:5146
@@ -163,9 +156,6 @@ CCTV5+,http://59.173.122.230:10001/rtp/239.254.96.99:8568
 CCTV5,http://www.rogerxlj.top:9998/rtp/233.18.204.71:5140
 CCTV5+,http://www.rogerxlj.top:9998/rtp/233.18.204.67:5140
 CCTV5,http://www.rogerxlj.top:9998/rtp/233.18.204.24:5140
-CCTV5,http://www.221111.best:8012/rtp/239.3.1.173:8001
-CCTV5+,http://www.221111.best:8012/rtp/239.3.1.130:8004
-CCTV5,http://www.221111.best:8012/rtp/239.3.1.89:4120
 CCTV6,http://www.siyao.xin:4000/rtp/225.1.4.160:1196
 CCTV6,http://ddns.cyruslee.top:8888/rtp/239.77.0.35:5146
 CCTV6,http://ddns.cyruslee.top:8888/rtp/239.77.0.171:5146
@@ -183,7 +173,6 @@ CCTV6,http://www.wpfhome.cn:5555/rtp/235.254.199.143:7980
 CCTV6,http://59.173.122.230:10001/rtp/239.69.1.124:10382
 CCTV6,http://www.rogerxlj.top:9998/rtp/233.18.204.72:5140
 CCTV6,http://www.rogerxlj.top:9998/rtp/233.18.204.25:5140
-CCTV6,http://www.221111.best:8012/rtp/239.3.1.174:8001
 CCTV7,http://www.siyao.xin:4000/rtp/225.1.4.76:1105
 CCTV7,http://www.siyao.xin:4000/rtp/225.1.4.7:1036
 CCTV7,http://ddns.cyruslee.top:8888/rtp/239.77.0.36:5146
@@ -203,7 +192,6 @@ CCTV7,http://59.173.122.230:10001/rtp/239.69.1.103:10256
 CCTV7,http://59.173.122.230:10001/rtp/239.254.96.156:9130
 CCTV7,http://www.rogerxlj.top:9998/rtp/233.18.204.73:5140
 CCTV7,http://www.rogerxlj.top:9998/rtp/233.18.204.26:5140
-CCTV7,http://www.221111.best:8012/rtp/239.3.1.61:8104
 CCTV8,http://www.siyao.xin:4000/rtp/225.1.4.161:1197
 CCTV8,http://ddns.cyruslee.top:8888/rtp/239.77.0.37:5146
 CCTV8,http://ddns.cyruslee.top:8888/rtp/239.77.0.172:5146
@@ -221,8 +209,6 @@ CCTV8,http://www.wpfhome.cn:5555/rtp/235.254.199.144:7980
 CCTV8,http://59.173.122.230:10001/rtp/239.69.1.125:10388
 CCTV8,http://www.rogerxlj.top:9998/rtp/233.18.204.74:5140
 CCTV8,http://www.rogerxlj.top:9998/rtp/233.18.204.27:5140
-CCTV8,http://www.221111.best:8012/rtp/239.3.1.175:8001
-CCTV8,http://www.221111.best:8012/rtp/239.3.1.85:4120
 CCTV9,http://www.siyao.xin:4000/rtp/225.1.4.77:1106
 CCTV9,http://www.siyao.xin:4000/rtp/225.1.4.9:1038
 CCTV9,http://ddns.cyruslee.top:8888/rtp/239.77.0.38:5146
@@ -241,7 +227,6 @@ CCTV9,http://59.173.122.230:10001/rtp/239.69.1.104:10262
 CCTV9,http://59.173.122.230:10001/rtp/239.254.96.157:9016
 CCTV9,http://www.rogerxlj.top:9998/rtp/233.18.204.75:5140
 CCTV9,http://www.rogerxlj.top:9998/rtp/233.18.204.40:5140
-CCTV9,http://www.221111.best:8012/rtp/239.3.1.62:8112
 CCTV10,http://www.siyao.xin:4000/rtp/225.1.4.78:1107
 CCTV10,http://www.siyao.xin:4000/rtp/225.1.4.10:1039
 CCTV10,http://ddns.cyruslee.top:8888/rtp/239.77.0.39:5146
@@ -264,8 +249,6 @@ CCTV10,http://59.173.122.230:10001/rtp/239.69.1.105:10268
 CCTV10,http://59.173.122.230:10001/rtp/239.254.96.158:9022
 CCTV10,http://www.rogerxlj.top:9998/rtp/233.18.204.76:5140
 CCTV10,http://www.rogerxlj.top:9998/rtp/233.18.204.29:5140
-CCTV10,http://www.221111.best:8012/rtp/239.3.1.63:8116
-CCTV10,http://www.221111.best:8012/rtp/239.3.1.86:4120
 CCTV11,http://www.siyao.xin:4000/rtp/225.1.4.215:1268
 CCTV11,http://www.siyao.xin:4000/rtp/225.1.4.11:1040
 CCTV11,http://ddns.cyruslee.top:8888/rtp/239.77.0.40:5146
@@ -288,7 +271,6 @@ CCTV11,http://59.173.122.230:10001/rtp/239.254.96.159:9028
 CCTV11,http://59.173.122.230:10001/rtp/239.254.96.9:8028
 CCTV11,http://www.rogerxlj.top:9998/rtp/233.18.204.77:5140
 CCTV11,http://www.rogerxlj.top:9998/rtp/233.18.204.30:5140
-CCTV11,http://www.221111.best:8012/rtp/239.3.1.152:8120
 CCTV12,http://www.siyao.xin:4000/rtp/225.1.4.79:1108
 CCTV12,http://www.siyao.xin:4000/rtp/225.1.4.12:1041
 CCTV12,http://ddns.cyruslee.top:8888/rtp/239.77.0.41:5146
@@ -309,7 +291,6 @@ CCTV12,http://59.173.122.230:10001/rtp/239.69.1.106:10274
 CCTV12,http://59.173.122.230:10001/rtp/239.254.96.160:9034
 CCTV12,http://www.rogerxlj.top:9998/rtp/233.18.204.78:5140
 CCTV12,http://www.rogerxlj.top:9998/rtp/233.18.204.31:5140
-CCTV12,http://www.221111.best:8012/rtp/239.3.1.64:8124
 CCTV13,http://www.siyao.xin:4000/rtp/225.1.4.113:1293
 CCTV13,http://www.siyao.xin:4000/rtp/225.1.4.13:1042
 CCTV13,http://ddns.cyruslee.top:8888/rtp/239.77.0.42:5146
@@ -330,7 +311,6 @@ CCTV13,http://59.173.122.230:10001/rtp/239.254.96.161:9040
 CCTV13,http://59.173.122.230:10001/rtp/239.254.96.11:8040
 CCTV13,http://www.rogerxlj.top:9998/rtp/233.18.204.79:5140
 CCTV13,http://www.rogerxlj.top:9998/rtp/233.18.204.32:5140
-CCTV13,http://www.221111.best:8012/rtp/239.3.1.124:8128
 CCTV14,http://www.siyao.xin:4000/rtp/225.1.4.80:1109
 CCTV14,http://www.siyao.xin:4000/rtp/225.1.4.14:1043
 CCTV14,http://ddns.cyruslee.top:8888/rtp/239.77.0.43:5146
@@ -350,7 +330,6 @@ CCTV14,http://59.173.122.230:10001/rtp/239.69.1.107:10280
 CCTV14,http://59.173.122.230:10001/rtp/239.254.96.162:9046
 CCTV14,http://www.rogerxlj.top:9998/rtp/233.18.204.80:5140
 CCTV14,http://www.rogerxlj.top:9998/rtp/233.18.204.33:5140
-CCTV14,http://www.221111.best:8012/rtp/239.3.1.65:8132
 CCTV15,http://www.siyao.xin:4000/rtp/225.1.4.216:1269
 CCTV15,http://www.siyao.xin:4000/rtp/225.1.4.15:1044
 CCTV15,http://ddns.cyruslee.top:8888/rtp/239.77.1.120:5146
@@ -371,7 +350,6 @@ CCTV15,http://59.173.122.230:10001/rtp/239.69.1.155:10566
 CCTV15,http://59.173.122.230:10001/rtp/239.254.96.13:8052
 CCTV15,http://www.rogerxlj.top:9998/rtp/233.18.204.81:5140
 CCTV15,http://www.rogerxlj.top:9998/rtp/233.18.204.34:5140
-CCTV15,http://www.221111.best:8012/rtp/239.3.1.153:8136
 CCTV16,http://www.siyao.xin:4000/rtp/225.1.5.46:1356
 CCTV16,http://ddns.cyruslee.top:8888/rtp/239.77.0.165:5146
 CCTV16,http://60.26.60.19:8000/rtp/225.1.2.237:5002
@@ -381,7 +359,6 @@ CCTV16,http://59.173.122.230:10001/rtp/239.69.1.247:11124
 CCTV16,http://www.rogerxlj.top:9998/rtp/233.18.204.114:5140
 CCTV16,http://www.rogerxlj.top:9998/rtp/233.18.204.215:5140
 CCTV16,http://www.rogerxlj.top:9998/rtp/233.18.204.82:5140
-CCTV16,http://www.221111.best:8012/rtp/239.3.1.184:8001
 CCTV17,http://www.siyao.xin:4000/rtp/225.1.4.226:2506
 CCTV17,http://www.siyao.xin:4000/rtp/225.1.4.227:2507
 CCTV17,http://ddns.cyruslee.top:8888/rtp/239.77.0.115:5146
@@ -404,7 +381,6 @@ CCTV17,http://59.173.122.230:10001/rtp/239.69.1.152:10548
 CCTV17,http://59.173.122.230:10001/rtp/239.69.1.153:10554
 CCTV17,http://www.rogerxlj.top:9998/rtp/233.18.204.83:5140
 CCTV17,http://www.rogerxlj.top:9998/rtp/233.18.204.35:5140
-CCTV17,http://www.221111.best:8012/rtp/239.3.1.151:8144
 央视台球,http://ddns.cyruslee.top:8888/rtp/239.253.43.11:5146
 央视台球,http://ddns.cyruslee.top:8888/rtp/239.253.43.21:5146
 央视文化精品,http://ddns.cyruslee.top:8888/rtp/239.253.43.13:5146
@@ -440,7 +416,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 三沙卫视,http://59.173.122.230:10001/rtp/239.69.1.171:10662
 三沙卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.172:5140
 三沙卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.149:5140
-三沙卫视,http://www.221111.best:8012/rtp/239.3.1.155:4120
 东南卫视,http://www.siyao.xin:4000/rtp/225.1.4.228:1274
 东南卫视,http://www.siyao.xin:4000/rtp/225.1.4.32:1061
 东南卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.146:5146
@@ -460,7 +435,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 东南卫视,http://59.173.122.230:10001/rtp/239.254.96.26:8130
 东南卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.94:5140
 东南卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.128:5140
-东南卫视,http://www.221111.best:8012/rtp/239.3.1.156:8148
 东方卫视,http://www.siyao.xin:4000/rtp/225.1.4.85:1114
 东方卫视,http://www.siyao.xin:4000/rtp/225.1.4.22:1051
 东方卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.98:5146
@@ -479,7 +453,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 东方卫视,http://59.173.122.230:10001/rtp/239.254.96.2:7986
 东方卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.51:5140
 东方卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.1:5140
-东方卫视,http://www.221111.best:8012/rtp/239.3.1.136:8032
 东方卫视4K,http://www.siyao.xin:4000/rtp/225.1.5.70:1380
 东方卫视4K,http://ddns.cyruslee.top:8888/rtp/239.77.0.59:5146
 东方卫视4K,http://17782331118.top:8188/rtp/235.254.197.190:7980
@@ -487,7 +460,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 东方卫视4K,http://www.wpfhome.cn:5555/rtp/235.254.197.190:7980
 东方卫视4K,http://59.173.122.230:10001/rtp/239.69.2.37:11376
 东方卫视4K,http://www.rogerxlj.top:9998/rtp/233.18.204.224:5140
-东方卫视4K,http://www.221111.best:8012/rtp/239.3.1.119:3006
 九画面卫视1,http://118.113.123.6:8686/rtp/239.94.2.133:5140
 九画面卫视1,http://118.113.123.6:8686/rtp/239.94.2.132:5140
 九画面卫视2,http://118.113.123.6:8686/rtp/239.94.2.134:5140
@@ -514,7 +486,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 云南卫视,http://59.173.122.230:10001/rtp/239.254.96.30:8154
 云南卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.106:5140
 云南卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.136:5140
-云南卫视,http://www.221111.best:8012/rtp/239.3.1.26:8108
 保定卫视,http://60.26.60.19:8000/rtp/225.1.1.83:5002
 兵团卫视,http://www.siyao.xin:4000/rtp/225.1.4.97:1126
 兵团卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.48:5146
@@ -544,7 +515,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 内蒙古卫视,http://59.173.122.230:10001/rtp/239.254.96.41:8220
 内蒙古卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.217:5140
 内蒙古卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.141:5140
-内蒙古卫视,http://www.221111.best:8012/rtp/239.3.1.43:8176
 北京卫视,http://www.siyao.xin:4000/rtp/225.1.4.81:1110
 北京卫视,http://www.siyao.xin:4000/rtp/225.1.4.21:1050
 北京卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.91:5146
@@ -566,7 +536,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 北京卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.87:5140
 北京卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.210:5140
 北京卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.118:5140
-北京卫视,http://www.221111.best:8012/rtp/239.3.1.241:8000
 北京卫视4K,http://www.siyao.xin:4000/rtp/225.1.5.67:1377
 北京卫视4K,http://ddns.cyruslee.top:8888/rtp/239.77.0.2:5146
 北京卫视4K,http://ddns.cyruslee.top:8888/rtp/239.77.0.3:5146
@@ -579,14 +548,11 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 北京卫视4K,http://www.wpfhome.cn:5555/rtp/235.254.197.50:7980
 北京卫视4K,http://59.173.122.230:10001/rtp/239.69.2.22:11286
 北京卫视4K,http://www.rogerxlj.top:9998/rtp/233.18.204.209:5140
-北京卫视4K,http://www.221111.best:8012/rtp/239.3.1.140:8001
-北京卫视4K,http://www.221111.best:8012/rtp/239.3.1.139:8001
 厦门卫视,http://www.siyao.xin:4000/rtp/225.1.4.95:1124
 厦门卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.96:5146
 厦门卫视,http://118.113.123.6:8686/rtp/239.94.0.104:5140
 厦门卫视,http://118.113.123.6:8686/rtp/239.94.2.210:5140
 厦门卫视,http://59.173.122.230:10001/rtp/239.69.1.127:10400
-厦门卫视,http://www.221111.best:8012/rtp/239.3.1.143:4120
 吉林卫视,http://www.siyao.xin:4000/rtp/225.1.4.174:1309
 吉林卫视,http://www.siyao.xin:4000/rtp/225.1.4.36:1065
 吉林卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.150:5146
@@ -605,7 +571,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 吉林卫视,http://59.173.122.230:10001/rtp/239.254.96.91:8520
 吉林卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.108:5140
 吉林卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.131:5140
-吉林卫视,http://www.221111.best:8012/rtp/239.3.1.240:8172
 四川卫视,http://www.siyao.xin:4000/rtp/225.1.4.151:1306
 四川卫视,http://www.siyao.xin:4000/rtp/225.1.4.40:1069
 四川卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.159:5146
@@ -628,7 +593,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 四川卫视,http://59.173.122.230:10001/rtp/239.69.1.169:10650
 四川卫视,http://59.173.122.230:10001/rtp/239.254.96.90:8514
 四川卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.124:5140
-四川卫视,http://www.221111.best:8012/rtp/239.3.1.29:8288
 四川卫视4K,http://www.siyao.xin:4000/rtp/225.1.5.75:1385
 四川卫视4K,http://ddns.cyruslee.top:8888/rtp/239.77.0.60:5146
 四川卫视4K,http://17782331118.top:8188/rtp/235.254.197.197:7980
@@ -638,7 +602,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 四川卫视4K,http://59.173.122.230:10001/rtp/239.69.1.28:9808
 四川卫视4K,http://www.rogerxlj.top:9998/rtp/233.18.204.225:5140
 四川卫视4K,http://www.rogerxlj.top:9998/rtp/233.18.204.99:5140
-四川卫视4K,http://www.221111.best:8012/rtp/239.3.1.131:3001
 大湾区卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.215:5146
 大湾区卫视,http://ddns.cyruslee.top:8888/rtp/239.77.1.12:5146
 天津卫视,http://www.siyao.xin:4000/rtp/225.1.4.86:1115
@@ -661,7 +624,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 天津卫视,http://59.173.122.230:10001/rtp/239.254.96.29:8148
 天津卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.97:5140
 天津卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.129:5140
-天津卫视,http://www.221111.best:8012/rtp/239.3.1.141:1234
 宁夏卫视,http://www.siyao.xin:4000/rtp/225.1.4.43:1072
 宁夏卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.49:5146
 宁夏卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.73:5146
@@ -701,7 +663,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 安徽卫视,http://59.173.122.230:10001/rtp/239.254.96.20:8094
 安徽卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.93:5140
 安徽卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.127:5140
-安徽卫视,http://www.221111.best:8012/rtp/239.3.1.211:8064
 山东卫视,http://www.siyao.xin:4000/rtp/225.1.4.88:1117
 山东卫视,http://www.siyao.xin:4000/rtp/225.1.4.27:1056
 山东卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.94:5146
@@ -719,7 +680,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 山东卫视,http://59.173.122.230:10001/rtp/239.254.96.21:8100
 山东卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.91:5140
 山东卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.125:5140
-山东卫视,http://www.221111.best:8012/rtp/239.3.1.209:8052
 山东卫视4K,http://www.siyao.xin:4000/rtp/225.1.5.73:1383
 山东卫视4K,http://ddns.cyruslee.top:8888/rtp/239.77.0.61:5146
 山东卫视4K,http://17782331118.top:8188/rtp/235.254.197.195:7980
@@ -728,7 +688,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 山东卫视4K,http://59.173.122.230:10001/rtp/239.69.1.26:9796
 山东卫视4K,http://59.173.122.230:10001/rtp/239.69.2.38:11382
 山东卫视4K,http://www.rogerxlj.top:9998/rtp/233.18.204.228:5140
-山东卫视4K,http://www.221111.best:8012/rtp/239.3.1.144:3005
 山东教育卫视,http://ddns.cyruslee.top:8888/rtp/239.77.1.35:5146
 山东教育卫视,http://17782331118.top:8188/rtp/235.254.197.54:7980
 山东教育卫视,http://17782331118.top:8188/rtp/235.254.198.153:7980
@@ -740,7 +699,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 山东教育卫视,http://www.wpfhome.cn:5555/rtp/235.254.198.153:7980
 山东教育卫视,http://www.wpfhome.cn:5555/rtp/235.254.199.153:7980
 山东教育卫视,http://59.173.122.230:10001/rtp/239.69.1.228:11010
-山东教育卫视,http://www.221111.best:8012/rtp/239.3.1.52:4120
 山西卫视,http://www.siyao.xin:4000/rtp/225.1.4.38:1067
 山西卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.69:5146
 山西卫视,http://ddns.cyruslee.top:8888/rtp/239.77.1.74:5146
@@ -754,7 +712,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 山西卫视,http://59.173.122.230:10001/rtp/239.254.96.93:8532
 山西卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.211:5140
 山西卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.132:5140
-山西卫视,http://www.221111.best:8012/rtp/239.3.1.42:8172
 广东卫视,http://www.siyao.xin:4000/rtp/225.1.4.166:1207
 广东卫视,http://www.siyao.xin:4000/rtp/225.1.4.30:1059
 广东卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.84:5146
@@ -775,7 +732,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 广东卫视,http://59.173.122.230:10001/rtp/239.254.96.22:8106
 广东卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.88:5140
 广东卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.138:5140
-广东卫视,http://www.221111.best:8012/rtp/239.3.1.142:8048
 广东卫视4K,http://www.siyao.xin:4000/rtp/225.1.5.69:1379
 广东卫视4K,http://ddns.cyruslee.top:8888/rtp/239.77.0.27:5146
 广东卫视4K,http://ddns.cyruslee.top:8888/rtp/239.77.0.65:5146
@@ -785,7 +741,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 广东卫视4K,http://www.wpfhome.cn:5555/rtp/235.254.197.55:7980
 广东卫视4K,http://59.173.122.230:10001/rtp/239.69.2.27:11316
 广东卫视4K,http://www.rogerxlj.top:9998/rtp/233.18.204.218:5140
-广东卫视4K,http://www.221111.best:8012/rtp/239.3.1.203:2000
 广西卫视,http://www.siyao.xin:4000/rtp/225.1.4.31:1060
 广西卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.139:5146
 广西卫视,http://ddns.cyruslee.top:8888/rtp/239.253.43.36:5146
@@ -801,7 +756,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 广西卫视,http://59.173.122.230:10001/rtp/239.254.96.23:8112
 广西卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.107:5140
 广西卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.123:5140
-广西卫视,http://www.221111.best:8012/rtp/239.3.1.39:8300
 康巴卫视,http://118.113.123.6:8686/rtp/239.94.0.78:5140
 康巴卫视,http://118.113.123.6:8686/rtp/239.94.2.184:5140
 延边卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.10:5146
@@ -840,7 +794,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 旅游卫视,http://59.173.122.230:10001/rtp/239.254.96.24:8118
 旅游卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.102:5140
 旅游卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.122:5140
-旅游卫视,http://www.221111.best:8012/rtp/239.3.1.45:8304
 星空卫视,http://118.113.123.6:8686/rtp/239.94.2.54:5140
 星空卫视,http://118.113.123.6:8686/rtp/239.94.2.53:5140
 江苏卫视,http://www.siyao.xin:4000/rtp/225.1.4.83:1112
@@ -861,7 +814,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 江苏卫视,http://59.173.122.230:10001/rtp/239.254.96.17:8076
 江苏卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.85:5140
 江苏卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.120:5140
-江苏卫视,http://www.221111.best:8012/rtp/239.3.1.135:8028
 江苏卫视4K,http://www.siyao.xin:4000/rtp/225.1.5.71:1381
 江苏卫视4K,http://ddns.cyruslee.top:8888/rtp/239.77.0.57:5146
 江苏卫视4K,http://17782331118.top:8188/rtp/235.254.197.191:7980
@@ -870,7 +822,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 江苏卫视4K,http://59.173.122.230:10001/rtp/239.69.1.24:9784
 江苏卫视4K,http://59.173.122.230:10001/rtp/239.69.2.36:11370
 江苏卫视4K,http://www.rogerxlj.top:9998/rtp/233.18.204.226:5140
-江苏卫视4K,http://www.221111.best:8012/rtp/239.3.1.113:3003
 江西卫视,http://www.siyao.xin:4000/rtp/225.1.4.139:1305
 江西卫视,http://www.siyao.xin:4000/rtp/225.1.4.37:1066
 江西卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.149:5146
@@ -891,7 +842,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 江西卫视,http://59.173.122.230:10001/rtp/239.254.96.27:8136
 江西卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.95:5140
 江西卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.130:5140
-江西卫视,http://www.221111.best:8012/rtp/239.3.1.123:8164
 河东卫视,http://60.26.60.19:8000/rtp/225.1.2.2:5002
 河北卫视,http://www.siyao.xin:4000/rtp/225.1.4.123:1304
 河北卫视,http://www.siyao.xin:4000/rtp/225.1.4.34:1063
@@ -914,7 +864,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 河北卫视,http://59.173.122.230:10001/rtp/239.254.96.185:9190
 河北卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.103:5140
 河北卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.140:5140
-河北卫视,http://www.221111.best:8012/rtp/239.3.1.148:8072
 河南卫视,http://www.siyao.xin:4000/rtp/225.1.4.51:1080
 河南卫视,http://www.siyao.xin:4000/rtp/225.1.4.98:1127
 河南卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.17:5146
@@ -935,7 +884,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 河南卫视,http://59.173.122.230:10001/rtp/239.254.96.28:8142
 河南卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.105:5140
 河南卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.145:5140
-河南卫视,http://www.221111.best:8012/rtp/239.3.1.50:8184
 河南卫视4K,http://www.siyao.xin:4000/rtp/225.1.4.254:1300
 河西卫视,http://60.26.60.19:8000/rtp/225.1.2.4:5002
 浙江卫视,http://www.siyao.xin:4000/rtp/225.1.4.84:1113
@@ -955,7 +903,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 浙江卫视,http://59.173.122.230:10001/rtp/239.254.96.143:8932
 浙江卫视,http://59.173.122.230:10001/rtp/239.254.96.18:8082
 浙江卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.84:5140
-浙江卫视,http://www.221111.best:8012/rtp/239.3.1.137:8036
 浙江卫视4K,http://www.siyao.xin:4000/rtp/225.1.5.72:1382
 浙江卫视4K,http://ddns.cyruslee.top:8888/rtp/239.77.0.58:5146
 浙江卫视4K,http://17782331118.top:8188/rtp/235.254.197.194:7980
@@ -964,7 +911,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 浙江卫视4K,http://59.173.122.230:10001/rtp/239.69.2.35:11364
 浙江卫视4K,http://59.173.122.230:10001/rtp/239.69.1.25:9790
 浙江卫视4K,http://www.rogerxlj.top:9998/rtp/233.18.204.229:5140
-浙江卫视4K,http://www.221111.best:8012/rtp/239.3.1.114:3004
 海南卫视,http://www.siyao.xin:4000/rtp/225.1.4.25:1054
 海南卫视,http://www.siyao.xin:4000/rtp/225.1.4.195:1310
 海南卫视,http://ddns.cyruslee.top:8888/rtp/239.253.43.35:5146
@@ -993,7 +939,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 深圳卫视,http://59.173.122.230:10001/rtp/239.254.96.34:8178
 深圳卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.89:5140
 深圳卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.146:5140
-深圳卫视,http://www.221111.best:8012/rtp/239.3.1.134:8020
 深圳卫视4K,http://www.siyao.xin:4000/rtp/225.1.5.68:1378
 深圳卫视4K,http://ddns.cyruslee.top:8888/rtp/239.77.0.67:5146
 深圳卫视4K,http://ddns.cyruslee.top:8888/rtp/239.77.1.14:5146
@@ -1002,7 +947,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 深圳卫视4K,http://www.wpfhome.cn:5555/rtp/235.254.197.56:7980
 深圳卫视4K,http://59.173.122.230:10001/rtp/239.69.2.28:11322
 深圳卫视4K,http://www.rogerxlj.top:9998/rtp/233.18.204.219:5140
-深圳卫视4K,http://www.221111.best:8012/rtp/239.3.1.202:2000
 渐江卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.121:5140
 湖北卫视,http://www.siyao.xin:4000/rtp/225.1.4.89:1118
 湖北卫视,http://www.siyao.xin:4000/rtp/225.1.4.35:1064
@@ -1024,7 +968,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 湖北卫视,http://59.173.122.230:10001/rtp/239.254.96.1:7980
 湖北卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.92:5140
 湖北卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.142:5140
-湖北卫视,http://www.221111.best:8012/rtp/239.3.1.138:8044
 湖南卫视,http://www.siyao.xin:4000/rtp/225.1.4.82:1111
 湖南卫视,http://www.siyao.xin:4000/rtp/225.1.4.17:1046
 湖南卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.88:5146
@@ -1045,7 +988,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 湖南卫视,http://59.173.122.230:10001/rtp/239.254.96.15:8064
 湖南卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.86:5140
 湖南卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.119:5140
-湖南卫视,http://www.221111.best:8012/rtp/239.3.1.132:8012
 湖南卫视4K,http://www.siyao.xin:4000/rtp/225.1.5.76:1386
 湖南卫视4K,http://ddns.cyruslee.top:8888/rtp/239.77.0.56:5146
 湖南卫视4K,http://17782331118.top:8188/rtp/235.254.197.196:7980
@@ -1057,7 +999,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 湖南卫视4K,http://59.173.122.230:10001/rtp/239.69.1.27:9802
 湖南卫视4K,http://59.173.122.230:10001/rtp/239.69.2.34:11358
 湖南卫视4K,http://www.rogerxlj.top:9998/rtp/233.18.204.227:5140
-湖南卫视4K,http://www.221111.best:8012/rtp/239.3.1.112:3002
 甘肃卫视,http://www.siyao.xin:4000/rtp/225.1.4.42:1071
 甘肃卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.189:5146
 甘肃卫视,http://ddns.cyruslee.top:8888/rtp/239.77.1.57:5146
@@ -1091,7 +1032,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 西藏卫视,http://59.173.122.230:10001/rtp/239.254.96.35:8184
 西藏卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.222:5140
 西藏卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.134:5140
-西藏卫视,http://www.221111.best:8012/rtp/239.3.1.166:8188
 贵州卫视,http://www.siyao.xin:4000/rtp/225.1.4.122:1302
 贵州卫视,http://www.siyao.xin:4000/rtp/225.1.4.41:1070
 贵州卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.230:5146
@@ -1112,7 +1052,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 贵州卫视,http://59.173.122.230:10001/rtp/239.254.96.31:8160
 贵州卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.101:5140
 贵州卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.144:5140
-贵州卫视,http://www.221111.best:8012/rtp/239.3.1.149:8076
 辽宁卫视,http://www.siyao.xin:4000/rtp/225.1.4.167:1208
 辽宁卫视,http://www.siyao.xin:4000/rtp/225.1.4.26:1055
 辽宁卫视,http://ddns.cyruslee.top:8888/rtp/239.77.1.103:5146
@@ -1131,7 +1070,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 辽宁卫视,http://59.173.122.230:10001/rtp/239.254.96.19:8088
 辽宁卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.96:5140
 辽宁卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.126:5140
-辽宁卫视,http://www.221111.best:8012/rtp/239.3.1.210:8056
 重庆卫视,http://www.siyao.xin:4000/rtp/225.1.4.157:1308
 重庆卫视,http://www.siyao.xin:4000/rtp/225.1.4.29:1058
 重庆卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.182:5146
@@ -1150,7 +1088,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 重庆卫视,http://59.173.122.230:10001/rtp/239.254.96.25:8124
 重庆卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.100:5140
 重庆卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.143:5140
-重庆卫视,http://www.221111.best:8012/rtp/239.3.1.122:8160
 陕西卫视,http://www.siyao.xin:4000/rtp/225.1.4.39:1068
 陕西卫视,http://ddns.cyruslee.top:8888/rtp/239.77.0.68:5146
 陕西卫视,http://ddns.cyruslee.top:8888/rtp/239.77.1.54:5146
@@ -1164,7 +1101,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 陕西卫视,http://59.173.122.230:10001/rtp/239.254.96.186:9196
 陕西卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.223:5140
 陕西卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.135:5140
-陕西卫视,http://www.221111.best:8012/rtp/239.3.1.41:8140
 青海卫视,http://www.siyao.xin:4000/rtp/225.1.4.44:1073
 青海卫视,http://ddns.cyruslee.top:8888/rtp/239.77.1.70:5146
 青海卫视,http://ddns.cyruslee.top:8888/rtp/239.253.43.125:5146
@@ -1179,7 +1115,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 青海卫视,http://59.173.122.230:10001/rtp/239.254.96.95:8544
 青海卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.112:5140
 青海卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.133:5140
-青海卫视,http://www.221111.best:8012/rtp/239.3.1.44:8184
 静海卫视,http://60.26.60.19:8000/rtp/225.1.1.110:5002
 黑龙江卫视,http://www.siyao.xin:4000/rtp/225.1.4.91:1120
 黑龙江卫视,http://www.siyao.xin:4000/rtp/225.1.4.28:1057
@@ -1203,7 +1138,6 @@ CCTV央视台球,http://60.26.60.19:8000/rtp/225.1.2.170:5002
 黑龙江卫视,http://59.173.122.230:10001/rtp/239.254.96.92:8526
 黑龙江卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.90:5140
 黑龙江卫视,http://www.rogerxlj.top:9998/rtp/233.18.204.139:5140
-黑龙江卫视,http://www.221111.best:8012/rtp/239.3.1.133:8016
 
 其他,#genre#
 4K乐享超清,http://118.113.123.6:8686/rtp/239.94.1.162:5140
@@ -1228,7 +1162,6 @@ CETV1,http://17782331118.top:8188/rtp/235.254.199.196:7980
 CETV1,http://118.113.123.6:8686/rtp/239.94.1.2:5140
 CETV1,http://www.wpfhome.cn:5555/rtp/235.254.198.196:7980
 CETV1,http://www.wpfhome.cn:5555/rtp/235.254.199.196:7980
-CETV1,http://www.221111.best:8012/rtp/239.3.1.57:8152
 CETV1HD,http://59.173.122.230:10001/rtp/239.69.1.110:10298
 CETV1HD,http://www.rogerxlj.top:9998/rtp/233.18.204.98:5140
 CETV1SD,http://17782331118.top:8188/rtp/235.254.197.172:7980
@@ -1237,7 +1170,6 @@ CETV1SD,http://www.wpfhome.cn:5555/rtp/235.254.197.172:7980
 CETV1SD,http://www.rogerxlj.top:9998/rtp/233.18.204.153:5140
 CETV2,http://ddns.cyruslee.top:8888/rtp/239.77.0.28:5146
 CETV2,http://ddns.cyruslee.top:8888/rtp/239.77.1.69:5146
-CETV2,http://www.221111.best:8012/rtp/239.3.1.54:4120
 CETV2SD,http://118.113.123.6:8686/rtp/239.94.1.19:5140
 CETV2SD,http://118.113.123.6:8686/rtp/239.94.2.228:5140
 CETV2SD,http://59.173.122.230:10001/rtp/239.69.1.183:10734
@@ -1247,7 +1179,6 @@ CETV4,http://ddns.cyruslee.top:8888/rtp/239.253.43.114:5146
 CETV4,http://17782331118.top:8188/rtp/235.254.197.53:7980
 CETV4,http://118.113.123.6:8686/rtp/239.94.1.20:5140
 CETV4,http://www.wpfhome.cn:5555/rtp/235.254.197.53:7980
-CETV4,http://www.221111.best:8012/rtp/239.3.1.56:4120
 CETV4HD,http://59.173.122.230:10001/rtp/239.69.2.29:11328
 CETV4HD,http://www.rogerxlj.top:9998/rtp/233.18.204.111:5140
 CETV4SD,http://17782331118.top:8188/rtp/235.254.198.197:7980
@@ -1270,7 +1201,6 @@ CGTN,http://ddns.cyruslee.top:8888/rtp/239.77.0.199:5146
 CGTN,http://118.113.123.6:8686/rtp/239.94.0.22:5140
 CGTN,http://118.113.123.6:8686/rtp/239.94.0.40:5140
 CGTN,http://60.26.60.19:8000/rtp/225.1.1.27:5002
-CGTN,http://www.221111.best:8012/rtp/239.3.1.215:4220
 CGTN 俄语,http://60.0.97.175:9999/rtp/239.253.93.199:6377
 CGTN 法语,http://60.0.97.175:9999/rtp/239.253.93.197:6375
 CGTN 英文记录,http://60.0.97.175:9999/rtp/239.253.93.195:6373
@@ -1286,19 +1216,16 @@ CGTNSD,http://59.173.122.230:10001/rtp/239.254.96.7:8016
 CGTNSD,http://www.rogerxlj.top:9998/rtp/233.18.204.28:5140
 CGTN俄语,http://www.siyao.xin:4000/rtp/225.1.5.39:1349
 CGTN俄语,http://ddns.cyruslee.top:8888/rtp/239.253.43.201:5146
-CGTN俄语,http://www.221111.best:8012/rtp/239.3.1.220:4220
 CGTN俄语HD,http://59.173.122.230:10001/rtp/239.69.1.222:10974
 CGTN国际,http://60.0.97.175:9999/rtp/239.253.92.15:8011
 CGTN法语,http://www.siyao.xin:4000/rtp/225.1.5.37:1347
 CGTN法语,http://ddns.cyruslee.top:8888/rtp/239.77.0.228:5146
 CGTN法语,http://118.113.123.6:8686/rtp/239.94.1.62:5140
 CGTN法语,http://118.113.123.6:8686/rtp/239.94.1.66:5140
-CGTN法语,http://www.221111.best:8012/rtp/239.3.1.218:4220
 CGTN法语HD,http://59.173.122.230:10001/rtp/239.69.1.235:11052
 CGTN法语SD,http://118.113.123.6:8686/rtp/239.94.2.238:5140
 CGTN纪录,http://ddns.cyruslee.top:8888/rtp/239.253.43.122:5146
 CGTN纪录,http://60.26.60.19:8000/rtp/225.1.1.55:5002
-CGTN纪录,http://www.221111.best:8012/rtp/239.3.1.216:4220
 CGTN纪录HD,http://59.173.122.230:10001/rtp/239.69.1.233:11040
 CGTN英文纪录,http://www.siyao.xin:4000/rtp/225.1.5.35:1345
 CGTN英语,http://www.siyao.xin:4000/rtp/225.1.5.34:1344
@@ -1306,12 +1233,10 @@ CGTN西班牙语,http://www.siyao.xin:4000/rtp/225.1.5.36:1346
 CGTN西语,http://ddns.cyruslee.top:8888/rtp/239.77.0.221:5146
 CGTN西语,http://118.113.123.6:8686/rtp/239.94.1.61:5140
 CGTN西语,http://118.113.123.6:8686/rtp/239.94.1.65:5140
-CGTN西语,http://www.221111.best:8012/rtp/239.3.1.217:4220
 CGTN西语HD,http://59.173.122.230:10001/rtp/239.69.1.234:11046
 CGTN西语SD,http://118.113.123.6:8686/rtp/239.94.2.237:5140
 CGTN阿拉伯语,http://www.siyao.xin:4000/rtp/225.1.5.38:1348
 CGTN阿语,http://ddns.cyruslee.top:8888/rtp/239.253.43.200:5146
-CGTN阿语,http://www.221111.best:8012/rtp/239.3.1.219:4220
 CGTN阿语HD,http://59.173.122.230:10001/rtp/239.69.1.221:10968
 CHC动作电影,http://www.siyao.xin:4000/rtp/225.1.4.208:1261
 CHC动作电影,http://17782331118.top:8188/rtp/235.254.198.247:7980
@@ -1359,26 +1284,11 @@ IPTV7+,http://17782331118.top:8188/rtp/235.254.199.83:7980
 IPTV7+,http://www.wpfhome.cn:5555/rtp/235.254.199.83:7980
 IPTV9+,http://17782331118.top:8188/rtp/235.254.199.94:7980
 IPTV9+,http://www.wpfhome.cn:5555/rtp/235.254.199.94:7980
-IPTV光影,http://www.221111.best:8012/rtp/239.3.1.84:4120
-IPTV军事,http://www.221111.best:8012/rtp/239.3.1.76:4120
-IPTV军旅剧场,http://www.221111.best:8012/rtp/239.3.1.69:4120
-IPTV军旅剧场,http://www.221111.best:8012/rtp/239.3.1.68:4120
-IPTV动作影院,http://www.221111.best:8012/rtp/239.3.1.92:4120
-IPTV动画,http://www.221111.best:8012/rtp/239.3.1.80:4120
-IPTV喜剧剧场,http://www.221111.best:8012/rtp/239.3.1.91:4120
-IPTV国学,http://www.221111.best:8012/rtp/239.3.1.77:4120
-IPTV地理,http://www.221111.best:8012/rtp/239.3.1.71:4120
-IPTV墨宝,http://www.221111.best:8012/rtp/239.3.1.83:4120
-IPTV好学生,http://www.221111.best:8012/rtp/239.3.1.81:4120
 IPTV宣传,http://ddns.cyruslee.top:8888/rtp/239.77.1.183:5146
 IPTV宣传,http://ddns.cyruslee.top:8888/rtp/239.77.1.184:5146
-IPTV家庭影院,http://www.221111.best:8012/rtp/239.3.1.93:4120
 IPTV少儿,http://17782331118.top:8188/rtp/235.254.199.15:7980
 IPTV少儿,http://www.wpfhome.cn:5555/rtp/235.254.199.15:7980
 IPTV少儿动画,http://ddns.cyruslee.top:8888/rtp/239.77.1.91:5146
-IPTV少儿动画,http://www.221111.best:8012/rtp/239.3.1.199:9000
-IPTV影视,http://www.221111.best:8012/rtp/239.3.1.88:4120
-IPTV戏曲,http://www.221111.best:8012/rtp/239.3.1.78:4120
 IPTV推荐1,http://ddns.cyruslee.top:8888/rtp/239.77.0.81:5146
 IPTV推荐2,http://ddns.cyruslee.top:8888/rtp/239.77.0.174:5146
 IPTV推荐3,http://ddns.cyruslee.top:8888/rtp/239.77.0.186:5146
@@ -1387,34 +1297,20 @@ IPTV推荐5,http://ddns.cyruslee.top:8888/rtp/239.77.0.191:5146
 IPTV推荐6,http://ddns.cyruslee.top:8888/rtp/239.77.0.193:5146
 IPTV推荐7,http://ddns.cyruslee.top:8888/rtp/239.77.0.240:5146
 IPTV推荐8,http://ddns.cyruslee.top:8888/rtp/239.77.0.241:5146
-IPTV早教,http://www.221111.best:8012/rtp/239.3.1.79:4120
-IPTV星影,http://www.221111.best:8012/rtp/239.3.1.94:4120
-IPTV武侠剧场,http://www.221111.best:8012/rtp/239.3.1.90:4120
-IPTV武术,http://www.221111.best:8012/rtp/239.3.1.87:4120
 IPTV法治,http://www.siyao.xin:4000/rtp/225.1.4.188:1237
 IPTV法治,http://ddns.cyruslee.top:8888/rtp/239.77.1.86:5146
 IPTV热播剧场,http://ddns.cyruslee.top:8888/rtp/239.77.1.90:5146
-IPTV热播剧场,http://www.221111.best:8012/rtp/239.3.1.194:9020
 IPTV电视剧,http://17782331118.top:8188/rtp/235.254.199.74:7980
 IPTV电视剧,http://www.wpfhome.cn:5555/rtp/235.254.199.74:7980
 IPTV相声小品,http://www.siyao.xin:4000/rtp/225.1.4.186:1235
 IPTV相声小品,http://ddns.cyruslee.top:8888/rtp/239.77.1.84:5146
-IPTV精选,http://www.221111.best:8012/rtp/239.3.1.74:4120
 IPTV经典电影,http://ddns.cyruslee.top:8888/rtp/239.77.1.89:5146
-IPTV经典电影,http://www.221111.best:8012/rtp/239.3.1.195:9024
-IPTV美人,http://www.221111.best:8012/rtp/239.3.1.73:4120
-IPTV美妆,http://www.221111.best:8012/rtp/239.3.1.72:4120
-IPTV解密,http://www.221111.best:8012/rtp/239.3.1.75:4120
 IPTV谍战剧场,http://www.siyao.xin:4000/rtp/225.1.4.185:1240
 IPTV谍战剧场,http://ddns.cyruslee.top:8888/rtp/239.77.0.99:5146
-IPTV都市剧场,http://www.221111.best:8012/rtp/239.3.1.67:4120
 IPTV野外,http://www.siyao.xin:4000/rtp/225.1.4.187:1236
 IPTV野外,http://ddns.cyruslee.top:8888/rtp/239.77.1.85:5146
 IPTV野外,http://ddns.cyruslee.top:8888/rtp/239.77.0.101:5146
-IPTV鉴赏,http://www.221111.best:8012/rtp/239.3.1.82:4120
-IPTV音乐现场,http://www.221111.best:8012/rtp/239.3.1.70:4120
 IPTV魅力时尚,http://ddns.cyruslee.top:8888/rtp/239.77.1.88:5146
-IPTV魅力时尚,http://www.221111.best:8012/rtp/239.3.1.196:9012
 bestv,http://118.113.123.6:8686/rtp/239.94.2.57:5140
 iHOT爱体育,http://118.113.123.6:8686/rtp/239.94.1.143:5140
 iHOT爱动漫,http://118.113.123.6:8686/rtp/239.94.1.141:5140
@@ -1481,7 +1377,6 @@ kaku 少儿,http://60.0.97.175:9999/rtp/239.253.92.162:8054
 中国交通,http://17782331118.top:8188/rtp/235.254.197.145:7980
 中国交通,http://118.113.123.6:8686/rtp/239.94.0.87:5140
 中国交通,http://www.wpfhome.cn:5555/rtp/235.254.197.145:7980
-中国交通,http://www.221111.best:8012/rtp/239.3.1.188:8001
 中国交通HD,http://59.173.122.230:10001/rtp/239.69.2.3:11172
 中国交通SD,http://118.113.123.6:8686/rtp/239.94.2.193:5140
 中国交通频道,http://60.0.97.175:9999/rtp/239.253.93.189:6357
@@ -1627,22 +1522,8 @@ kaku 少儿,http://60.0.97.175:9999/rtp/239.253.92.162:8054
 动漫秀场SD,http://17782331118.top:8188/rtp/235.254.197.47:7980
 动漫秀场SD,http://www.wpfhome.cn:5555/rtp/235.254.197.47:7980
 动漫秀场高清,http://60.0.97.175:9999/rtp/239.253.93.225:6403
-北京体育休闲,http://www.221111.best:8012/rtp/239.3.1.243:8000
-北京国际,http://www.221111.best:8012/rtp/239.3.1.235:8000
-北京密云,http://www.221111.best:8012/rtp/239.3.1.154:8001
-北京延庆,http://www.221111.best:8012/rtp/239.3.1.187:8001
-北京影视,http://www.221111.best:8012/rtp/239.3.1.158:8000
-北京房山,http://www.221111.best:8012/rtp/239.3.1.96:8001
-北京文艺,http://www.221111.best:8012/rtp/239.3.1.242:8000
-北京新闻,http://www.221111.best:8012/rtp/239.3.1.159:8000
-北京朝阳,http://www.221111.best:8012/rtp/239.3.1.163:8001
-北京生活,http://www.221111.best:8012/rtp/239.3.1.117:8000
 北京纪实科教,http://118.113.123.6:8686/rtp/239.94.0.109:5140
-北京纪实科教,http://www.221111.best:8012/rtp/239.3.1.115:8000
 北京纪实科教SD,http://118.113.123.6:8686/rtp/239.94.2.215:5140
-北京财经,http://www.221111.best:8012/rtp/239.3.1.116:8000
-北京通州,http://www.221111.best:8012/rtp/239.3.1.221:8001
-北京门头沟,http://www.221111.best:8012/rtp/239.3.1.59:8001
 华数卡通,http://17782331118.top:8188/rtp/235.254.199.87:7980
 华数卡通,http://www.wpfhome.cn:5555/rtp/235.254.199.87:7980
 华数少儿动画,http://ddns.cyruslee.top:8888/rtp/239.77.0.109:5146
@@ -1701,7 +1582,6 @@ kaku 少儿,http://60.0.97.175:9999/rtp/239.253.92.162:8054
 卡酷少儿,http://ddns.cyruslee.top:8888/rtp/239.77.0.79:5146
 卡酷少儿,http://ddns.cyruslee.top:8888/rtp/239.77.1.50:5146
 卡酷少儿,http://60.26.60.19:8000/rtp/225.1.1.58:5002
-卡酷少儿,http://www.221111.best:8012/rtp/239.3.1.189:8000
 卡酷少儿HD,http://59.173.122.230:10001/rtp/239.69.1.193:10800
 卡酷少儿HD,http://www.rogerxlj.top:9998/rtp/233.18.204.109:5140
 卡酷少儿SD,http://17782331118.top:8188/rtp/235.254.197.166:7980
@@ -1733,7 +1613,6 @@ kaku 少儿,http://60.0.97.175:9999/rtp/239.253.92.162:8054
 嘉佳卡通,http://ddns.cyruslee.top:8888/rtp/239.77.1.15:5146
 嘉佳卡通,http://ddns.cyruslee.top:8888/rtp/239.77.0.179:5146
 嘉佳卡通,http://60.0.97.175:9999/rtp/239.253.93.203:6381
-嘉佳卡通,http://www.221111.best:8012/rtp/239.3.1.147:9268
 嘉佳卡通SD,http://17782331118.top:8188/rtp/235.254.197.182:7980
 嘉佳卡通SD,http://17782331118.top:8188/rtp/235.254.199.110:7980
 嘉佳卡通SD,http://118.113.123.6:8686/rtp/239.94.1.10:5140
@@ -1939,7 +1818,6 @@ kaku 少儿,http://60.0.97.175:9999/rtp/239.253.92.162:8054
 快乐垂钓,http://60.26.60.19:8000/rtp/225.1.1.92:5002
 快乐垂钓,http://www.wpfhome.cn:5555/rtp/235.254.198.191:7980
 快乐垂钓,http://www.wpfhome.cn:5555/rtp/235.254.199.191:7980
-快乐垂钓,http://www.221111.best:8012/rtp/239.3.1.164:8001
 快乐垂钓HD,http://59.173.122.230:10001/rtp/239.69.1.142:10488
 快乐垂钓HD,http://www.rogerxlj.top:9998/rtp/233.18.204.42:5140
 快乐垂钓高清,http://60.0.97.175:9999/rtp/239.253.93.213:6391
@@ -2180,10 +2058,6 @@ kaku 少儿,http://60.0.97.175:9999/rtp/239.253.92.162:8054
 涿州电视,http://60.0.97.175:9999/rtp/239.253.93.27:6180
 涿鹿电视,http://60.0.97.175:9999/rtp/239.253.93.181:6349
 淅川电视台,http://www.siyao.xin:4000/rtp/225.1.4.112:1292
-淘baby,http://www.221111.best:8012/rtp/239.3.1.238:8001
-淘剧场,http://www.221111.best:8012/rtp/239.3.1.95:8001
-淘娱乐,http://www.221111.best:8012/rtp/239.3.1.100:8001
-淘电影,http://www.221111.best:8012/rtp/239.3.1.250:8001
 深圳体育健康,http://ddns.cyruslee.top:8888/rtp/239.77.1.128:5146
 深圳体育健康,http://ddns.cyruslee.top:8888/rtp/239.77.1.140:5146
 深圳宜和购物,http://ddns.cyruslee.top:8888/rtp/239.77.1.87:5146
@@ -2258,7 +2132,6 @@ kaku 少儿,http://60.0.97.175:9999/rtp/239.253.92.162:8054
 焦作综合,http://www.siyao.xin:4000/rtp/225.1.4.128:1164
 爱上-4k,http://www.siyao.xin:4000/rtp/225.1.4.162:1204
 爱上4K,http://118.113.123.6:8686/rtp/239.94.0.21:5140
-爱上4K,http://www.221111.best:8012/rtp/239.3.1.236:2000
 爱乐山,http://118.113.123.6:8686/rtp/239.94.2.2:5140
 爱体育,http://www.siyao.xin:4000/rtp/225.1.4.5:1034
 爱体育,http://ddns.cyruslee.top:8888/rtp/239.77.1.116:5146
@@ -2355,14 +2228,10 @@ kaku 少儿,http://60.0.97.175:9999/rtp/239.253.92.162:8054
 看天下精选,http://118.113.123.6:8686/rtp/239.94.1.68:5140
 睛彩中原,http://www.siyao.xin:4000/rtp/225.1.4.163:1203
 睛彩广场舞,http://ddns.cyruslee.top:8888/rtp/239.77.1.23:5146
-睛彩广场舞,http://www.221111.best:8012/rtp/239.3.1.128:8001
 睛彩河北,http://60.0.97.175:9999/rtp/239.253.92.104:6221
 睛彩竞技,http://ddns.cyruslee.top:8888/rtp/239.77.1.20:5146
-睛彩竞技,http://www.221111.best:8012/rtp/239.3.1.125:8001
 睛彩篮球,http://ddns.cyruslee.top:8888/rtp/239.77.1.21:5146
-睛彩篮球,http://www.221111.best:8012/rtp/239.3.1.126:8001
 睛彩青少,http://ddns.cyruslee.top:8888/rtp/239.77.1.22:5146
-睛彩青少,http://www.221111.best:8012/rtp/239.3.1.127:8001
 石家庄娱乐,http://60.0.97.175:9999/rtp/239.253.92.93:8120
 石家庄新闻综合高清,http://60.0.97.175:9999/rtp/239.253.92.149:6035
 石家庄生活,http://60.0.97.175:9999/rtp/239.253.92.94:8121
@@ -2416,8 +2285,6 @@ kaku 少儿,http://60.0.97.175:9999/rtp/239.253.92.162:8054
 老故事,http://60.0.97.175:9999/rtp/239.253.92.132:8068
 老故事SD,http://59.173.122.230:10001/rtp/239.69.1.85:10150
 聚鲨环球精选,http://60.26.60.19:8000/rtp/225.1.1.102:5002
-聚鲨环球精选,http://www.221111.best:8012/rtp/239.3.1.160:8001
-聚鲨环球精选,http://www.221111.best:8012/rtp/239.3.1.179:8001
 聚鲨环球精选SD,http://59.173.122.230:10001/rtp/239.69.2.14:11238
 肃宁电视,http://60.0.97.175:9999/rtp/239.253.93.152:6320
 肇庆生活服务,http://ddns.cyruslee.top:8888/rtp/239.253.43.2:5146
@@ -2438,11 +2305,9 @@ kaku 少儿,http://60.0.97.175:9999/rtp/239.253.92.162:8054
 茶频道,http://60.26.60.19:8000/rtp/225.1.2.19:5002
 茶频道,http://www.wpfhome.cn:5555/rtp/235.254.198.198:7980
 茶频道,http://www.wpfhome.cn:5555/rtp/235.254.199.198:7980
-茶频道,http://www.221111.best:8012/rtp/239.3.1.165:8001
 茶频道HD,http://59.173.122.230:10001/rtp/239.69.1.144:10500
 茶频道HD,http://www.rogerxlj.top:9998/rtp/233.18.204.43:5140
 茶频道高清,http://60.0.97.175:9999/rtp/239.253.93.212:6390
-萌宠TV,http://www.221111.best:8012/rtp/239.3.1.102:8001
 蔡甸综合HD,http://59.173.122.230:10001/rtp/239.69.1.245:11112
 衡水公共,http://60.0.97.175:9999/rtp/239.253.93.7:6160
 衡水新闻综合,http://60.0.97.175:9999/rtp/239.253.93.3:6154
@@ -2458,7 +2323,6 @@ kaku 少儿,http://60.0.97.175:9999/rtp/239.253.92.162:8054
 财富天下,http://118.113.123.6:8686/rtp/239.94.1.42:5140
 财富天下,http://60.26.60.19:8000/rtp/225.1.2.198:5002
 财富天下,http://60.0.97.175:9999/rtp/239.253.93.247:6425
-财富天下,http://www.221111.best:8012/rtp/239.3.1.53:9136
 财富天下HD,http://www.rogerxlj.top:9998/rtp/233.18.204.231:5140
 财富天下SD,http://118.113.123.6:8686/rtp/239.94.2.234:5140
 财富天下SD,http://59.173.122.230:10001/rtp/239.254.96.210:9340
@@ -2595,7 +2459,6 @@ kaku 少儿,http://60.0.97.175:9999/rtp/239.253.92.162:8054
 金鹰卡通,http://ddns.cyruslee.top:8888/rtp/239.77.1.52:5146
 金鹰卡通,http://60.26.60.19:8000/rtp/225.1.2.236:5002
 金鹰卡通,http://60.0.97.175:9999/rtp/239.253.92.163:8055
-金鹰卡通,http://www.221111.best:8012/rtp/239.3.1.51:9252
 金鹰卡通HD,http://59.173.122.230:10001/rtp/239.69.1.248:11130
 金鹰卡通HD,http://www.rogerxlj.top:9998/rtp/233.18.204.113:5140
 金鹰卡通SD,http://17782331118.top:8188/rtp/235.254.199.50:7980
@@ -2610,7 +2473,6 @@ kaku 少儿,http://60.0.97.175:9999/rtp/239.253.92.162:8054
 金鹰纪实,http://ddns.cyruslee.top:8888/rtp/239.77.1.217:5146
 金鹰纪实,http://118.113.123.6:8686/rtp/239.94.1.1:5140
 金鹰纪实,http://60.26.60.19:8000/rtp/225.1.1.124:5002
-金鹰纪实,http://www.221111.best:8012/rtp/239.3.1.58:8156
 金鹰纪实HD,http://59.173.122.230:10001/rtp/239.69.1.109:10292
 金鹰纪实HD,http://www.rogerxlj.top:9998/rtp/233.18.204.104:5140
 金鹰纪实SD,http://118.113.123.6:8686/rtp/239.94.2.223:5140
