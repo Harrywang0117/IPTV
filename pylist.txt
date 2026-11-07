@@ -282,6 +282,7 @@ lav|🦋 lav(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubuser
 小红薯|🦋 小红薯(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/小红薯.py
 推特|🦋 推特(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/推特.py
 kemono|🦋 kemono(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/kemono.py
+红果|红果|type: 3|api: https://meow.668yun.top/api/s/75EKQrnPG4inVvDlqfph3ygaFWsZdMv5/红果.py
 qkw1|全看影院|type: 3|api: https://mpimg.cn/down.php/dd661a252935cd30df6aa185e23d4488.py
 洛雪|洛雪|type: 3|api: https://pan.szfx.top/down.php/5c0847922c8e8096eeb8687035667049.py
 西瓜|西瓜|type: 3|api: https://meow.668yun.top/api/s/Kp2S08TE7dpIwYVKnJWyFPfdioM6FVTw/西瓜官方（有部分 4k）.py
