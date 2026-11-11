@@ -217,6 +217,7 @@ OK资源|OK资源|type: 0|api: https://api.okzy.org/api.php/provide/vod/from/okm
 爱奇艺资源|爱奇艺资源┃刺桐|type: 1|api: https://iqiyizyapi.com/api.php/provide/vod/
 789资源|789资源┃刺桐|type: 1|api: http://www.caiji.cyou/api.php/provide/vod/
 金蝉资源|金蝉资源┃刺桐|type: 1|api: https://zy.jinchancaiji.com/api.php/provide/vod/
+taiee96|极速┃零一|type: 1|api: https://ww96.taiee.xyz/api.php/provide/vod/
 天涯资源|🦋 天涯资源(有三级片)|type: 0|api: https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list
 iKun资源|🦋 iKun资源(有三级片)|type: 0|api: https://ikunzyapi.com/api.php/provide/vod/at/xml
 slyzy|🦋 湿乐园｜🔞|type: 1|api: https://xxavs.com/api.php/provide/vod
