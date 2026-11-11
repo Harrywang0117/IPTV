@@ -1,31 +1,25 @@
 #EXTM3U
 # 大米直播 - 实时全线路源
-# 北京时间: 2026/11/11 05:47:04
+# 北京时间: 2026/11/12 06:42:11
 # 当前直播场次: 7 场
 
 #EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="✈️ TG频道@stymei",☁️官网地址jsnzkpg.com
 https://tymov2.a.kwimgs.com/upic/2026/08/15/09/BMjAyNjA4MTUwOTE2MzRfNDI0MDI5NTBfMjA1NjA5Mjg4OTg3XzFfMw==_b_B664d90218f70be73e07dd3cf02d473f1.mp4
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="哥伦乙" tvg-name="[04:30] 恩维加多 VS 卡利博卡青年 (高清K)",[04:30] 恩维加多 VS 卡利博卡青年 (高清K)
-https://hello.ooo0ooo.top/live/4666662.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="哥伦乙" tvg-name="[04:30] 恩维加多 VS 卡利博卡青年 (高清B)",[04:30] 恩维加多 VS 卡利博卡青年 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4666662.m3u8?txSecret=d639cf1ceaac6f85300455d863f2a68f&txTime=6AF4E218
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国王杯" tvg-name="[04:00] UE塔夫 VS 瓦伦西亚 (高清K)",[04:00] UE塔夫 VS 瓦伦西亚 (高清K)
-https://hello.ooo0ooo.top/live/4658654.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国王杯" tvg-name="[04:00] UE塔夫 VS 瓦伦西亚 (高清B)",[04:00] UE塔夫 VS 瓦伦西亚 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4658654.m3u8?txSecret=ae295409265255378fb3002c48ef87bc&txTime=6AF4E218
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧女杯" tvg-name="[04:00] 罗马女足 VS 塞尔维特女足 (高清K)",[04:00] 罗马女足 VS 塞尔维特女足 (高清K)
-https://hello.ooo0ooo.top/live/4646534.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧女杯" tvg-name="[04:00] 罗马女足 VS 塞尔维特女足 (高清B)",[04:00] 罗马女足 VS 塞尔维特女足 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4646534.m3u8?txSecret=5ce68df7d93ac461c6f22691ed09f560&txTime=6AF4E218
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧女杯" tvg-name="[04:00] 国际米兰女足 VS 曼彻斯特城女足 (高清K)",[04:00] 国际米兰女足 VS 曼彻斯特城女足 (高清K)
-https://hello.ooo0ooo.top/live/4646535.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧女杯" tvg-name="[04:00] 国际米兰女足 VS 曼彻斯特城女足 (高清B)",[04:00] 国际米兰女足 VS 曼彻斯特城女足 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4646535.m3u8?txSecret=79186f33e965935048687f6be2821cc8&txTime=6AF4E218
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧女杯" tvg-name="[04:00] 巴黎圣日耳曼女足 VS 拜仁女足 (高清K)",[04:00] 巴黎圣日耳曼女足 VS 拜仁女足 (高清K)
-https://hello.ooo0ooo.top/live/4646536.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧女杯" tvg-name="[04:00] 巴黎圣日耳曼女足 VS 拜仁女足 (高清B)",[04:00] 巴黎圣日耳曼女足 VS 拜仁女足 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4646536.m3u8?txSecret=f54a0e75a0d3732cd841e676dd8dce04&txTime=6AF4E218
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="乌拉圭杯" tvg-name="[03:30] 波士顿河 VS 蒙得维的亚城图尔克 (高清K)",[03:30] 波士顿河 VS 蒙得维的亚城图尔克 (高清K)
-https://hello.ooo0ooo.top/live/4666883.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="FIBA欧洲女子篮球锦标赛2027资格赛" tvg-name="[03:30] 西班牙 (女) VS 捷克 (女) (高清K)",[03:30] 西班牙 (女) VS 捷克 (女) (高清K)
-https://hello.ooo0ooo.top/live/3957879.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿根廷职业联赛预备队" tvg-name="[04:00] 塔勒瑞斯后备队 VS 萨尔米安杜后备队 (高清K)",[04:00] 塔勒瑞斯后备队 VS 萨尔米安杜后备队 (高清K)
+https://hello.ooo0ooo.top/live/4665444.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[06:30] 米纳斯 VS 乌法兹萨 (高清K)",[06:30] 米纳斯 VS 乌法兹萨 (高清K)
+https://hello.ooo0ooo.top/live/3939765.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西乙" tvg-name="[06:00] 隆德里纳 VS 累西腓航海 (高清K)",[06:00] 隆德里纳 VS 累西腓航海 (高清K)
+https://hello.ooo0ooo.top/live/4495738.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西乙" tvg-name="[06:00] 隆德里纳 VS 累西腓航海 (高清B)",[06:00] 隆德里纳 VS 累西腓航海 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4495738.m3u8?txSecret=30aa65f88907177dff5899a741172ec7&txTime=6AF64040
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="玻利杯" tvg-name="[06:00] 石油独立 VS 拉巴斯准备 (高清K)",[06:00] 石油独立 VS 拉巴斯准备 (高清K)
+https://hello.ooo0ooo.top/live/4666534.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧洲北部篮球联赛" tvg-name="[03:45] 布里斯托战斗机 VS 杜布拉瓦 (高清K)",[03:45] 布里斯托战斗机 VS 杜布拉瓦 (高清K)
+https://hello.ooo0ooo.top/live/3959699.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[05:00] 东卡罗莱纳大学 VS 北卡罗来纳农工大学 (高清K)",[05:00] 东卡罗莱纳大学 VS 北卡罗来纳农工大学 (高清K)
+https://hello.ooo0ooo.top/live/3951271.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[05:00] 东卡罗莱纳大学 VS 北卡罗来纳农工大学 (高清B)",[05:00] 东卡罗莱纳大学 VS 北卡罗来纳农工大学 (高清B)
+https://pul-tenm.gkykp.com/live/sd-2-3951271.m3u8?txSecret=3eac30b50d330b412a98a7bfedf161ed&txTime=6AF64040
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[06:30] 海军官校 VS 宾夕法尼亚 (高清K)",[06:30] 海军官校 VS 宾夕法尼亚 (高清K)
+https://hello.ooo0ooo.top/live/3949216.m3u8
