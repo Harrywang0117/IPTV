@@ -1,25 +1,25 @@
 #EXTM3U
 # 大米直播 - 实时全线路源
-# 北京时间: 2026/11/12 06:42:11
-# 当前直播场次: 7 场
+# 北京时间: 2026/11/13 06:13:32
+# 当前直播场次: 5 场
 
 #EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="✈️ TG频道@stymei",☁️官网地址jsnzkpg.com
 https://tymov2.a.kwimgs.com/upic/2026/08/15/09/BMjAyNjA4MTUwOTE2MzRfNDI0MDI5NTBfMjA1NjA5Mjg4OTg3XzFfMw==_b_B664d90218f70be73e07dd3cf02d473f1.mp4
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿根廷职业联赛预备队" tvg-name="[04:00] 塔勒瑞斯后备队 VS 萨尔米安杜后备队 (高清K)",[04:00] 塔勒瑞斯后备队 VS 萨尔米安杜后备队 (高清K)
-https://hello.ooo0ooo.top/live/4665444.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[06:30] 米纳斯 VS 乌法兹萨 (高清K)",[06:30] 米纳斯 VS 乌法兹萨 (高清K)
-https://hello.ooo0ooo.top/live/3939765.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西乙" tvg-name="[06:00] 隆德里纳 VS 累西腓航海 (高清K)",[06:00] 隆德里纳 VS 累西腓航海 (高清K)
-https://hello.ooo0ooo.top/live/4495738.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西乙" tvg-name="[06:00] 隆德里纳 VS 累西腓航海 (高清B)",[06:00] 隆德里纳 VS 累西腓航海 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4495738.m3u8?txSecret=30aa65f88907177dff5899a741172ec7&txTime=6AF64040
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="玻利杯" tvg-name="[06:00] 石油独立 VS 拉巴斯准备 (高清K)",[06:00] 石油独立 VS 拉巴斯准备 (高清K)
-https://hello.ooo0ooo.top/live/4666534.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="欧洲北部篮球联赛" tvg-name="[03:45] 布里斯托战斗机 VS 杜布拉瓦 (高清K)",[03:45] 布里斯托战斗机 VS 杜布拉瓦 (高清K)
-https://hello.ooo0ooo.top/live/3959699.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[05:00] 东卡罗莱纳大学 VS 北卡罗来纳农工大学 (高清K)",[05:00] 东卡罗莱纳大学 VS 北卡罗来纳农工大学 (高清K)
-https://hello.ooo0ooo.top/live/3951271.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[05:00] 东卡罗莱纳大学 VS 北卡罗来纳农工大学 (高清B)",[05:00] 东卡罗莱纳大学 VS 北卡罗来纳农工大学 (高清B)
-https://pul-tenm.gkykp.com/live/sd-2-3951271.m3u8?txSecret=3eac30b50d330b412a98a7bfedf161ed&txTime=6AF64040
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[06:30] 海军官校 VS 宾夕法尼亚 (高清K)",[06:30] 海军官校 VS 宾夕法尼亚 (高清K)
-https://hello.ooo0ooo.top/live/3949216.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西乙" tvg-name="[06:00] 庞特普雷塔 VS 铁路工人 (高清K)",[06:00] 庞特普雷塔 VS 铁路工人 (高清K)
+https://hello.ooo0ooo.top/live/4494807.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西乙" tvg-name="[06:00] 庞特普雷塔 VS 铁路工人 (高清B)",[06:00] 庞特普雷塔 VS 铁路工人 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4494807.m3u8?txSecret=26d1fdd53bc4a80ac2eccc7dca5467c1&txTime=6AF78B30
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="委内超" tvg-name="[06:00] 卡贝略港学院 VS 莫纳加斯 (高清K)",[06:00] 卡贝略港学院 VS 莫纳加斯 (高清K)
+https://hello.ooo0ooo.top/live/4660813.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="委内超" tvg-name="[06:00] 卡贝略港学院 VS 莫纳加斯 (高清B)",[06:00] 卡贝略港学院 VS 莫纳加斯 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4660813.m3u8?txSecret=d7fed632ca5dbc4cf1468a72d4c5a8eb&txTime=6AF78B30
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="乌拉圭篮球联赛" tvg-name="[06:15] 阿特莱契联合体 VS 比佳亚 (高清K)",[06:15] 阿特莱契联合体 VS 比佳亚 (高清K)
+https://hello.ooo0ooo.top/live/3959685.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="乌拉圭篮球联赛" tvg-name="[06:15] 阿特莱契联合体 VS 比佳亚 (高清B)",[06:15] 阿特莱契联合体 VS 比佳亚 (高清B)
+https://pul-tenm.gkykp.com/live/sd-2-3959685.m3u8?txSecret=05bd39a6eb4fc720571c423f2e7f7dc2&txTime=6AF78B30
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="中北美国联" tvg-name="[06:00] 阿鲁巴 VS 马提尼克 (高清K)",[06:00] 阿鲁巴 VS 马提尼克 (高清K)
+https://hello.ooo0ooo.top/live/4667760.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="中北美国联" tvg-name="[06:00] 阿鲁巴 VS 马提尼克 (高清B)",[06:00] 阿鲁巴 VS 马提尼克 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4667760.m3u8?txSecret=25e30887c67252c36458084537bf6cbb&txTime=6AF78B30
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="FIBA欧洲女子篮球锦标赛2027资格赛" tvg-name="[03:30] 比利时 (女) VS 瑞典 (女) (高清K)",[03:30] 比利时 (女) VS 瑞典 (女) (高清K)
+https://hello.ooo0ooo.top/live/3885387.m3u8
