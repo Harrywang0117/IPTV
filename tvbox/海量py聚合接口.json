@@ -61,16 +61,16 @@
       "key": "剧王短剧",
       "name": "剧王｜短剧",
       "type": 3,
-      "api": "http://47.96.82.41:5188/svip/py/剧王短剧.py",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/剧王短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "爱听音乐",
-      "name": "📻爱听｜音乐",
+      "name": "🦋 爱听 • 音乐",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/爱听音乐.py",
+      "api": "https://cnb.cool/fish2035/xs/-/git/raw/main/py/爱听音乐.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -79,7 +79,7 @@
       "key": "网络直播",
       "name": "网络｜直播",
       "type": 3,
-      "api": "http://47.96.82.41:5188/svip/py/网络直播.py",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/WLZB.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -88,7 +88,7 @@
       "key": "哔哩直播",
       "name": "哔哩｜直播",
       "type": 3,
-      "api": "http://47.96.82.41:5188/svip/py/哔哩直播.py",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/BLZB.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -410,9 +410,9 @@
     },
     {
       "key": "SZ",
-      "name": "山楂影视",
+      "name": "🦋 山楂影视.py(关梯)",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/e02034214f0705bfe1e5f4d936f0925f.py",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/山楂影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1760,18 +1760,18 @@
     },
     {
       "key": "央库云",
-      "name": "央视｜云聚",
+      "name": "🥇央视🔹大全",
       "type": 3,
-      "api": "http://47.96.82.41:5188/svip/py/央库云.py",
+      "api": "https://7337.kstore.vip/xw/py/央库云.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "央视影视",
-      "name": "央视｜APP",
+      "name": "🥇央视🔹栏目",
       "type": 3,
-      "api": "http://47.96.82.41:5188/svip/py/央视影视.py",
+      "api": "https://7337.kstore.vip/xw/py/央视影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1877,9 +1877,9 @@
     },
     {
       "key": "猎手影视",
-      "name": "猎手｜影视",
+      "name": "猎手┃影视",
       "type": 3,
-      "api": "http://47.96.82.41:5188/svip/py/猎手影视.py",
+      "api": "https://ygbh.site/max/py/猎手影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
