@@ -243,6 +243,10 @@ MT影剧|MT影剧|type: 1|api: https://yjzy.me/api.php/provide/vod/from/mtm3u8/a
 西瓜影视|西瓜影视|type: 1|api: https://caiji.xgzyapi.com/api.php/provide/vod/from/xiguam3u8/at/json/
 快车影视|快车影视|type: 1|api: https://caiji.kuaichezy.org/api.php/provide/vod/from/kcm3u8/at/json/
 OK影视|OK影视|type: 1|api: https://api.okzyw.net/api.php/provide/vod/from/okm3u8/at/json/
+黄色仓库|AV|🦋 黄色仓库(旧)｜🔞|type: 1|api: https://hsckzy.vip/api.php/provide/vod/
+桃花资源|AV|🦋 桃花资源｜🔞|type: 1|api: https://thzy1.me/api.php/provide/vod/
+乐播资源|AV|🦋 乐播资源｜🔞|type: 1|api: https://lbapi9.com/api.php/provide/vod/
+lsb资源|AV|🦋 lsb资源｜🔞|type: 1|api: https://apilsbzy1.com/api.php/provide/vod/
 10|👖奈飞|type: 1|api: https://api.wsyzy.net/api.php/provide/vod
 wolong|🍀卧龙资源|type: 1|api: https://wolongzyw.com/api.php/provide/vod
 baiduyun|🍀百度云资源|type: 1|api: https://api.apibdzy.com/api.php/provide/vod
@@ -275,10 +279,6 @@ modudongman|🍀魔都动漫|type: 1|api: https://caiji.moduapi.cc/api.php/provi
 cj_旺旺采集|🧞旺旺|短剧|type: 1|api: https://api.wwzy.tv/api.php/provide/vod/
 haiwaikan|海外看|type: 1|api: https://haiwaikan.com/api.php/provide/vod
 建安采集|影视 | 建安|type: 1|api: http://154.219.117.232:9981/jacloudapi.php/provide/vod
-黄色仓库|AV|🦋 黄色仓库(旧)｜🔞|type: 1|api: https://hsckzy.vip/api.php/provide/vod/
-桃花资源|AV|🦋 桃花资源｜🔞|type: 1|api: https://thzy1.me/api.php/provide/vod/
-乐播资源|AV|🦋 乐播资源｜🔞|type: 1|api: https://lbapi9.com/api.php/provide/vod/
-lsb资源|AV|🦋 lsb资源｜🔞|type: 1|api: https://apilsbzy1.com/api.php/provide/vod/
 巨量|巨量 • 影视|type: 1|api: https://api.juliang.live/api/provide/vod
 ysc-pan|📦 网盘影视·直连版|type: 1|api: https://xn--5mq46jrwl99dn01d.top/tvbox-api/tvbox/my/api.php/provide/vod/
 2|👖体育|type: 1|api: https://jsnzkpg.de5.net/t4.json
