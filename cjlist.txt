@@ -249,6 +249,10 @@ MT影剧|MT影剧|type: 1|api: https://yjzy.me/api.php/provide/vod/from/mtm3u8/a
 西瓜影视|西瓜影视|type: 1|api: https://caiji.xgzyapi.com/api.php/provide/vod/from/xiguam3u8/at/json/
 快车影视|快车影视|type: 1|api: https://caiji.kuaichezy.org/api.php/provide/vod/from/kcm3u8/at/json/
 OK影视|OK影视|type: 1|api: https://api.okzyw.net/api.php/provide/vod/from/okm3u8/at/json/
+黄色仓库|AV|🦋 黄色仓库(旧)｜🔞|type: 1|api: https://hsckzy.vip/api.php/provide/vod/
+桃花资源|AV|🦋 桃花资源｜🔞|type: 1|api: https://thzy1.me/api.php/provide/vod/
+乐播资源|AV|🦋 乐播资源｜🔞|type: 1|api: https://lbapi9.com/api.php/provide/vod/
+lsb资源|AV|🦋 lsb资源｜🔞|type: 1|api: https://apilsbzy1.com/api.php/provide/vod/
 红牛资源|红牛｜资源|type: 1|api: https://www.hongniuzy2.com/api.php/provide/vod/
 360zy|☀三六🔹秒播|type: 1|api: https://360zy.com/api.php/provide/vod?
 10|👖奈飞|type: 1|api: https://api.wsyzy.net/api.php/provide/vod
@@ -282,10 +286,6 @@ haiwaikan|海外看|type: 1|api: https://haiwaikan.com/api.php/provide/vod
 优质影视|优质影视|type: 1|api: https://api.yyzy-tv.vip/inc/apijson.php/
 金鹰影视|金鹰影视|type: 1|api: https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json/
 IK|IK|type: 1|api: https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/
-黄色仓库|AV|🦋 黄色仓库(旧)｜🔞|type: 1|api: https://hsckzy.vip/api.php/provide/vod/
-桃花资源|AV|🦋 桃花资源｜🔞|type: 1|api: https://thzy1.me/api.php/provide/vod/
-乐播资源|AV|🦋 乐播资源｜🔞|type: 1|api: https://lbapi9.com/api.php/provide/vod/
-lsb资源|AV|🦋 lsb资源｜🔞|type: 1|api: https://apilsbzy1.com/api.php/provide/vod/
 91|🦋 传媒系列｜🔞(梯子)|type: 1|api: https://91md.me/api.php/provide/vod/
 🚨飞速|飞速资源🔥无界|type: 1|api: https://www.feisuzyapi.com/api.php/provide/vod/?ac=list
 🚨奇虎|奇虎资源🔥无界|type: 1|api: https://caiji.qhzyapi.com/api.php/provide/vod/
