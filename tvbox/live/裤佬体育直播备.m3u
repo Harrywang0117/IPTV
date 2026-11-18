@@ -1,59 +1,25 @@
 #EXTM3U
 # 大米直播 - 实时全线路源
-# 北京时间: 2026/11/18 07:33:30
-# 当前直播场次: 14 场
+# 北京时间: 2026/11/19 06:58:05
+# 当前直播场次: 5 场
 
 #EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="✈️ TG频道@stymei",☁️官网地址jsnzkpg.com
 https://tymov2.a.kwimgs.com/upic/2026/08/15/09/BMjAyNjA4MTUwOTE2MzRfNDI0MDI5NTBfMjA1NjA5Mjg4OTg3XzFfMw==_b_B664d90218f70be73e07dd3cf02d473f1.mp4
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿根廷全国篮球联赛" tvg-name="[07:30] 奇维尔库伊 VS 拉努斯 (高清K)",[07:30] 奇维尔库伊 VS 拉努斯 (高清K)
-https://hello.ooo0ooo.top/live/3945689.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="阿根廷全国篮球联赛" tvg-name="[07:30] 奇维尔库伊 VS 拉努斯 (高清B)",[07:30] 奇维尔库伊 VS 拉努斯 (高清B)
-https://pul-tenm.gkykp.com/live/sd-2-3945689.m3u8?txSecret=cb62990227f20b82b235283eb3c8118b&txTime=6AFE3570
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[06:30] 乌法兹萨 VS 博塔弗戈 (高清K)",[06:30] 乌法兹萨 VS 博塔弗戈 (高清K)
-https://hello.ooo0ooo.top/live/3939720.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[06:30] 乌法兹萨 VS 博塔弗戈 (高清B)",[06:30] 乌法兹萨 VS 博塔弗戈 (高清B)
-https://pul-tenm.gkykp.com/live/sd-2-3939720.m3u8?txSecret=374340d32e8a73737a03be36c0440923&txTime=6AFE3570
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[07:30] 科林蒂安 VS 保利斯塔诺 (高清K)",[07:30] 科林蒂安 VS 保利斯塔诺 (高清K)
-https://hello.ooo0ooo.top/live/3939651.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[07:30] 科林蒂安 VS 保利斯塔诺 (高清B)",[07:30] 科林蒂安 VS 保利斯塔诺 (高清B)
-https://pul-tenm.gkykp.com/live/sd-2-3939651.m3u8?txSecret=17a04a465aa385e60642053501495004&txTime=6AFE3570
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西圣保罗洲女子联赛-附加赛" tvg-name="[06:00] 桑托斯SP (女) VS 圣保罗 (女) (高清K)",[06:00] 桑托斯SP (女) VS 圣保罗 (女) (高清K)
-https://hello.ooo0ooo.top/live/4667565.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西圣保罗洲女子联赛-附加赛" tvg-name="[06:00] 桑托斯SP (女) VS 圣保罗 (女) (高清B)",[06:00] 桑托斯SP (女) VS 圣保罗 (女) (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4667565.m3u8?txSecret=1110ff3ea5117f2b8e961a0de0ad812d&txTime=6AFE3570
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="哥伦杯" tvg-name="[07:30] 国民竞技 VS 云斯卡尔达斯 (高清K)",[07:30] 国民竞技 VS 云斯卡尔达斯 (高清K)
-https://hello.ooo0ooo.top/live/4667506.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="哥伦杯" tvg-name="[07:30] 国民竞技 VS 云斯卡尔达斯 (高清B)",[07:30] 国民竞技 VS 云斯卡尔达斯 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4667506.m3u8?txSecret=53654360b2d722b9f291fa4f5d9ef97e&txTime=6AFE3570
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国际友谊" tvg-name="[07:00] 智利 VS 哥伦比亚 (高清K)",[07:00] 智利 VS 哥伦比亚 (高清K)
-https://hello.ooo0ooo.top/live/4650139.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国际友谊" tvg-name="[07:00] 智利 VS 哥伦比亚 (高清B)",[07:00] 智利 VS 哥伦比亚 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4650139.m3u8?txSecret=a77aed88ef3a3e88f35a5fa80a2cccba&txTime=6AFE3570
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国际友谊" tvg-name="[07:00] 阿根廷 VS 哥斯达黎加 (高清K)",[07:00] 阿根廷 VS 哥斯达黎加 (高清K)
-https://hello.ooo0ooo.top/live/4663056.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国际友谊" tvg-name="[07:00] 阿根廷 VS 哥斯达黎加 (高清B)",[07:00] 阿根廷 VS 哥斯达黎加 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4663056.m3u8?txSecret=eaa2070b3cb5a70e702d8619edfb56c8&txTime=6AFE3570
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国际友谊" tvg-name="[07:30] 厄瓜多尔 VS 玻利维亚 (高清K)",[07:30] 厄瓜多尔 VS 玻利维亚 (高清K)
-https://hello.ooo0ooo.top/live/4663057.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国际友谊" tvg-name="[07:30] 厄瓜多尔 VS 玻利维亚 (高清B)",[07:30] 厄瓜多尔 VS 玻利维亚 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4663057.m3u8?txSecret=7f8fdc631b725cd3bcd00c7f4f8c4e5c&txTime=6AFE3570
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国际友谊" tvg-name="[07:30] 乌拉圭 VS 多米尼加 (高清K)",[07:30] 乌拉圭 VS 多米尼加 (高清K)
-https://hello.ooo0ooo.top/live/4663490.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="国际友谊" tvg-name="[07:30] 乌拉圭 VS 多米尼加 (高清B)",[07:30] 乌拉圭 VS 多米尼加 (高清B)
-https://pul-tenm.gkykp.com/live/sd-1-4663490.m3u8?txSecret=66f7a06f5e70c216bfb1b05e66428dc0&txTime=6AFE3570
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="乌拉圭篮球联赛" tvg-name="[06:15] 防卫者体育 VS 禾巴卡马卡比 (高清K)",[06:15] 防卫者体育 VS 禾巴卡马卡比 (高清K)
-https://hello.ooo0ooo.top/live/3960293.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="乌拉圭篮球联赛" tvg-name="[06:15] 防卫者体育 VS 禾巴卡马卡比 (高清B)",[06:15] 防卫者体育 VS 禾巴卡马卡比 (高清B)
-https://pul-tenm.gkykp.com/live/sd-2-3960293.m3u8?txSecret=05cc95c825881963a45521db59e6748a&txTime=6AFE3570
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[05:30] 圣母大学 VS 佛罗里达大学 (高清K)",[05:30] 圣母大学 VS 佛罗里达大学 (高清K)
-https://hello.ooo0ooo.top/live/3949394.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[07:00] 西点军校 VS 毛利斯特大学 (高清K)",[07:00] 西点军校 VS 毛利斯特大学 (高清K)
-https://hello.ooo0ooo.top/live/3949395.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[07:00] 西点军校 VS 毛利斯特大学 (高清B)",[07:00] 西点军校 VS 毛利斯特大学 (高清B)
-https://pul-tenm.gkykp.com/live/sd-2-3949395.m3u8?txSecret=1ef178564998e85057e043f47c0b5805&txTime=6AFE3570
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[07:00] 马萨诸塞罗威尔分校 VS 圣彼德斯大学 (高清K)",[07:00] 马萨诸塞罗威尔分校 VS 圣彼德斯大学 (高清K)
-https://hello.ooo0ooo.top/live/3950426.m3u8
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[07:00] 马萨诸塞罗威尔分校 VS 圣彼德斯大学 (高清B)",[07:00] 马萨诸塞罗威尔分校 VS 圣彼德斯大学 (高清B)
-https://pul-tenm.gkykp.com/live/sd-2-3950426.m3u8?txSecret=070aad1805c8206b1fb8998873f1b5e8&txTime=6AFE3570
-#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[07:00] 南伊利诺大学 VS 自由大学 (高清K)",[07:00] 南伊利诺大学 VS 自由大学 (高清K)
-https://hello.ooo0ooo.top/live/3951789.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[06:30] 弗兰萨 VS 卡西亚斯 (高清K)",[06:30] 弗兰萨 VS 卡西亚斯 (高清K)
+https://hello.ooo0ooo.top/live/3939639.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[06:30] 弗兰萨 VS 卡西亚斯 (高清B)",[06:30] 弗兰萨 VS 卡西亚斯 (高清B)
+https://pul-tenm.gkykp.com/live/sd-2-3939639.m3u8?txSecret=331317a812cf17324b608595c896b25b&txTime=6AFF7E80
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[06:30] 科里蒂巴 VS 桑托斯 (高清K)",[06:30] 科里蒂巴 VS 桑托斯 (高清K)
+https://hello.ooo0ooo.top/live/4465886.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[06:30] 科里蒂巴 VS 桑托斯 (高清B)",[06:30] 科里蒂巴 VS 桑托斯 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4465886.m3u8?txSecret=9ceea1f914c159faf0d818f884212fc3&txTime=6AFF7E80
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[07:00] 雷莫 VS 沙佩科恩斯 (高清K)",[07:00] 雷莫 VS 沙佩科恩斯 (高清K)
+https://hello.ooo0ooo.top/live/4465926.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="巴西甲" tvg-name="[07:00] 雷莫 VS 沙佩科恩斯 (高清B)",[07:00] 雷莫 VS 沙佩科恩斯 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4465926.m3u8?txSecret=cbba40af7bf738139bff3efd92ce1f83&txTime=6AFF7E80
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="乌拉圭乙级联赛-附加赛" tvg-name="[06:30] 科隆FC VS 东方俱乐部 (高清K)",[06:30] 科隆FC VS 东方俱乐部 (高清K)
+https://hello.ooo0ooo.top/live/4668462.m3u8
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="乌拉圭乙级联赛-附加赛" tvg-name="[06:30] 科隆FC VS 东方俱乐部 (高清B)",[06:30] 科隆FC VS 东方俱乐部 (高清B)
+https://pul-tenm.gkykp.com/live/sd-1-4668462.m3u8?txSecret=8e6003a05e3ae41ebe693cc487846f11&txTime=6AFF7E80
+#EXTINF:-1 tvg-logo="https://jsnz.pages.dev/f/5ab7e916.gif" group-title="NCAA" tvg-name="[05:30] 佛罗里达大学 VS 休斯顿大学 (高清K)",[05:30] 佛罗里达大学 VS 休斯顿大学 (高清K)
+https://hello.ooo0ooo.top/live/3960540.m3u8
