@@ -139,7 +139,9 @@ bl|❤小哩｜4K测试|type: 3|api: https://gh-proxy.com/raw.githubusercontent.
 22|👖广播|type: 3|api: https://jsnz.pages.dev/f/cec31b11.py
 23|👖有声|type: 3|api: https://jsnz.pages.dev/f/e126d1e4.py
 测试专用|📌测试|type: 3|api: https://jsnz.pages.dev/f/e7124867.py
-push_agent|UC盘|type: 3|api: https://meow.668yun.top/api/s/qL9DBFJVAetJWLVTRCl5oLYzuInsydmL/网盘搜索.py
+push_agent|UC盘|type: 3|api: https://fastlink.cokey.xyz/f/wwbBcj/%E7%BD%91%E7%9B%98%E6%90%9C%E7%B4%A2.py
+未来赶不上|赶不上未来|type: 3|api: https://mpimg.cn/down.php/efe726ad69c79898714773fc6ab499af.py
+秒看|秒看|APP|type: 3|api: https://pan.szfx.top/down.php/82192de86986cf1d3146ecdcf3b6dc7d.py
 红果|红果|type: 3|api: https://meow.668yun.top/api/s/75EKQrnPG4inVvDlqfph3ygaFWsZdMv5/红果.py
 qkw1|全看影院|type: 3|api: https://mpimg.cn/down.php/dd661a252935cd30df6aa185e23d4488.py
 洛雪|洛雪|type: 3|api: https://pan.szfx.top/down.php/5c0847922c8e8096eeb8687035667049.py
