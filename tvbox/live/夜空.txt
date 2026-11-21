@@ -1,0 +1,1 @@
+链接数据库失败:SQLSTATE[HY000] [2002] No such file or directory
