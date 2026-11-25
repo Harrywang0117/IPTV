@@ -1,5 +1,5 @@
 {
-  "spider": "https://ss1.eisite.cn/autoupload/f/eja2s/20261102/WU58/0X0/fm261102c.png;md5;6a396033ae45efee57ba789f91d7123e",
+  "spider": "https://img2.gelonghui.com/library/252d4-9c2ceac7-d615-4058-98ab-fe13818b0ce4.png;md5;‎252d4d890b6e61a4cd29c3b67f4b8a30‎",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "http://w.junce.dpdns.org/fm.gif",
   "sites": [
@@ -47,6 +47,10 @@
           {
             "name": "Kazumi",
             "url": "https://pan.quark.cn/s/e77ca870e15e"
+          },
+          {
+            "name": "LxMusic",
+            "url": "https://pan.quark.cn/s/c24085164146"
           }
         ]
       }
@@ -73,9 +77,10 @@
       "type": 3,
       "api": "csp_Duopan",
       "filterable": 1,
+      "timeout": 30,
       "ext": {
         "site_urls": [
-          "http://shandian.blog/",
+          "http://sd.sduc.site/",
           "http://sd.sduc.site/"
         ],
         "threadinfo": {
@@ -83,6 +88,29 @@
           "threads": 16
         },
         "url_key": "FeiMaoUC"
+      }
+    },
+    {
+      "key": "csp_Duopan",
+      "name": "🖍︎┃蜡笔┃影视",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "http://xiaocge.fun",
+          "http://feimo.fun",
+          "http://www.labi88.sbs",
+          "http://fmao.site",
+          "http://fmao.shop",
+          "http://xiaocgege.shop",
+          "http://www.xiaocgege.shop"
+        ],
+        "threadinfo": {
+          "chunksize": 512,
+          "threads": 16
+        },
+        "url_key": "Duopan2"
       }
     },
     {
@@ -244,7 +272,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cz01.vip"
+      "ext": "https://www.4kcz.com"
     },
     {
       "key": "csp_SP360",
@@ -515,7 +543,7 @@
     {
       "name": "Gather「果」",
       "type": 3,
-      "url": "https://tv.tmxk.kdns.fr/yplrnuc7",
+      "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "epg": "https://material.1989.click/epg.xml.gz",
       "ua": "okhttp/3.8.1",
       "timeout": 10,
