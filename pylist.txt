@@ -307,11 +307,11 @@ lav|🦋 lav(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubuser
 推特|🦋 推特(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/推特.py
 kemono|🦋 kemono(py)｜🔞|type: 3|api: https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/kemono.py
 短剧|🦛短剧|type: 3|api: https://gitee.com/PizazzXS/another-d/raw/master/movie/py/HMDJ.py
+py_咖啡直播|⚽咖啡🔹球赛|type: 3|api: https://7337.kstore.vip/xw/py/咖啡直播.py
+📺┃︎剧王┃短剧|📺┃剧王┃短剧|type: 3|api: https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/肥猫2026/lib/JWDJ.py
 py_6v|☀六微🔹视频|type: 3|api: https://7337.kstore.vip/xw/py/6v.py
 py_周六影库|☀周六🔹颖院|type: 3|api: https://7337.kstore.vip/xw/py/周六影库.py
 py_华数|☀华数🔹视频|type: 3|api: https://7337.kstore.vip/xw/py/华数.py
-py_咖啡直播|⚽咖啡🔹球赛|type: 3|api: https://7337.kstore.vip/xw/py/咖啡直播.py
-📺┃︎剧王┃短剧|📺┃剧王┃短剧|type: 3|api: https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/肥猫2026/lib/JWDJ.py
 韩国|👖韩国|type: 3|api: https://jsnz.pages.dev/f/26511242.py
 采集|👖采集|type: 3|api: https://jsnz.pages.dev/f/72b7239d.py
 网盘|👖网盘|type: 3|api: https://jsnz.pages.dev/f/261c1664.py
