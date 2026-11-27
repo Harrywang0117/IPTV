@@ -158,9 +158,9 @@
     },
     {
       "key": "ikun",
-      "name": "🦋 爱坤┃影视(有三级片)",
+      "name": "iKun资源",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -610,7 +610,7 @@
       "key": "360资源",
       "name": "360资源",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/at/json/",
+      "api": "https://360zy.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -734,9 +734,9 @@
     },
     {
       "key": "牛牛影视",
-      "name": "🦋 牛牛影视｜追剧",
-      "type": 0,
-      "api": "https://api.niuniuzy.me/api.php/provide/vod/at/xml",
+      "name": "牛牛影视",
+      "type": 1,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -979,7 +979,7 @@
       "key": "豆瓣",
       "name": "豆瓣 | 采集",
       "type": 1,
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod/",
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1049,9 +1049,9 @@
     },
     {
       "key": "豆瓣资源",
-      "name": "豆瓣资源",
-      "type": 0,
-      "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/xml/",
+      "name": "豆瓣资源┃刺桐",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1130,9 +1130,9 @@
     },
     {
       "key": "OK资源",
-      "name": "OK资源",
-      "type": 0,
-      "api": "https://api.okzy.org/api.php/provide/vod/from/okm3u8/at/xml",
+      "name": "OK资源┃刺桐",
+      "type": 1,
+      "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2588,7 +2588,7 @@
     },
     {
       "key": "量子",
-      "name": "量子 | 采集",
+      "name": "🍀｜量子｜采集",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -2978,6 +2978,24 @@
       "name": "麒麟┃影音",
       "type": 1,
       "api": "https://www.qlys.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "暴风采集",
+      "name": "暴风┃采集",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "cms_maoyan",
+      "name": "猫眼┃资源",
+      "type": 1,
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
