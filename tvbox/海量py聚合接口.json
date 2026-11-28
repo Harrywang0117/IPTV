@@ -41,18 +41,18 @@
     },
     {
       "key": "华数",
-      "name": "🌀华数｜1920",
+      "name": "🥇华数｜影视",
       "type": 3,
-      "api": "https://gh-proxy.com/https:/raw.githubusercontent.com/IY-CPU/IY/main/lib/华数.py",
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/华数.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "星芽短剧",
-      "name": "🦋 星芽 • 短剧",
+      "name": "🌟丨星芽丨短剧",
       "type": 3,
-      "api": "https://cnb.cool/fish2035/xs/-/git/raw/main/py/星芽短剧.py",
+      "api": "https://chigua.eu.org/py/星芽短剧.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -61,16 +61,16 @@
       "key": "剧王短剧",
       "name": "剧王｜短剧",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/剧王短剧.py",
+      "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "爱听音乐",
-      "name": "📻爱听｜音乐",
+      "name": "爱听 • 音乐",
       "type": 3,
-      "api": "https://gh-proxy.com/https:/raw.githubusercontent.com/IY-CPU/IY/main/lib/爱听音乐.py",
+      "api": "https://pizazz.us.ci/other/py/爱听音乐.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -79,16 +79,16 @@
       "key": "网络直播",
       "name": "网络｜直播",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/WLZB.py",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/tvbox/refs/heads/main/潇洒2026/lib/网络直播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
       "key": "哔哩直播",
-      "name": "📺哔哩｜点播",
+      "name": "🎮哔哩丨直播",
       "type": 3,
-      "api": "https://gh-proxy.com/https:/raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩直播.py",
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/哔哩直播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1022,9 +1022,9 @@
     },
     {
       "key": "DSYS",
-      "name": "🦋 DSYS(py)｜🔞",
+      "name": "DSYS.py",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/DSYS.py",
+      "api": "https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/纯福利/plugin/adult/DSYS.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1510,7 +1510,7 @@
       "key": "橘汁",
       "name": "橘汁",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/dcdcff871e1139b45b15efe353872cc5.py",
+      "api": "https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1562,9 +1562,9 @@
     },
     {
       "key": "4k-av",
-      "name": "4k-av",
+      "name": "💓‍4k-av",
       "type": 3,
-      "api": "https://pan.szfx.top/down.php/0c67ff200a5ff8b2a2e95a14d3b80563.py",
+      "api": "https://pan.szfx.top/down.php/21da377c5e328d67e943a2acc1947ff3.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1877,9 +1877,9 @@
     },
     {
       "key": "猎手影视",
-      "name": "猎手┃影视",
+      "name": "猎手｜APP",
       "type": 3,
-      "api": "https://ygbh.site/max/py/猎手影视.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/py/猎手影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2228,9 +2228,9 @@
     },
     {
       "key": "爱看剧",
-      "name": "🌀看剧｜1920",
+      "name": "看剧｜2K",
       "type": 3,
-      "api": "https://gh-proxy.com/https:/raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -2624,9 +2624,9 @@
     },
     {
       "key": "红果短剧",
-      "name": "红果 • 短剧",
+      "name": "🎬红果｜短剧",
       "type": 3,
-      "api": "https://oss-v1.wangmeipo.cn/236/红果短剧.py",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/hgdj.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
