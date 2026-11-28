@@ -43,6 +43,7 @@ CCTV-6,https://0832-1dbe-95df-5158.kylintv.tv/live/cctv6hd_iphone.m3u8
 张学友醒着做梦音乐会,https://h5vod.kylintv.tv/vod/vol27/hd/20190201/hdzxyxzzm0qt/hdzxyxzzm0qt.mp4/hdzxyxzzm0qt_1_2500_ipad.mp4.m3u8
 
 US WCETV銀視,#genre#
+巴士的AITV,video://https://www.bastillepost.com/hongkong/article/16450062-巴士的ai-tv
 CCTV-4美洲,video://http://wcetv.com/videos/view/liv/0
 CGTN,video://http://wcetv.com/videos/view/liv/1
 CGTN DOCUMENTARY,video://http://wcetv.com/videos/view/liv/2
@@ -251,33 +252,201 @@ TVG2,http://mtayeh.ottb.xyz/live/774710333494/659822672281/13410.ts
 TVG/FANDUELTV,http://mtayeh.ottb.xyz/live/774710333494/659822672281/13628.ts
 YAHOO FINANCE,http://mtayeh.ottb.xyz/live/774710333494/659822672281/1440367.ts
 
+😎cloudcdn Mix,#genre#
+凤凰中文,http://tv.cloudcdn.me:80/live.ts?channelId=133041&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+凤凰资讯,http://tv.cloudcdn.me:80/live.ts?channelId=133100&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TVB星河,http://tv.cloudcdn.me:80/live.ts?channelId=133057&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TVB星河,http://tv.cloudcdn.me:80/live.ts?channelId=133059&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TVB娱乐新闻台,http://tv.cloudcdn.me:80/live.ts?channelId=132168&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+明珠台,http://tv.cloudcdn.me:80/live.ts?channelId=133058&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+天映经典,http://tv.cloudcdn.me:80/live.ts?channelId=133120&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+天映频道,http://tv.cloudcdn.me:80/live.ts?channelId=93754&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TVBS ASIA,http://tv.cloudcdn.me:80/live.ts?channelId=132170&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ARIRANG,http://tv.cloudcdn.me:80/live.ts?channelId=133069&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO AEC,http://tv.cloudcdn.me:80/live.ts?channelId=132479&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO AOD,http://tv.cloudcdn.me:80/live.ts?channelId=132147&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO ARENA 1,http://tv.cloudcdn.me:80/live.ts?channelId=93729&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO ARENA 2,http://tv.cloudcdn.me:80/live.ts?channelId=132148&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO ARENA BOLA 1,http://tv.cloudcdn.me:80/live.ts?channelId=133062&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO ARENA BOLA 2,http://tv.cloudcdn.me:80/live.ts?channelId=133063&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO BADMINTON 1,http://tv.cloudcdn.me:80/live.ts?channelId=133049&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO BADMINTON 2,http://tv.cloudcdn.me:80/live.ts?channelId=133050&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO CRICKET,http://tv.cloudcdn.me:80/live.ts?channelId=128494&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO FOOTBALL,http://tv.cloudcdn.me:80/live.ts?channelId=93742&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO GLOBAL TREKKER,http://tv.cloudcdn.me:80/live.ts?channelId=133053&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO GOLF,http://tv.cloudcdn.me:80/live.ts?channelId=133089&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO GRANDSTAND,http://tv.cloudcdn.me:80/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO PREMIER LEAGUE 1,http://tv.cloudcdn.me:80/live.ts?channelId=93739&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO PREMIER LEAGUE 2,http://tv.cloudcdn.me:80/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO QJ,http://tv.cloudcdn.me:80/live.ts?channelId=133055&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ASTRO SPORTS PLUS,http://tv.cloudcdn.me:80/live.ts?channelId=133122&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+BEIN SPORTS 1,http://tv.cloudcdn.me:80/live.ts?channelId=93748&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+BEIN SPORTS 2,http://tv.cloudcdn.me:80/live.ts?channelId=133114&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+BEIN SPORTS 3,http://tv.cloudcdn.me:80/live.ts?channelId=133115&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+BEIN SPORTS 4,http://tv.cloudcdn.me:80/live.ts?channelId=133116&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+BEIN SPORTS 5,http://tv.cloudcdn.me:80/live.ts?channelId=133117&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+BEIN SPORTS EN 1,http://tv.cloudcdn.me:80/live.ts?channelId=102481&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+BEIN SPORTS FR 1,http://tv.cloudcdn.me:80/live.ts?channelId=125089&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+BEIN SPORTS FR 2,http://tv.cloudcdn.me:80/live.ts?channelId=125090&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+BEIN SPORTS FR 3,http://tv.cloudcdn.me:80/live.ts?channelId=125091&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+BEIN SPORTS TR 1,http://tv.cloudcdn.me:80/live.ts?channelId=132179&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+BEIN SPORTS TR 2,http://tv.cloudcdn.me:80/live.ts?channelId=132175&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+BEIN SPORTS TR 3,http://tv.cloudcdn.me:80/live.ts?channelId=132176&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+BEIN SPORTS TR 4,http://tv.cloudcdn.me:80/live.ts?channelId=132177&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+DAZN DE 1,http://tv.cloudcdn.me:80/live.ts?channelId=125424&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+DAZN DE 2,http://tv.cloudcdn.me:80/live.ts?channelId=125425&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+DAZN EN 1,http://tv.cloudcdn.me:80/live.ts?channelId=125435&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+DAZN CHAMPIONSHIP,http://tv.cloudcdn.me:80/live.ts?channelId=132806&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ESPN 1,http://tv.cloudcdn.me:80/live.ts?channelId=128704&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ESPN 2,http://tv.cloudcdn.me:80/live.ts?channelId=271&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ESPN 3,http://tv.cloudcdn.me:80/live.ts?channelId=132808&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+FS1,http://tv.cloudcdn.me:80/live.ts?channelId=102480&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+FS2,http://tv.cloudcdn.me:80/live.ts?channelId=132180&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+HUB PTEMIER 1,http://tv.cloudcdn.me:80/live.ts?channelId=128708&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+NOW SPORTS 1,http://tv.cloudcdn.me:80/live.ts?channelId=129128&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+NOW SPORTS 2,http://tv.cloudcdn.me:80/live.ts?channelId=129129&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+NOW SPORTS 3,http://tv.cloudcdn.me:80/live.ts?channelId=129130&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+NOW SPORTS 4,http://tv.cloudcdn.me:80/live.ts?channelId=129131&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+NOW SPORTS 5,http://tv.cloudcdn.me:80/live.ts?channelId=129132&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+NOW SPORTS 6,http://tv.cloudcdn.me:80/live.ts?channelId=129133&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+NOW SPORTS 7,http://tv.cloudcdn.me:80/live.ts?channelId=129134&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+NOW SPORTS 4K,http://tv.cloudcdn.me:80/live.ts?channelId=132134&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+NOW SPORTS LEAGUE,http://tv.cloudcdn.me:80/live.ts?channelId=129140&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+NOW SPORTS PREMIER 1,http://tv.cloudcdn.me:80/live.ts?channelId=129136&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+NOW SPORTS PREMIER 2,http://tv.cloudcdn.me:80/live.ts?channelId=129137&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+NOW SPORTS PREMIER 4,http://tv.cloudcdn.me:80/live.ts?channelId=129138&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+NOW SPORTS PREMIER 5,http://tv.cloudcdn.me:80/live.ts?channelId=129139&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+NOW SPORTS PREMIER 6,http://tv.cloudcdn.me:80/live.ts?channelId=132133&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+RACING TV,http://tv.cloudcdn.me:80/live.ts?channelId=37315&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+SKY SPORTS FOOTBALL,http://tv.cloudcdn.me:80/live.ts?channelId=308&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+SKY SPORTS MAIN EVENT,http://tv.cloudcdn.me:80/live.ts?channelId=284&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+SKY SPORTS NEWS,http://tv.cloudcdn.me:80/live.ts?channelId=285&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+SKY SPORTS PREMIER LEAGUE,http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+SKY SPORTS RACING,http://tv.cloudcdn.me:80/live.ts?channelId=132131&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+SKY SPORTS TENNIS,http://tv.cloudcdn.me:80/live.ts?channelId=132530&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+SONY SPORTS 1,http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+SONY SPORTS 2,http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+SONY SPORTS 3,http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+SONY SPORTS 4,http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+SONY SPORTS 5,http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+SPOTV 1,http://tv.cloudcdn.me:80/live.ts?channelId=133045&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+SPOTV 2,http://tv.cloudcdn.me:80/live.ts?channelId=133046&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TNT SPORTS 1,http://tv.cloudcdn.me:80/live.ts?channelId=267&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TNT SPORTS 2,http://tv.cloudcdn.me:80/live.ts?channelId=268&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TNT SPORTS 3,http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TNT SPORTS 4,http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TNT SPORTS 5,http://tv.cloudcdn.me:80/live.ts?channelId=78867&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TSN 1,http://tv.cloudcdn.me:80/live.ts?channelId=28961&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TSN 2,http://tv.cloudcdn.me:80/live.ts?channelId=28962&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TSN 3,http://tv.cloudcdn.me:80/live.ts?channelId=28963&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TSN 4,http://tv.cloudcdn.me:80/live.ts?channelId=28964&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TSN 5,http://tv.cloudcdn.me:80/live.ts?channelId=28965&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+W-SPORTS,http://tv.cloudcdn.me:80/live.ts?channelId=133130&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+😎cloudcdn Los Angeles,#genre#
+KABC,http://tv.cloudcdn.me:80/live.ts?channelId=126868&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+KCBS,http://tv.cloudcdn.me:80/live.ts?channelId=126975&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+KCAL,http://tv.cloudcdn.me:80/live.ts?channelId=127128&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+KTLA,http://tv.cloudcdn.me:80/live.ts?channelId=126664&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+KNBC,http://tv.cloudcdn.me:80/live.ts?channelId=127217&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+KTTV,http://tv.cloudcdn.me:80/live.ts?channelId=132633&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+CBSN Los Angeles, http://tv.cloudcdn.me:80/live.ts?channelId=126989&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+😎cloudcdn News,#genre#
+Accu Weather,http://tv.cloudcdn.me:80/live.ts?channelId=126650&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+ALJAZEERA,http://tv.cloudcdn.me:80/live.ts?channelId=133070&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+BBC News,http://tv.cloudcdn.me:80/live.ts?channelId=133067&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+Black News Channel,http://tv.cloudcdn.me:80/live.ts?channelId=126917&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+Bloomberg TV,http://tv.cloudcdn.me:80/live.ts?channelId=46797&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+CBC NEWS,http://tv.cloudcdn.me:80/live.ts?channelId=46813&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+CCTV4,http://tv.cloudcdn.me:80/live.ts?channelId=133078&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+CGTN,http://tv.cloudcdn.me:80/live.ts?channelId=133864&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+CGTN DOCUMENTARY,http://tv.cloudcdn.me:80/live.ts?channelId=127317&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+CNA,http://tv.cloudcdn.me:80/live.ts?channelId=133040&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+CNBC,http://tv.cloudcdn.me:80/live.ts?channelId=46798&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+CNBC ASIA,http://tv.cloudcdn.me:80/live.ts?channelId=133038&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+CNN,http://tv.cloudcdn.me:80/live.ts?channelId=27942&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+CNN INTL,http://tv.cloudcdn.me:80/live.ts?channelId=27942&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+CP24,http://tv.cloudcdn.me:80/live.ts?channelId=46836&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+DW English,http://tv.cloudcdn.me:80/live.ts?channelId=72951&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+EURONEWS,http://tv.cloudcdn.me:80/live.ts?channelId=91008&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+Fox Business Network,http://tv.cloudcdn.me:80/live.ts?channelId=127049&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+Fox News Channel,http://tv.cloudcdn.me:80/live.ts?channelId=127093&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+FOX Weather,http://tv.cloudcdn.me:80/live.ts?channelId=127116&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+FRANCE 24,http://tv.cloudcdn.me:80/live.ts?channelId=133039&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+MSNBC,http://tv.cloudcdn.me:80/live.ts?channelId=127129&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+RT News,http://tv.cloudcdn.me:80/live.ts?channelId=36131&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+SKY NEWS,http://tv.cloudcdn.me:80/live.ts?channelId=4240&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+The Weather Channel,http://tv.cloudcdn.me:80/live.ts?channelId=127301&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TRT WORLD,http://tv.cloudcdn.me:80/live.ts?channelId=4240&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+TVG Network,http://tv.cloudcdn.me:80/live.ts?channelId=126192&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+Weather Nation,http://tv.cloudcdn.me:80/live.ts?channelId=127363&uid=10223&deviceMac=00:1A:79:07:07:43&deviceSn=84F4AB37DF6E6
+
+🌈host LOS ANGELES,#genre# 
+KABC,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/54049
+KCAL,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/54083
+KCAL,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/288629
+KCBS,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/54084
+CBS NEWS LOS ANGELES,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/54165
+KTLA,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/54177
+KTTV,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/54235
+KNBC,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/54389
+
+🌈host NEWS CHANNEL,#genre#
+ABC NEWS LIVE,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/168545
+ACCUWEATHER,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/286621
+AFRICA NEWS,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/161272
+AL JAZEERA ENG,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/53834
+BBC WORLD NEWS,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/184402
+BLOOMBERG,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/161280
+CBC NEWS CANADA,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/168540
+CGTN NEWS,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/161286
+CNA,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/162525
+CNBC,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/56586
+CNBC FHD 1080,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/53418
+CNBC WORLD FHD 1080,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/53417
+CNN,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/56588
+CNN FHD 1080,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/53416
+CP24,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/53614
+DEUTSCHE WELLE,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/161292
+EURONEWS,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/168552
+FOX BUSINESS NETWORK FHD 1080,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/53392
+FOX NEWS CHANNEL FHD 1080,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/53391
+FOX WEATHER,http://206.212.246.239/live/john/franklin/286613.ts
+FRANCE 24,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/56594
+MSNBC FHD 1080,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/53370
+RTE NEWS,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/53950
+RUSSIA TODAY,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/161350
+SKY NEWS,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/53974
+THE WEATHER CHANNEL FHD 1080,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/53310
+TVG,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/54971
+TVG2,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/54972
+
 港澳台|备①,#genre#
 無綫新聞台,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
-无线新闻,https://cdn6.cc.cd/163189/wxxw
-无线新闻,https://cdn6.123.rr.kg/163189/wxxw
-无线新闻,https://cdn6.123.rr.kg/163189/wxxwt
-无线新闻,http://iactive-clink.com:8081/live/yifaTV-007.m3u8
-无线新闻,http://ysift55.xyz/WJ74AC4SRKQQYR7/pahruAQRs8/616461
-无线新闻,http://173.208.234.146/live/inews.m3u8
-无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1B:79:42:10:51&stream=1495601
-无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72:F3:F0&stream=153399
-翡翠台,http://173.208.234.146/live/jade.m3u8
+无线新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
+无线新闻,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58592.m3u8
+无线新闻,http://ysift55.xyz/9F54C43547F0/28EB3B5ABFD4/616461
+无线新闻,http://main.light-ott.net:80/play/live.php?extension=ts&mac=00:1A:79:C6:EE:76&stream=1495601
+无线新闻,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=153399
+翡翠台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/jade.flv
+翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8
+翡翠台,http://218.13.139.26:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,https://cdn6.cc.cd/163189/fct
-翡翠台,http://74.91.26.218:82/live/jade.m3u8
 華麗翡翠台1,https://cdn6.cc.cd/163189/hlfct
 華麗翡翠台2,https://cdn3.123.rr.kg/stream/live/hlt/
 華麗翡翠台(硬字幕),https://cdn6.cc.cd/163189/jade
 華麗翡翠台(新加坡),https://cdn3.123.rr.kg/stream/live/jade/
 明珠台,https://cdn6.cc.cd/163189/mzt
+TVB Plus,http://167.88.62.43:64012/0.ts
 TVB Plus,https://cdn6.cc.cd/163189/tvbp
 TVB Plus,https://cdn3.123.rr.kg/stream/tvb/tvbp/
 TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
 TVBe,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbe-tvbanywhereus/playlist.m3u8
-TVBe,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1495602
+TVBe,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:C6:EE:76&stream=1495602
 TVB1,https:/cdn6.cc.cd/163189/tvb1
-TVB1,http://line.senpay23.com:80/4cafe94867/48a12d348c/153396
 TVBJ1,https://cdn6.cc.cd/163189/j1
-TVBJ1,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:FD:41:1E&stream=1495598
+TVBJ1,http://line.tivi-one.net:80/play/live.php?extension=ts&mac=00:1A:79:C6:EE:76&stream=1495598
 TVB DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
 PEARL DRAMA,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbpearldrama-tvbanywhereus/playlist.m3u8
 TVB VietNam,https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
@@ -287,7 +456,7 @@ TVB星河,https://cdn6.cc.cd/163189/tvbxh
 功夫台,https://cdn6.cc.cd/163189/yzwx
 千禧经典台,https://cdn3.123.rr.kg/163189/tvbc
 千禧经典台,http://tv.cloudcdn.me:80/live.ts?uid=4280&deviceMac=00:1A:79:17:C1:7F&channelId=133057
-凤凰中文,http://173.208.234.146/live/fhzw.m3u8
+凤凰中文,http://ccav.zone.id/php/fh.php?id=2
 凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰中文,http://156.238.224.170:7001/fhx.php?id=cn
@@ -296,7 +465,7 @@ TVB星河,https://cdn6.cc.cd/163189/tvbxh
 凤凰中文,video://https://www.faintv.com/channel/204
 凤凰中文,video://http://115.190.252.60/gangaotai/play.php?name=凤凰中文
 凤凰中文,http://31.43.191.125:8080/restream/restream/34629
-凤凰资讯,http://173.208.234.146/live/fhzx.m3u8
+凤凰资讯,http://ccav.zone.id/php/fh.php?id=1
 凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
 凤凰资讯,http://31.43.191.125:8080/restream/restream/34641
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
@@ -304,21 +473,18 @@ TVB星河,https://cdn6.cc.cd/163189/tvbxh
 凤凰资讯,https://cdn6.cc.cd/163189/fhzx
 凤凰资讯,video://https://www.faintv.com/channel/120
 凤凰资讯,video://http://115.190.252.60/gangaotai/play.php?name=凤凰资讯
-凤凰香港,http://173.208.234.146/live/fhxg.m3u8
+凤凰香港,http://ccav.zone.id/php/fh.php?id=3
 凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 凤凰香港,https://cdn6.cc.cd/163189/fhhk
 凤凰香港,video://https://www.faintv.com/channel/18965
 凤凰香港,video://http://115.190.252.60/gangaotai/play.php?name=凤凰香港
 凤凰美洲台,video://http://115.190.252.60/gangaotai/play.php?name=凤凰美洲
-凤凰美洲台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72:F3:F0&stream=156408
-HOY76,http://173.208.234.146/live/hoy76.m3u8
+凤凰美洲台,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156408
 HOY76,https://cdn11.123.rr.kg/163189/hoy76
-HOY77,http://173.208.234.146/live/hoy77.m3u8
 HOY77,https://cdn6.cc.cd/163189/hoy
 HOY77,https://fast.hidns.vip/163189/hoy
 HOY77,https://cdn.123.rr.kg/163189/hoy
-HOY78,http://173.208.234.146/live/hoy78.m3u8
 HOY78,https://cdn.123.rr.kg/163189/hoy78
 HOY78,https://fast.hidns.vip/163189/hoy78
 HOY剧集台,https://cdn11.163189.xyz/163189/c4df21397505587b
@@ -329,18 +495,19 @@ RTHK31,https://cdn.123.rr.kg/163189/rthk31
 RTHK31,https://fast.hidns.vip/163189/rthk31
 RTHK32,https://fast.hidns.vip/163189/rthk32
 RTHK32,https://cdn.123.rr.kg/163189/rthk32
-NOW新闻台,http://173.208.234.146/live/nowxw.m3u8
 NOW新闻台,https://fast.hidns.vip/163189/now
 NOW新闻台,https://cdn.123.rr.kg/163189/now
 NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
-NOW星影台,http://173.208.234.146/live/nowxy.m3u8
-NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
-美亚电影,http://173.208.234.146/live/mymovie.m3u8
-POPC,http://173.208.234.146/live/popc.m3u8
-VIUTV,https://cdn.123.rr.kg/163189/viu
-VIUTV,https://10.fast.hidns.vip/163189/viu/
-VIUTV6,https://10.fast.hidns.vip/163189/viu6/
-VIUTV6,http://cdn10.123.rr.kg/163189/viu6/
+Now-爆谷台,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-baogu
+Now-星影台,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-xingying
+Now-华剧台,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-huaju
+Now-紫金台,rtmp://pull-mpeg-hs-cny-f5.douyincdn.com/live/xiangjiaoge-zijin
+美亚电影,http://app.kds666.top:5566/api.php?id=13&s=1
+POPC,http://app.kds666.top:5566/api.php?id=16&s=1
+ViuTV,http://app.kds666.top:5566/api.php?id=11&s=2
+ViuTV6,http://app.kds666.top:5566/api.php?id=12&s=2
+VIU华剧台,http://app.kds666.top:5566/api.php?id=131&s=11
+巴士的AITV,http://app.kds666.top:5566/api.php?id=53&s=2
 香港C+頻道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
 星空卫视,http://xhyx.gz.cn:1698/hls/35/index.m3u8
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
@@ -368,42 +535,42 @@ CHU,https://cdn6.cc.cd/163189/chu
 HUB娱家,http://rihou.cc:555/tv/[Hk]HUB娱家
 HUB都会,http://rihou.cc:555/tv/[Hk]HUB都会
 CCTV1,http://173.208.234.146/live/cctv1.m3u8
-CCTV1,https://cdn16.123.rr.kg/163189/cctv1
+CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2,http://173.208.234.146/live/cctv2.m3u8
-CCTV2,https://cdn16.123.rr.kg/163189/cctv2
+CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3,http://173.208.234.146/live/cctv3.m3u8
-CCTV3,https://cdn16.123.rr.kg/163189/cctv3
+CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV4,http://173.208.234.146/live/cctv4.m3u8
-CCTV4,https://cdn16.123.rr.kg/163189/cctv4
+CCTV4,http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
 CCTV5,http://173.208.234.146/live/cctv5.m3u8
-CCTV5,https://cdn16.123.rr.kg/163189/cctv5
+CCTV5,http://45.192.97.170:8880/play/393.m3u8
 CCTV5+,http://173.208.234.146/live/cctv5p.m3u8
-CCTV5+,https://cdn16.123.rr.kg/163189/cctv5p
+CCTV5+,http://45.192.97.170:8880/play/197.m3u8
 CCTV6,http://173.208.234.146/live/cctv6.m3u8
-CCTV6,https://cdn16.123.rr.kg/163189/cctv6
+CCTV6,http://74.91.26.218:82/live/cctv6hd.m3u8
 CCTV7,http://173.208.234.146/live/cctv7.m3u8
-CCTV7,https://cdn16.123.rr.kg/163189/cctv7
+CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV8,http://173.208.234.146/live/cctv8.m3u8
-CCTV8,https://cdn16.123.rr.kg/163189/cctv8
+CCTV8,http://74.91.26.218:82/live/cctv8hd.m3u8
 CCTV9,http://173.208.234.146/live/cctv9.m3u8
 CCTV9,https://cdn16.123.rr.kg/163189/cctv9
 CCTV10,http://173.208.234.146/live/cctv10.m3u8
-CCTV10,https://cdn16.123.rr.kg/163189/cctv10
+CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV11,http://173.208.234.146/live/cctv11.m3u8
-CCTV11,https://cdn16.123.rr.kg/163189/cctv11
+CCTV11,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV12,http://173.208.234.146/live/cctv12.m3u8
-CCTV12,https://cdn16.123.rr.kg/163189/cctv12
+CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV13,http://173.208.234.146/live/cctv13.m3u8
-CCTV13,https://cdn16.123.rr.kg/163189/cctv13
+CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV14,http://173.208.234.146/live/cctv14.m3u8
 CCTV14,https://cdn16.123.rr.kg/163189/cctv14
 CCTV15,http://173.208.234.146/live/cctv15.m3u8
-CCTV15,https://cdn16.123.rr.kg/163189/cctv15
+CCTV15,http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
 CCTV16,http://173.208.234.146/live/cctv16.m3u8
-CCTV16,https://cdn16.123.rr.kg/163189/cctv16
+CCTV16,http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
 CCTV17,http://173.208.234.146/live/cctv17.m3u8
-CCTV17,https://cdn16.123.rr.kg/163189/cctv17
+CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
 cctv4k,http://107.150.52.50:82/live/cctv4k.m3u8
 CCTV8K,http://107.150.52.50:82/live/cctv8k.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
@@ -423,25 +590,20 @@ KTSF26洛杉磯三藩市,http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 華語電視二台,http://38.64.72.148/hls/modn/list/4002/playlist.m3u8
 華語電視三台,http://38.64.72.148/hls/modn/list/4003/playlist.m3u8
 南美新聞台,video://https://m.italkbbtv.com/live/62cc94444725b5305843ae06
-寰宇新闻台,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
-寰宇新闻台,http://31.43.191.125:8080/restream/restream/34793
-镜新闻,http://31.43.191.125:8080/restream/restream/34876
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8
-中天新闻,http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
-中天新闻,http://xiangxiws.vip:6777/qlw.php?key=qq群746405779&id=ztxw
-中天新闻,http://iactive-clink.com:8081/live/111ztxw.m3u8
-中天新闻,http://31.43.191.125:8080/restream/restream/34817
-中天新闻,http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/34817
-中天新闻,http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34817
+寰宇新闻台,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
+中天新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/ztxw.flv
+中天新闻,http://dev.sugonedu.com:8081/live/999ztxw.m3u8
+中天新闻,http://206.187.210.30/sf/nn/nnyy.php?t=中国【台湾省】&id=中天新闻&l=2&any=1&key=888
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻 YT,https://www.youtube.com/watch?v=vr3XyVCR4T0
-中天綜合,http://31.43.191.125:8080/restream/restream/34898
-中天娛樂HD,https://mqitv.luckyboy.cc.cd/live1023/index.m3u8
-中天亚洲,http://line.senpay23.com:80/4cafe94867/48a12d348c/571212
+中天娱乐,http://206.187.210.30/sf/nn/nnyy.php?t=中国【台湾省】&id=中天娱乐&l=2&any=1&key=888
+中天综合,http://206.187.210.30/sf/nn/nnyy.php?t=中国【台湾省】&id=中天综合&l=2&any=1&key=888
+中天亞洲台,http://app.kds666.top:5566/api.php?id=14&s=4
 中天亚洲,http://tv.cloudcdn.me:80/live.ts?uid=4280&deviceMac=00:1A:79:17:C1:7F&channelId=133119
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
 中視,http://74.91.26.218:82/live/ctv.m3u8
+中视经典,http://167.88.62.43:64008/0.ts
+中视菁采,http://167.88.62.43:64009/0.ts
 TVBS亞洲台,http://15611-huge.cdn-o2.me/live/4b1cb29e33/9ea2b8c5e827/500947.ts
 TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 东森超视 34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
@@ -462,6 +624,7 @@ TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 大湾区卫视,http://173.208.234.146/live/nfws.m3u8
 大湾区卫视,http://74.91.26.218:82/live/nfws.m3u8
 大湾区卫视,http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
+大湾区卫视,http://167.88.62.43:64011/0.ts
 广东4K超高清,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
 广东新闻,http://173.208.234.146/live/gdxw.m3u8
 广东新闻,http://74.91.26.218:82/live/gdxw.m3u8
@@ -472,6 +635,7 @@ TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 广东体育,http://173.208.234.146/live/gdty.m3u8
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+广东体育,http://167.88.62.43:64013/0.ts
 广东移动,http://173.208.234.146/live/gdyd.m3u8
 广东移动,http://38.75.136.137:98/gslb/dsdqpub/gdyd.m3u8?auth=testpub
 广东民生,http://173.208.234.146/live/gdgg.m3u8
@@ -492,12 +656,11 @@ TVBS亞洲台,video://https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 东方卫视,http://58.245.255.38:8888/tsfile/live/0107_1.m3u8?key=txiptv&amp;authid=0
 海南卫视,http://38.75.136.137:98/gslb/dsdqpub/hinwshd.m3u8?auth=testpub
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-FAIRCHILD EAST,http://line.senpay23.com:80/4cafe94867/48a12d348c/90350
-FAIRCHILD EAST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72:F3:F0&stream=90350
-FAIRCHILD WEST,http://line.senpay23.com:80/4cafe94867/48a12d348c/90351
-FAIRCHILD WEST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72:F3:F0&stream=90351
-FAIRCHILD 2,http://line.senpay23.com:80/4cafe94867/48a12d348c/90352
-FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72:F3:F0&stream=90352
+FAIRCHILD EAST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=90350
+FAIRCHILD WEST,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=90351
+FAITCHILD 1,http://167.88.62.43:64026/0.ts
+FAITCHILD 2,http://167.88.62.43:64022/0.ts
+FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=90352
 
 广东频道,#genre#
 广东大湾区卫视,http://173.208.234.146/live/nfws.m3u8
@@ -506,11 +669,15 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72
 广东大湾区卫视,http://tv.8610000.cn:555/gdtv/gdtv.php?id=51
 广东大湾区卫视（海外版）,http://tv.8610000.cn:555/gdtv/gdtv.php?id=46
 广东大湾区卫视,http://116.77.33.98:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-广东大湾区卫视,http://xhyx.gz.cn:1698/hls/64/index.m3u8
+广东大湾区卫视,http://74.91.26.218:82/live/nfws.m3u8
+广东大湾区卫视,http://167.88.62.43:64011/0.ts
+广东大湾区卫视,http://204.12.221.218:8181/3m1080p/nfwsitv.m3u8
+广东卫视,http://204.12.221.218:8181/3m1080p/gdwshd.m3u8
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,http://www.yahao.host:4022/udp/239.77.0.84:5146
 广东卫视,http://tv.8610000.cn:555/gdtv/gdtv.php?id=43
-广东卫视,http://xhyx.gz.cn:1698/hls/92/index.m3u8
+广东卫视,http://74.91.26.218:82/live/gdwshd.m3u8
+广东卫视,http://204.12.221.218:8181/3m1080p/gdws.m3u8
 广东4K超高清,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
 广东4K超高清,http://tv.8610000.cn:555/gdtv/gdtv.php?id=16
 广东新闻,http://173.208.234.146/live/gdxw.m3u8
@@ -520,6 +687,7 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72
 广东新闻,http://tv.8610000.cn:555/gdtv/gdtv.php?id=45
 广东新闻,http://116.77.33.98:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 广东新闻,http://xhyx.gz.cn:1698/hls/63/index.m3u8
+广东新闻,http://204.12.221.218:8181/3m1080p/gdxw.m3u8
 广东民生,http://www.yahao.host:4022/udp/239.77.0.225:5146
 广东民生,http://tv.8610000.cn:555/gdtv/gdtv.php?id=48
 广东民生,http://116.77.33.98:44330/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -528,6 +696,7 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72
 广东影视,http://www.yahao.host:4022/udp/239.77.0.217:5146
 广东影视,http://tv.8610000.cn:555/gdtv/gdtv.php?id=53
 广东影视,http://xhyx.gz.cn:1698/hls/65/index.m3u8
+广东影视,http://204.12.221.218:8181/3m1080p/gdtvs4.m3u8
 广东珠江,http://173.208.234.146/live/gdzj.m3u8
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
@@ -535,6 +704,7 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72
 广东珠江,http://www.yahao.host:4022/udp/239.77.0.1:5146
 广东珠江,http://tv.8610000.cn:555/gdtv/gdtv.php?id=44
 广东珠江,http://xhyx.gz.cn:1698/hls/26/index.m3u8
+广东珠江,http://204.12.221.218:8181/3m1080p/gdzj.m3u8
 广东体育,http://173.208.234.146/live/gdty.m3u8
 广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 广东体育,https://cdn.123.rr.kg/163189/gdty
@@ -542,11 +712,14 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72
 广东体育,http://tv.8610000.cn:555/gdtv/gdtv.php?id=47
 广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://xhyx.gz.cn:1698/hls/4/index.m3u8
+广东体育,http://167.88.62.43:64013/0.ts
+广东体育,http://204.12.221.218:8181/3m1080p/gdty.m3u8
 广东少儿,http://173.208.234.146/live/gdtvs5.m3u8
 广东少儿,http://38.75.136.137:98/gslb/dsdqpub/gdtvs5.m3u8?auth=testpub
 广东少儿,http://www.yahao.host:4022/udp/239.77.0.250:5146
 广东少儿,http://tv.8610000.cn:555/gdtv/gdtv.php?id=54
 广东少儿,http://xhyx.gz.cn:1698/hls/66/index.m3u8
+广东少儿,http://204.12.221.218:8181/3m1080p/gdtvs5.m3u8
 广东嘉佳卡通,http://tv.8610000.cn:555/gdtv/gdtv.php?id=66
 广东嘉佳卡通,http://116.77.33.98:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 广东南方购物,http://tv.8610000.cn:555/gdtv/gdtv.php?id=42
@@ -556,6 +729,7 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72
 广东经济科教,http://173.208.234.146/live/gdtvs1.m3u8
 广东经济科教,http://www.yahao.host:4022/udp/239.77.0.85:5146
 广东经济科教,http://xhyx.gz.cn:1698/hls/28/index.m3u8
+广东经济科教,http://204.12.221.218:8181/3m1080p/gdtvs1.m3u8
 广东岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
 广东岭南戏曲台,http://tv.8610000.cn:555/gdtv/gdtv.php?id=15
 广东台经典剧台,http://tv.8610000.cn:555/gdtv/gdtv.php?id=100
@@ -591,7 +765,10 @@ FAIRCHILD 2,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:72
 广州南国都市,https://cdn15.123.rr.kg/163189/ngds
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 广州南国都市,https://cdn15.163189.xyz/163189/ngds
+深圳卫视,http://204.12.221.218:8181/3m1080p/szwshd.m3u8
+深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+深圳卫视,http://74.91.26.218:82/live/szwshd.m3u8
 深圳卫视,http://116.77.33.98:44330/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 深圳直播1,https://livepull-tcyzb.sztv.com.cn/live/YSZ_SHZM.m3u8
@@ -801,7 +978,8 @@ HZTV-2,http://www.yahao.host:4022/rtp/239.77.1.233:5146
 
 YT,#genre#
 鳳凰衛視#24小時直播間,https://www.youtube.com/watch?v=Ry--eMIjYLQ
-CCTV中文国际,https://www.youtube.com/watch?v=vNVp6bxkL1c
+CCTV中文国际,https://www.youtube.com/watch?v=X-HTZdV960U
+CCTV中文国际（美洲）,https://www.youtube.com/watch?v=PiSwAy-blvA
 BNE 佳讯-24小时新闻1,https://www.youtube.com/watch?v=peZgMZEJLzg
 BNE 佳讯-24小时新闻2,https://www.youtube.com/watch?v=X7u-nh7tCqY
 寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
@@ -910,156 +1088,6 @@ NOW爆谷台,http://74.91.26.218:82/live/nowbg.m3u8
 公视,http://74.91.26.218:82/live/pts.m3u8
 公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
-
-3143VIP TW,#genre#
-镜新闻,http://31.43.191.125:8080/restream/restream/34876
-寰宇新闻,http://31.43.191.125:8080/restream/restream/34793
-寰宇新闻台,http://31.43.191.125:8080/restream/restream/34870
-寰宇新聞台灣台,http://31.43.191.125:8080/restream/restream/34794
-中天亚洲台,http://31.43.191.125:8080/restream/restream/34900
-中天亚洲台,http://31.43.191.125:8080/restream/restream/34559
-中天新闻,http://31.43.191.125:8080/restream/restream/34817
-中天综合,http://31.43.191.125:8080/restream/restream/34898
-中視新聞,http://31.43.191.125:8080/restream/restream/34819
-中視經典,http://31.43.191.125:8080/restream/restream/34820
-中视,http://31.43.191.125:8080/restream/restream/34897
-中视新闻,http://31.43.191.125:8080/restream/restream/34896
-中视经典,http://31.43.191.125:8080/restream/restream/34895
-中视菁采台,http://31.43.191.125:8080/restream/restream/34894
-TVBS HD,http://31.43.191.125:8080/restream/restream/34915
-TVBS ASIA,http://31.43.191.125:8080/restream/restream/34561
-TVBS News 新闻台,http://31.43.191.125:8080/restream/restream/34914
-TVBS-NEWS HD,http://31.43.191.125:8080/restream/restream/34783
-TVBS 新闻,http://31.43.191.125:8080/restream/restream/34818
-TVBS 欢乐台,http://31.43.191.125:8080/restream/restream/34913
-TVBS 精采台,http://31.43.191.125:8080/restream/restream/34912
-东森新闻,http://31.43.191.125:8080/restream/restream/34905
-东森财经,http://31.43.191.125:8080/restream/restream/34901
-东森洋片,http://31.43.191.125:8080/restream/restream/34904
-東森洋片,http://31.43.191.125:8080/restream/restream/34813
-东森综合,http://31.43.191.125:8080/restream/restream/34902
-東森綜合,http://31.43.191.125:8080/restream/restream/34814
-东森戏剧,http://31.43.191.125:8080/restream/restream/34906
-東森戲劇,http://31.43.191.125:8080/restream/restream/34816
-東森電影,http://31.43.191.125:8080/restream/restream/34815
-三立iNEWS新闻台,http://31.43.191.125:8080/restream/restream/34909
-三立台湾,http://31.43.191.125:8080/restream/restream/34806
-三立戲劇,http://31.43.191.125:8080/restream/restream/34803
-三立新闻,http://31.43.191.125:8080/restream/restream/34805
-三立新闻HD,http://31.43.191.125:8080/restream/restream/34908
-三立綜合,http://31.43.191.125:8080/restream/restream/34804
-三立综合,http://31.43.191.125:8080/restream/restream/34907
-三立都會,http://31.43.191.125:8080/restream/restream/34807
-年代新闻,http://31.43.191.125:8080/restream/restream/34869
-非凡新闻,http://31.43.191.125:8080/restream/restream/34832
-八大戲劇,http://31.43.191.125:8080/restream/restream/34801
-八大第一,http://31.43.191.125:8080/restream/restream/34802
-八大精彩,http://31.43.191.125:8080/restream/restream/34893
-八大综合,http://31.43.191.125:8080/restream/restream/34892
-公视,http://31.43.191.125:8080/restream/restream/34891
-公视戏剧,http://31.43.191.125:8080/restream/restream/34890
-台视,http://31.43.191.125:8080/restream/restream/34879
-台视新闻,http://31.43.191.125:8080/restream/restream/34878
-华视,http://31.43.191.125:8080/restream/restream/34887
-华视新闻,http://31.43.191.125:8080/restream/restream/34886
-民视,http://31.43.191.125:8080/restream/restream/34862
-民视台湾,http://31.43.191.125:8080/restream/restream/34861
-民视新闻,http://31.43.191.125:8080/restream/restream/34860
-民视第一,http://31.43.191.125:8080/restream/restream/34859
-民视综艺,http://31.43.191.125:8080/restream/restream/34858
-华藏卫视,http://31.43.191.125:8080/restream/restream/34784
-客家电视台,http://31.43.191.125:8080/restream/restream/34871
-猪哥亮歌舞厅秀,http://31.43.191.125:8080/restream/restream/34856
-大爱1,http://31.43.191.125:8080/restream/restream/34875
-大爱2,http://31.43.191.125:8080/restream/restream/34874
-好消息,http://31.43.191.125:8080/restream/restream/34791
-好消息2,http://31.43.191.125:8080/restream/restream/34873
-动物星球,http://31.43.191.125:8080/restream/restream/34889
-华纳电视,http://31.43.191.125:8080/restream/restream/34785
-博斯无限,http://31.43.191.125:8080/restream/restream/34885
-博斯运动1,http://31.43.191.125:8080/restream/restream/34884
-博斯运动2,http://31.43.191.125:8080/restream/restream/34883
-博斯高球1,http://31.43.191.125:8080/restream/restream/34882
-博斯高球2,http://31.43.191.125:8080/restream/restream/34881
-卫视电影,http://31.43.191.125:8080/restream/restream/34880
-国家地理,http://31.43.191.125:8080/restream/restream/34877
-好莱坞电影台,http://31.43.191.125:8080/restream/restream/34872
-影迷数位电影,http://31.43.191.125:8080/restream/restream/34868
-探索频道,http://31.43.191.125:8080/restream/restream/34867
-时尚运动 X,http://31.43.191.125:8080/restream/restream/34864
-星卫电影,http://31.43.191.125:8080/restream/restream/34788
-智林體育台,http://31.43.191.125:8080/restream/restream/34863
-爱尔达体育1台,http://31.43.191.125:8080/restream/restream/34857
-緯來戲劇,http://31.43.191.125:8080/restream/restream/34812
-緯來日本,http://31.43.191.125:8080/restream/restream/34809
-緯來育樂,http://31.43.191.125:8080/restream/restream/34808
-緯來電影,http://31.43.191.125:8080/restream/restream/34811
-緯來體育,http://31.43.191.125:8080/restream/restream/34810
-纬来体育,http://31.43.191.125:8080/restream/restream/34855
-纬来戏剧,http://31.43.191.125:8080/restream/restream/34854
-纬来日本台,http://31.43.191.125:8080/restream/restream/34853
-纬来电影,http://31.43.191.125:8080/restream/restream/34852
-纬来精采,http://31.43.191.125:8080/restream/restream/34851
-纬来综合,http://31.43.191.125:8080/restream/restream/34850
-纬来育乐,http://31.43.191.125:8080/restream/restream/34849
-美亚电影,http://31.43.191.125:8080/restream/restream/34848
-美食星球,http://31.43.191.125:8080/restream/restream/34796
-视纳华仁纪实台,http://31.43.191.125:8080/restream/restream/34847
-采昌影劇台,http://31.43.191.125:8080/restream/restream/34846
-金马影院,http://31.43.191.125:8080/restream/restream/34845
-靖天卡通,http://31.43.191.125:8080/restream/restream/34842
-靖天国际台,http://31.43.191.125:8080/restream/restream/34841
-靖天戲劇台,http://31.43.191.125:8080/restream/restream/34840
-靖天日本,http://31.43.191.125:8080/restream/restream/34797
-靖天日本台,http://31.43.191.125:8080/restream/restream/34839
-靖天映画,http://31.43.191.125:8080/restream/restream/34838
-靖天欢乐台,http://31.43.191.125:8080/restream/restream/34837
-靖天电影台,http://31.43.191.125:8080/restream/restream/34836
-靖天育乐台,http://31.43.191.125:8080/restream/restream/34835
-靖洋卡通,http://31.43.191.125:8080/restream/restream/34834
-靖洋戏剧,http://31.43.191.125:8080/restream/restream/34833
-龍華戲劇,http://31.43.191.125:8080/restream/restream/34798
-龍華經典,http://31.43.191.125:8080/restream/restream/34831
-龙华偶像,http://31.43.191.125:8080/restream/restream/34830
-龙华戏剧,http://31.43.191.125:8080/restream/restream/34829
-龙华洋片,http://31.43.191.125:8080/restream/restream/34828
-龙华电影,http://31.43.191.125:8080/restream/restream/34827
-龙华经典,http://31.43.191.125:8080/restream/restream/34826
-龙祥电影,http://31.43.191.125:8080/restream/restream/34825
-半岛国际新闻台,http://31.43.191.125:8080/restream/restream/34888
-阿里郎,http://31.43.191.125:8080/restream/restream/34843
-AXN,http://31.43.191.125:8080/restream/restream/34930
-Baby TV,http://31.43.191.125:8080/restream/restream/34929
-BBC lifestyle,http://31.43.191.125:8080/restream/restream/34931
-Catch Play电影台,http://31.43.191.125:8080/restream/restream/34926
-Ci,http://31.43.191.125:8080/restream/restream/34925
-CINEMAX,http://31.43.191.125:8080/restream/restream/34928
-CN 卡通,http://31.43.191.125:8080/restream/restream/34927
-CN 卡通,http://31.43.191.125:8080/restream/restream/34800
-Discovery Asia,http://31.43.191.125:8080/restream/restream/34924
-Discovery科學頻道,http://31.43.191.125:8080/restream/restream/34923
-Eastern Movies,http://31.43.191.125:8080/restream/restream/34903
-ELEVEN SPORTS 1,http://31.43.191.125:8080/restream/restream/34792
-ELEVEN体育1,http://31.43.191.125:8080/restream/restream/34922
-ELEVEN体育2,http://31.43.191.125:8080/restream/restream/34921
-ELTA娱乐,http://31.43.191.125:8080/restream/restream/34920
-ELTA体育2,http://31.43.191.125:8080/restream/restream/34865
-ELTA体育3,http://31.43.191.125:8080/restream/restream/34866
-ET GLOBAL,http://31.43.191.125:8080/restream/restream/34823
-EYETV戲劇,http://31.43.191.125:8080/restream/restream/34789
-EYETV旅游,http://31.43.191.125:8080/restream/restream/34790
-Ginx EsportsTV,http://31.43.191.125:8080/restream/restream/34919
-HBO,http://31.43.191.125:8080/restream/restream/34787
-HBO FAMILY,http://31.43.191.125:8080/restream/restream/34824
-HBO HD,http://31.43.191.125:8080/restream/restream/34918
-HBO HITS,http://31.43.191.125:8080/restream/restream/34821
-HBO SIGNATURE,http://31.43.191.125:8080/restream/restream/34786
-HISTORY 2,http://31.43.191.125:8080/restream/restream/34799
-Mezzo Live,http://31.43.191.125:8080/restream/restream/34917
-Momo親子,http://31.43.191.125:8080/restream/restream/34910
-Trace Sport Stars,http://31.43.191.125:8080/restream/restream/34911
-TRACE Urban,http://31.43.191.125:8080/restream/restream/34916
-TTV,http://31.43.191.125:8080/restream/restream/34822
 
 3143VIP ASIA,#genre#
 KABC,http://31.43.191.125:8080/live/restream/restream/154553.ts
@@ -2077,920 +2105,543 @@ CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 邵氏动作,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbssdz
 邵氏喜剧,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbssxj
 
-45.192央卫视,#genre#
-CCTV 1,http://45.192.97.170:8880/play/254.m3u8
-CCTV 2,http://45.192.97.170:8880/play/255.m3u8
-CCTV 3,http://45.192.97.170:8880/play/256.m3u8
-CCTV 4,http://45.192.97.170:8880/play/257.m3u8
-CCTV 5,http://45.192.97.170:8880/play/258.m3u8
-CCTV 5+,http://45.192.97.170:8880/play/259.m3u8
-CCTV 6,http://45.192.97.170:8880/play/260.m3u8
-CCTV 7,http://45.192.97.170:8880/play/261.m3u8
-CCTV 8,http://45.192.97.170:8880/play/262.m3u8
-CCTV 9,http://45.192.97.170:8880/play/263.m3u8
-CCTV 10,http://45.192.97.170:8880/play/264.m3u8
-CCTV 11,http://45.192.97.170:8880/play/265.m3u8
-CCTV 12,http://45.192.97.170:8880/play/266.m3u8
-CCTV 13,http://45.192.97.170:8880/play/267.m3u8
-CCTV 14,http://45.192.97.170:8880/play/268.m3u8
-CCTV 15,http://45.192.97.170:8880/play/269.m3u8
-CCTV 16,http://45.192.97.170:8880/play/270.m3u8
-CCTV 17,http://45.192.97.170:8880/play/271.m3u8
-CCTV1,http://45.192.97.170:8880/play/135.m3u8
-CCTV2,http://45.192.97.170:8880/play/136.m3u8
-CCTV3,http://45.192.97.170:8880/play/137.m3u8
-CCTV4,http://45.192.97.170:8880/play/138.m3u8
-CCTV5,http://45.192.97.170:8880/play/139.m3u8
-CCTV5+,http://45.192.97.170:8880/play/140.m3u8
-CCTV6,http://45.192.97.170:8880/play/141.m3u8
-CCTV7,http://45.192.97.170:8880/play/142.m3u8
-CCTV8,http://45.192.97.170:8880/play/143.m3u8
-CCTV9,http://45.192.97.170:8880/play/144.m3u8
-CCTV10,http://45.192.97.170:8880/play/145.m3u8
-CCTV11,http://45.192.97.170:8880/play/146.m3u8
-CCTV12,http://45.192.97.170:8880/play/147.m3u8
-CCTV13,http://45.192.97.170:8880/play/148.m3u8
-CCTV14,http://45.192.97.170:8880/play/149.m3u8
-CCTV 8K,http://45.192.97.170:8880/play/155.m3u8
-CGTN,http://45.192.97.170:8880/play/156.m3u8
-CGTN ESPANOL,http://45.192.97.170:8880/play/160.m3u8
-CGTN DOCMENTARY,http://45.192.97.170:8880/play/161.m3u8
-北京卫视,http://45.192.97.170:8880/play/102.m3u8
-江苏卫视,http://45.192.97.170:8880/play/103.m3u8
-东方卫视,http://45.192.97.170:8880/play/104.m3u8
-浙江卫视,http://45.192.97.170:8880/play/105.m3u8
-湖南卫视,http://45.192.97.170:8880/play/106.m3u8
-湖北卫视,http://45.192.97.170:8880/play/107.m3u8
-广东卫视,http://45.192.97.170:8880/play/108.m3u8
-广西卫视,http://45.192.97.170:8880/play/109.m3u8
-黑龙江卫视,http://45.192.97.170:8880/play/110.m3u8
-海南卫视,http://45.192.97.170:8880/play/111.m3u8
-重庆卫视,http://45.192.97.170:8880/play/112.m3u8
-深圳卫视,http://45.192.97.170:8880/play/113.m3u8
-四川卫视,http://45.192.97.170:8880/play/114.m3u8
-河南卫视,http://45.192.97.170:8880/play/115.m3u8
-东南卫视,http://45.192.97.170:8880/play/116.m3u8
-贵州卫视,http://45.192.97.170:8880/play/117.m3u8
-江西卫视,http://45.192.97.170:8880/play/118.m3u8
-辽宁卫视,http://45.192.97.170:8880/play/119.m3u8
-安徽卫视,http://45.192.97.170:8880/play/120.m3u8
-河北卫视,http://45.192.97.170:8880/play/121.m3u8
-山东卫视,http://45.192.97.170:8880/play/122.m3u8
-天津卫视,http://45.192.97.170:8880/play/123.m3u8
-吉林卫视,http://45.192.97.170:8880/play/124.m3u8
-陕西卫视,http://45.192.97.170:8880/play/125.m3u8
-宁夏卫视,http://45.192.97.170:8880/play/126.m3u8
-内蒙古卫视,http://45.192.97.170:8880/play/127.m3u8
-云南卫视,http://45.192.97.170:8880/play/128.m3u8
-山西卫视,http://45.192.97.170:8880/play/129.m3u8
-青海卫视,http://45.192.97.170:8880/play/130.m3u8
-西藏卫视,http://45.192.97.170:8880/play/131.m3u8
-新疆卫视,http://45.192.97.170:8880/play/132.m3u8
-CETV 1,http://45.192.97.170:8880/play/133.m3u8
-国学频道,http://45.192.97.170:8880/play/134.m3u8
-
-联通咪咕,#genre#
-CCTV1,http://45.192.97.170:8880/play/1.m3u8
-CCTV2,http://45.192.97.170:8880/play/2.m3u8
-CCTV3,http://45.192.97.170:8880/play/3.m3u8
-CCTV4,http://45.192.97.170:8880/play/4.m3u8
-CCTV4欧洲,http://45.192.97.170:8880/play/5.m3u8
-CCTV4美洲,http://45.192.97.170:8880/play/6.m3u8
-CCTV5,http://45.192.97.170:8880/play/7.m3u8
-CCTV5+,http://45.192.97.170:8880/play/8.m3u8
-CCTV6,http://45.192.97.170:8880/play/9.m3u8
-CCTV7,http://45.192.97.170:8880/play/10.m3u8
-CCTV8,http://45.192.97.170:8880/play/11.m3u8
-CCTV9,http://45.192.97.170:8880/play/12.m3u8
-CCTV10,http://45.192.97.170:8880/play/13.m3u8
-CCTV11,http://45.192.97.170:8880/play/14.m3u8
-CCTV12,http://45.192.97.170:8880/play/15.m3u8
-CCTV13,http://45.192.97.170:8880/play/16.m3u8
-CCTV14,http://45.192.97.170:8880/play/17.m3u8
-CCTV15,http://45.192.97.170:8880/play/18.m3u8
-CCTV17,http://45.192.97.170:8880/play/19.m3u8
-赛事最经典,http://45.192.97.170:8880/play/20.m3u8
-体坛名栏汇,http://45.192.97.170:8880/play/21.m3u8
-广东体育,http://45.192.97.170:8880/play/22.m3u8
-CCTV-5+体育赛事,http://45.192.97.170:8880/play/23.m3u8
-CCTV-16奥林匹克,http://45.192.97.170:8880/play/24.m3u8
-四海钓鱼,http://45.192.97.170:8880/play/25.m3u8
-大湾区卫视,http://45.192.97.170:8880/play/26.m3u8
-陕西体育,http://45.192.97.170:8880/play/27.m3u8
-海南文旅,http://45.192.97.170:8880/play/28.m3u8
-东方卫视,http://45.192.97.170:8880/play/29.m3u8
-江苏卫视,http://45.192.97.170:8880/play/30.m3u8
-北京卫视,http://45.192.97.170:8880/play/32.m3u8
-辽宁卫视,http://45.192.97.170:8880/play/33.m3u8
-河北卫视,http://45.192.97.170:8880/play/34.m3u8
-江西卫视,http://45.192.97.170:8880/play/35.m3u8
-陕西卫视,http://45.192.97.170:8880/play/36.m3u8
-湖北卫视,http://45.192.97.170:8880/play/37.m3u8
-农林卫视,http://45.192.97.170:8880/play/38.m3u8
-兵团卫视,http://45.192.97.170:8880/play/39.m3u8
-上海新闻综合,http://45.192.97.170:8880/play/40.m3u8
-上视东方影视,http://45.192.97.170:8880/play/41.m3u8
-江苏公共新闻频道,http://45.192.97.170:8880/play/42.m3u8
-盐城新闻综合,http://45.192.97.170:8880/play/43.m3u8
-江阴新闻综合,http://45.192.97.170:8880/play/44.m3u8
-南通新闻综合,http://45.192.97.170:8880/play/45.m3u8
-宜兴新闻综合,http://45.192.97.170:8880/play/46.m3u8
-溧水新闻综合,http://45.192.97.170:8880/play/47.m3u8
-陕西银龄频道,http://45.192.97.170:8880/play/48.m3u8
-陕西都市青春频道,http://45.192.97.170:8880/play/49.m3u8
-陕西秦腔频道,http://45.192.97.170:8880/play/50.m3u8
-陕西新闻资讯频道,http://45.192.97.170:8880/play/51.m3u8
-财富天下,http://45.192.97.170:8880/play/52.m3u8
-辽宁公共频道,http://45.192.97.170:8880/play/53.m3u8
-辽宁生活频道,http://45.192.97.170:8880/play/54.m3u8
-辽宁影视剧频道,http://45.192.97.170:8880/play/55.m3u8
-宁夏文旅频道,http://45.192.97.170:8880/play/56.m3u8
-宁夏经济频道,http://45.192.97.170:8880/play/57.m3u8
-经典香港电影,http://45.192.97.170:8880/play/58.m3u8
-抗战经典影片,http://45.192.97.170:8880/play/59.m3u8
-新片放映厅,http://45.192.97.170:8880/play/60.m3u8
-CHC影迷电影,http://45.192.97.170:8880/play/61.m3u8
-CHC动作电影,http://45.192.97.170:8880/play/62.m3u8
-CHC家庭影院,http://45.192.97.170:8880/play/63.m3u8
-和美乡途轮播台,http://45.192.97.170:8880/play/64.m3u8
-最强综艺趴,http://45.192.97.170:8880/play/65.m3u8
+📺咪咕视频,#genre#
+CCTV1综合,http://42.94.209.140:7788/608807420
+CCTV2财经,http://42.94.209.140:7788/631780532
+CCTV3综艺,http://42.94.209.140:7788/624878271
+CCTV4中文国际,http://42.94.209.140:7788/631780421
+CCTV5体育,http://42.94.209.140:7788/641886683
+CCTV5+体育赛事,http://42.94.209.140:7788/641886773
+CCTV6电影,http://42.94.209.140:7788/624878396
+CCTV7国防军事,http://42.94.209.140:7788/673168121
+CCTV8电视剧,http://42.94.209.140:7788/624878356
+CCTV9纪录,http://42.94.209.140:7788/673168140
+CCTV10科教,http://42.94.209.140:7788/624878405
+CCTV11戏曲,http://42.94.209.140:7788/667987558
+CCTV12社会与法,http://42.94.209.140:7788/673168185
+CCTV13新闻,http://42.94.209.140:7788/608807423
+CCTV14少儿,http://42.94.209.140:7788/624878440
+CCTV15音乐,http://42.94.209.140:7788/673168223
+CCTV17农业农村,http://42.94.209.140:7788/673168256
+CCTV4欧洲,http://42.94.209.140:7788/608807419
+CCTV4美洲,http://42.94.209.140:7788/608807416
+CGTN外语纪录,http://42.94.209.140:7788/609006487
+CGTN阿拉伯语,http://42.94.209.140:7788/609154345
+CGTN西班牙语,http://42.94.209.140:7788/609006450
+CGTN法语,http://42.94.209.140:7788/609006476
+CGTN俄语,http://42.94.209.140:7788/609006446
+老故事,http://42.94.209.140:7788/884121956
+发现之旅,http://42.94.209.140:7788/624878970
+中学生,http://42.94.209.140:7788/708869532
+CGTN,http://42.94.209.140:7788/609017205
+赛事最经典,http://42.94.209.140:7788/646596895
+体坛名栏汇,http://42.94.209.140:7788/629943305
+四海钓鱼,http://42.94.209.140:7788/637444975
+陕西体育休闲频道,http://42.94.209.140:7788/956909356
+24小时城市联赛轮播台,http://42.94.209.140:7788/915512915
+武术世界,http://42.94.209.140:7788/958475359
+快乐垂钓,http://42.94.209.140:7788/961930263
+东方卫视,http://42.94.209.140:7788/651632648
+江苏卫视,http://42.94.209.140:7788/623899368
+广东卫视,http://42.94.209.140:7788/608831231
+北京卫视,http://42.94.209.140:7788/630287636
+辽宁卫视,http://42.94.209.140:7788/630291707
+河北卫视,http://42.94.209.140:7788/962042070
+江西卫视,http://42.94.209.140:7788/783847495
+河南卫视,http://42.94.209.140:7788/790187291
+陕西卫视,http://42.94.209.140:7788/738910838
+大湾区卫视,http://42.94.209.140:7788/608917627
+湖北卫视,http://42.94.209.140:7788/947472496
+吉林卫视,http://42.94.209.140:7788/947472500
+青海卫视,http://42.94.209.140:7788/947472506
+东南卫视,http://42.94.209.140:7788/849116810
+海南卫视,http://42.94.209.140:7788/947472502
+海峡卫视,http://42.94.209.140:7788/849119120
+中国农林卫视,http://42.94.209.140:7788/956904896
+兵团卫视,http://42.94.209.140:7788/956923145
+宁夏卫视,http://42.94.209.140:7788/738910535
+重庆卫视,http://42.94.209.140:7788/738910914
+三沙卫视,http://42.94.209.140:7788/961023778
+上海新闻综合,http://42.94.209.140:7788/651632657
+上视东方影视,http://42.94.209.140:7788/617290047
+上海第一财经,http://42.94.209.140:7788/608780988
+南京新闻综合频道,http://42.94.209.140:7788/838109047
+南京教科频道,http://42.94.209.140:7788/838153729
+南京十八频道,http://42.94.209.140:7788/838151753
+体育休闲频道,http://42.94.209.140:7788/626064707
+江苏城市频道,http://42.94.209.140:7788/626064714
+江苏国际,http://42.94.209.140:7788/626064674
+江苏教育,http://42.94.209.140:7788/628008321
+江苏影视频道,http://42.94.209.140:7788/626064697
+江苏综艺频道,http://42.94.209.140:7788/626065193
+公共新闻频道,http://42.94.209.140:7788/626064693
+盐城新闻综合,http://42.94.209.140:7788/639731825
+淮安新闻综合,http://42.94.209.140:7788/639731826
+泰州新闻综合,http://42.94.209.140:7788/639731818
+连云港新闻综合,http://42.94.209.140:7788/639731715
+宿迁新闻综合,http://42.94.209.140:7788/639731832
+徐州新闻综合,http://42.94.209.140:7788/639731747
+优漫卡通频道,http://42.94.209.140:7788/626064703
+江阴新闻综合,http://42.94.209.140:7788/955227979
+南通新闻综合,http://42.94.209.140:7788/955227985
+宜兴新闻综合,http://42.94.209.140:7788/955227996
+溧水新闻综合,http://42.94.209.140:7788/639737327
+陕西银龄频道,http://42.94.209.140:7788/956909362
+陕西都市青春频道,http://42.94.209.140:7788/956909358
+陕西秦腔频道,http://42.94.209.140:7788/956909303
+陕西新闻资讯频道,http://42.94.209.140:7788/956909289
+财富天下,http://42.94.209.140:7788/956923159
+镇江新闻综合,http://42.94.209.140:7788/639731783
+海南广播电视总台新闻频道,http://42.94.209.140:7788/962067517
+海南广播电视总台自贸频道,http://42.94.209.140:7788/962045226
+海南广播电视总台社会与法频道,http://42.94.209.140:7788/962045223
+海南广播电视总台文旅频道,http://42.94.209.140:7788/962067526
+海南广播电视总台少儿频道,http://42.94.209.140:7788/962067523
+经典香港电影,http://42.94.209.140:7788/625703337
+抗战经典影片,http://42.94.209.140:7788/617432318
+新片放映厅,http://42.94.209.140:7788/619495952
+CHC影迷电影,http://42.94.209.140:7788/952383261
+CHC动作电影,http://42.94.209.140:7788/644368714
+CHC家庭影院,http://42.94.209.140:7788/644368373
+和美乡途轮播台,http://42.94.209.140:7788/713591450
+南方影视,http://42.94.209.140:7788/614961829
+中国航天“逆袭”之路,http://42.94.209.140:7788/713600957
+中国天气,http://42.94.209.140:7788/959986621
+CETV1,http://42.94.209.140:7788/923287154
+CETV2,http://42.94.209.140:7788/923287211
+CETV4,http://42.94.209.140:7788/923287339
+山东教育,http://42.94.209.140:7788/609154353
+熊猫频道01高清,http://42.94.209.140:7788/609158151
+熊猫频道1,http://42.94.209.140:7788/608933610
+熊猫频道2,http://42.94.209.140:7788/608933640
+熊猫频道3,http://42.94.209.140:7788/608934619
+熊猫频道4,http://42.94.209.140:7788/608934721
+熊猫频道5,http://42.94.209.140:7788/608935104
+熊猫频道6,http://42.94.209.140:7788/608935797
+熊猫频道7,http://42.94.209.140:7788/609169286
+熊猫频道8,http://42.94.209.140:7788/609169287
+熊猫频道9,http://42.94.209.140:7788/609169226
+熊猫频道10,http://42.94.209.140:7788/609169285
+最强综艺趴,http://42.94.209.140:7788/629942228
+嘉佳卡通,http://42.94.209.140:7788/614952364
+经典动画大集合,http://42.94.209.140:7788/629942219
+新动漫,http://42.94.209.140:7788/961930269
+新动力量创一流,http://42.94.209.140:7788/713589837
+中华特产,http://42.94.209.140:7788/959986618
+环球旅游,http://42.94.209.140:7788/958475356
+梨园频道,http://42.94.209.140:7788/961930369
 
 ysift55 LOS ANGELES,#genre#
-ABC 7 KABC,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/213872.ts
-CBS 2 KCBS,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/213933.ts
-CBS 9 KCAL,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/213994.ts
-CBSN LOS ANGELES,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1032473.ts
-NBC 4 KNBChttp://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/214133.ts
-FOX 11 KTTV,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/214418.ts
-KTLA 5,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1321712.ts
-KTLA HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/30435.ts
-SPECTRUM NEWS 1 SO CAL HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284290.ts
+ABC 7 KABC,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/213872.ts
+CBS 2 KCBS,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/213933.ts
+CBS 9 KCAL,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/213994.ts
+CBSN LOS ANGELES,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032473.ts
+NBC 4 KNBC,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/214133.ts
+FOX 11 KTTV,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/214418.ts
+KTLA 5,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1321712.ts
+KTLA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/30435.ts
+SPECTRUM NEWS 1 SO CAL HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284290.ts
 
 ysift55 NEWS,#genre#
-7 NEWS BOSTON (WHDH) HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/910812.ts
-ABC 13 HOUSTON HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71638.ts
-ABC NEWS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/248840.ts
-ACCU WEATHER UHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71503.ts
-AL JAZEERA HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/243953.ts
-BBC WORLD NEWS UHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71484.ts
-BBC NEWS FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1382478.ts
-BEK SPORTS NEWS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1032478.ts
-BLAZE TV HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1088233.ts
-BLOOMBERG+ UHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/271345.ts
-BLOOMBERG TV+ FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/792246.ts
-BLOOMBERG HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71498.ts
-C-SPAN HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71506.ts
-C-SPAN 2 HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71507.ts
-C-SPAN 3 HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1298269.ts
-CBSN BAY AREA HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1032468.ts
-CBSN BOSTON HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1032469.ts
-CBSN CHICAGO HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1032470.ts
-CBSN DALLAS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1032471.ts
-CBSN DENVER HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1032472.ts
-CBSN MINNESOTA HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1032474.ts
-CBSN NEW YORK HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1032475.ts
-CBSN PHILADELPHIA HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1032476.ts
-CBSN PITTSBURGH HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1032477.ts
-CBS NEWS BOSTON HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/364778.ts
-CBS NEWS DETROIT FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/364781.ts
-CBS 11 HOUSTON HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71672.ts
-CHEDDAR BUSINESS FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71499.ts
-CHICAGO NEWS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1063018.ts
-CNBC HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71485.ts
-CNBC WORLD HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71492.ts
-CNN UHD+,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/76564.ts
-CNN UHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71493.ts
-CNN HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/72329.ts
-CNN INTERNATIONAL HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71486.ts
-DEFIANCE HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/277136.ts
-ESTRELLA NEWS FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/792250.ts
-FOX 26 HOUSTON HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71620.ts
-FOX BUSINESS NETWORK HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71494.ts
-FOX NEWS LIVE NOW HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/957038.ts
-FOX NEWS CHANNEL HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71487.ts
-FOX NEWS CHANNEL [BK] HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1084575.ts
-FOX WEATHER HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/521134.ts
-FREE SPEECH HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/657920.ts
-HLN HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71367.ts
-I24 NEWS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/906943.ts
-INFOWARS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1086616.ts
-KTLA 5 LOS ANGELES HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1321712.ts
-MS NOW HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71491.ts
-MS NOW HD [BK],http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1383250.ts
-NBC NEWS NOW UHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/232800.ts
-NBC 2 HOUSTON TX HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71585.ts
-NBC CHICAGO NEWS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1063020.ts
-NBC DATELINE HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1281001.ts
-NBC LOS ANGELES NEWS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1063022.ts
-NBC LOS ANGLES NEWS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1063014.ts
-NBC PHILADELPHIA NEWS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1063024.ts
-NBC PHILEDELPHIA NEWS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1063015.ts
-NBC WASHINGTON DC NEWS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1063025.ts
-NBC LX HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/275009.ts
-NE CABLE NEWS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71501.ts
-NEWS 12 LONG ISLAND UHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/181244.ts
-NEWS 12 HUDSON VALLEY FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1301743.ts
-NEWS 12 BROOKLYN HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/267018.ts
-NEWS 12 CONNECTICUT HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/276944.ts
-NEWS 12 THE BRONX HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/332937.ts
-NEWS 12 WESTCHESTER HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/181243.ts
-NEWS 9 SAN DIEGO (KUSI) HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1345058.ts
-NEWS 25 BOSTON HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/214461.ts
-NEWS 69 PHILADELPHIA (WFMZ) SD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/767859.ts
-NEW JERSEY NEWS 12 HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1011739.ts
-NEWSMAX TV HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/169717.ts
-NEWSNATION HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/332166.ts
-ONE AMERICA NEWS NETWORK HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71483.ts
-PIX11 (WPIX) NEW YORK HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/984840.ts
-REAL AMERICA'S VOICE FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1282170.ts
-RT NEWS AMERICA HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/773812.ts
-SCRIPPS NEWS FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/792253.ts
-SPECTRUM NEWS 13 HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/974332.ts
-SPECTRUM NEWS NY1 HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1200218.ts
-THE FIRST TV FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1403615.ts
-THE WEATHER CHANNEL HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71504.ts
-THE SPOT 66 (WXPX) TAMPA HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1379606.ts
-TYT NETWORK HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1032479.ts
-UNIVISION 45 HOUSTON TX HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/271349.ts
-VEGAS34 (KMCC) LAS VEGAS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1408604.ts
-WEATHER NATION HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/71489.ts
-WGN 9 CHICAGO HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/330207.ts
-WSVN7 MIAMI HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1172727.ts
-WPIX 11 New York HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/984812.ts
+7 NEWS BOSTON (WHDH) HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/910812.ts
+ABC 13 HOUSTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71638.ts
+ABC NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/248840.ts
+ACCU WEATHER UHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71503.ts
+AL JAZEERA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/243953.ts
+BBC WORLD NEWS UHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71484.ts
+BBC NEWS FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1382478.ts
+BEK SPORTS NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032478.ts
+BLAZE TV HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1088233.ts
+BLOOMBERG+ UHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/271345.ts
+BLOOMBERG TV+ FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/792246.ts
+BLOOMBERG HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71498.ts
+C-SPAN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71506.ts
+C-SPAN 2 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71507.ts
+C-SPAN 3 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1298269.ts
+CBSN BAY AREA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032468.ts
+CBSN BOSTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032469.ts
+CBSN CHICAGO HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032470.ts
+CBSN DALLAS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032471.ts
+CBSN DENVER HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032472.ts
+CBSN MINNESOTA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032474.ts
+CBSN NEW YORK HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032475.ts
+CBSN PHILADELPHIA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032476.ts
+CBSN PITTSBURGH HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032477.ts
+CBS NEWS BOSTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/364778.ts
+CBS NEWS DETROIT FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/364781.ts
+CBS 11 HOUSTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71672.ts
+CHEDDAR BUSINESS FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71499.ts
+CHICAGO NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1063018.ts
+CNBC HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71485.ts
+CNBC WORLD HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71492.ts
+CNN UHD+,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/76564.ts
+CNN UHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71493.ts
+CNN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/72329.ts
+CNN INTERNATIONAL HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71486.ts
+DEFIANCE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/277136.ts
+ESTRELLA NEWS FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/792250.ts
+FOX 26 HOUSTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71620.ts
+FOX BUSINESS NETWORK HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71494.ts
+FOX NEWS LIVE NOW HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/957038.ts
+FOX NEWS CHANNEL HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71487.ts
+FOX NEWS CHANNEL [BK] HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1084575.ts
+FOX WEATHER HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/521134.ts
+FREE SPEECH HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/657920.ts
+HLN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71367.ts
+I24 NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/906943.ts
+INFOWARS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1086616.ts
+KTLA 5 LOS ANGELES HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1321712.ts
+MS NOW HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71491.ts
+MS NOW HD [BK],http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1383250.ts
+NBC NEWS NOW UHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/232800.ts
+NBC 2 HOUSTON TX HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71585.ts
+NBC CHICAGO NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1063020.ts
+NBC DATELINE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1281001.ts
+NBC LOS ANGELES NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1063022.ts
+NBC LOS ANGLES NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1063014.ts
+NBC PHILADELPHIA NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1063024.ts
+NBC PHILEDELPHIA NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1063015.ts
+NBC WASHINGTON DC NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1063025.ts
+NBC LX HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/275009.ts
+NE CABLE NEWS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71501.ts
+NEWS 12 LONG ISLAND UHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/181244.ts
+NEWS 12 HUDSON VALLEY FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1301743.ts
+NEWS 12 BROOKLYN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/267018.ts
+NEWS 12 CONNECTICUT HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/276944.ts
+NEWS 12 THE BRONX HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/332937.ts
+NEWS 12 WESTCHESTER HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/181243.ts
+NEWS 9 SAN DIEGO (KUSI) HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1345058.ts
+NEWS 25 BOSTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/214461.ts
+NEWS 69 PHILADELPHIA (WFMZ) SD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/767859.ts
+NEW JERSEY NEWS 12 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1011739.ts
+NEWSMAX TV HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/169717.ts
+NEWSNATION HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/332166.ts
+ONE AMERICA NEWS NETWORK HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71483.ts
+PIX11 (WPIX) NEW YORK HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/984840.ts
+REAL AMERICA'S VOICE FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1282170.ts
+RT NEWS AMERICA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/773812.ts
+SCRIPPS NEWS FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/792253.ts
+SPECTRUM NEWS 13 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/974332.ts
+SPECTRUM NEWS NY1 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1200218.ts
+THE FIRST TV FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1403615.ts
+THE WEATHER CHANNEL HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71504.ts
+THE SPOT 66 (WXPX) TAMPA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1379606.ts
+TYT NETWORK HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1032479.ts
+UNIVISION 45 HOUSTON TX HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/271349.ts
+VEGAS34 (KMCC) LAS VEGAS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1408604.ts
+WEATHER NATION HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/71489.ts
+WGN 9 CHICAGO HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/330207.ts
+WSVN7 MIAMI HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1172727.ts
+WPIX 11 New York HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/984812.ts
 
 ysift55 SPECTRUM NETWORK,#genre#
-SPECTRUM HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284260.ts
-SPECTRUM XCAST HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284319.ts
-SPECTRUM XCAST 2 HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284318.ts
-SPECTRUM XCAST 3 HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284320.ts
-SPECTRUM DEPORTES LA HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284261.ts
-SPECTRUM LOCAL 77 HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284262.ts
-SPECTRUM NEWS - (NEW YORK) ROCHESTER HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284266.ts
-SPECTRUM NEWS - ALBANY CAPITAL REGION HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284267.ts
-SPECTRUM NEWS - AUSTIN HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284268.ts
-SPECTRUM NEWS - HUDSON VALLEY HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284269.ts
-SPECTRUM NEWS - NY1 HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284270.ts
-SPECTRUM NEWS 1 ALBANY HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284291.ts
-SPECTRUM NEWS 1 BUFFALO HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284292.ts
-SPECTRUM NEWS 1 CAROLINAS MOUNTAIN HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284293.ts
-SPECTRUM NEWS 1 CHARLOTTE HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284272.ts
-SPECTRUM NEWS 1 CHARLOTTE HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284294.ts
-SPECTRUM NEWS 1 CINCINNATI HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284283.ts
-SPECTRUM NEWS 1 CLEVELAND/AKRON HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284284.ts
-SPECTRUM NEWS 1 COASTAL HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284273.ts
-SPECTRUM NEWS 1 COLUMBUS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284285.ts
-SPECTRUM NEWS 1 COVINGTON HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284277.ts
-SPECTRUM NEWS 1 DALLAS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284276.ts
-SPECTRUM NEWS 1 DALLAS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284295.ts
-SPECTRUM NEWS 1 DALLAS -FT WORTH HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284286.ts
-SPECTRUM NEWS 1 DAYTON HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284287.ts
-SPECTRUM NEWS 1 EL PASO HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284296.ts
-SPECTRUM NEWS 1 EL PASO TEXAS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284288.ts
-SPECTRUM NEWS 1 EVANSVILLE HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284278.ts
-SPECTRUM NEWS 1 HUDSON VALLEY HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284297.ts
-SPECTRUM NEWS 1 KANSAS CITY HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284289.ts
-SPECTRUM NEWS 1 KANSAS CITY HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284298.ts
-SPECTRUM NEWS 1 LEXINGTON HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284279.ts
-SPECTRUM NEWS 1 LOUISVILLE HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284280.ts
-SPECTRUM NEWS 1 MILWAUKEE HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284265.ts
-SPECTRUM NEWS 1 MOUNTAIN HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284274.ts
-SPECTRUM NEWS 1 OHIO HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284299.ts
-SPECTRUM NEWS 1 PITTSFIELD HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284281.ts
-SPECTRUM NEWS 1 PITTSFIELD HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284300.ts
-SPECTRUM NEWS 1 RALEIGH HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284275.ts
-SPECTRUM NEWS 1 RALEIGH HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284301.ts
-SPECTRUM NEWS 1 ROTX HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284302.ts
-SPECTRUM NEWS 1 SAN ANTONIO HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284271.ts
-SPECTRUM NEWS 1 SO CAL HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284290.ts
-SPECTRUM NEWS 1 SPRINGFIELD HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284282.ts
-SPECTRUM NEWS 1 SPRINGFIELD HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284303.ts
-SPECTRUM NEWS 1 WILMINGTON HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284304.ts
-SPECTRUM NEWS 1 WISCONSIN HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284305.ts
-SPECTRUM NEWS 9 BAY HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1370142.ts
-SPECTRUM NEWS AUSTIN HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284306.ts
-SPECTRUM NEWS MAINE HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284307.ts
-SPECTRUM NEWS MO ST LOUIS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284308.ts
-SPECTRUM NEWS SAN ANTONIO HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284309.ts
-SPECTRUM NEWS ST LOUIS HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284310.ts
-SPECTRUM NOTICIAS NY1 HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284311.ts
-SPECTRUM RADAR HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284312.ts
-SPECTRUM SPORTS 1 HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284313.ts
-SPECTRUM SPORTS 2 HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284314.ts
-SPECTRUM SPORTSNET LA HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284315.ts
-SPECTRUM SURF CHANNEL HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284316.ts
-SPECTRUM TRAFFIC ALBANY HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1284317.ts
+SPECTRUM HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284260.ts
+SPECTRUM XCAST HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284319.ts
+SPECTRUM XCAST 2 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284318.ts
+SPECTRUM XCAST 3 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284320.ts
+SPECTRUM DEPORTES LA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284261.ts
+SPECTRUM LOCAL 77 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284262.ts
+SPECTRUM NEWS - (NEW YORK) ROCHESTER HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284266.ts
+SPECTRUM NEWS - ALBANY CAPITAL REGION HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284267.ts
+SPECTRUM NEWS - AUSTIN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284268.ts
+SPECTRUM NEWS - HUDSON VALLEY HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284269.ts
+SPECTRUM NEWS - NY1 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284270.ts
+SPECTRUM NEWS 1 ALBANY HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284291.ts
+SPECTRUM NEWS 1 BUFFALO HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284292.ts
+SPECTRUM NEWS 1 CAROLINAS MOUNTAIN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284293.ts
+SPECTRUM NEWS 1 CHARLOTTE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284272.ts
+SPECTRUM NEWS 1 CHARLOTTE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284294.ts
+SPECTRUM NEWS 1 CINCINNATI HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284283.ts
+SPECTRUM NEWS 1 CLEVELAND/AKRON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284284.ts
+SPECTRUM NEWS 1 COASTAL HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284273.ts
+SPECTRUM NEWS 1 COLUMBUS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284285.ts
+SPECTRUM NEWS 1 COVINGTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284277.ts
+SPECTRUM NEWS 1 DALLAS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284276.ts
+SPECTRUM NEWS 1 DALLAS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284295.ts
+SPECTRUM NEWS 1 DALLAS -FT WORTH HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284286.ts
+SPECTRUM NEWS 1 DAYTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284287.ts
+SPECTRUM NEWS 1 EL PASO HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284296.ts
+SPECTRUM NEWS 1 EL PASO TEXAS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284288.ts
+SPECTRUM NEWS 1 EVANSVILLE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284278.ts
+SPECTRUM NEWS 1 HUDSON VALLEY HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284297.ts
+SPECTRUM NEWS 1 KANSAS CITY HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284289.ts
+SPECTRUM NEWS 1 KANSAS CITY HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284298.ts
+SPECTRUM NEWS 1 LEXINGTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284279.ts
+SPECTRUM NEWS 1 LOUISVILLE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284280.ts
+SPECTRUM NEWS 1 MILWAUKEE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284265.ts
+SPECTRUM NEWS 1 MOUNTAIN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284274.ts
+SPECTRUM NEWS 1 OHIO HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284299.ts
+SPECTRUM NEWS 1 PITTSFIELD HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284281.ts
+SPECTRUM NEWS 1 PITTSFIELD HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284300.ts
+SPECTRUM NEWS 1 RALEIGH HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284275.ts
+SPECTRUM NEWS 1 RALEIGH HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284301.ts
+SPECTRUM NEWS 1 ROTX HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284302.ts
+SPECTRUM NEWS 1 SAN ANTONIO HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284271.ts
+SPECTRUM NEWS 1 SO CAL HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284290.ts
+SPECTRUM NEWS 1 SPRINGFIELD HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284282.ts
+SPECTRUM NEWS 1 SPRINGFIELD HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284303.ts
+SPECTRUM NEWS 1 WILMINGTON HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284304.ts
+SPECTRUM NEWS 1 WISCONSIN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284305.ts
+SPECTRUM NEWS 9 BAY HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1370142.ts
+SPECTRUM NEWS AUSTIN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284306.ts
+SPECTRUM NEWS MAINE HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284307.ts
+SPECTRUM NEWS MO ST LOUIS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284308.ts
+SPECTRUM NEWS SAN ANTONIO HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284309.ts
+SPECTRUM NEWS ST LOUIS HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284310.ts
+SPECTRUM NOTICIAS NY1 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284311.ts
+SPECTRUM RADAR HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284312.ts
+SPECTRUM SPORTS 1 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284313.ts
+SPECTRUM SPORTS 2 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284314.ts
+SPECTRUM SPORTSNET LA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284315.ts
+SPECTRUM SURF CHANNEL HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284316.ts
+SPECTRUM TRAFFIC ALBANY HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1284317.ts
 
 ysift55 HK,#genre#
-无线新闻,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/616461.ts
-明珠台,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052638.ts
-TVB娱乐新闻台,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052635.ts
-千禧经典台,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052632.ts
-凤凰中文,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052575.ts
-凤凰资讯,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269823.ts
-凤凰美洲台,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269828.ts
-凤凰美洲台,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269822.ts
-天映频道,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052448.ts
-TVB1,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269834.ts
-TVBJ1,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269835.ts
-TVBe,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269832.ts
-TVB DRAMA,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269830.ts
-NOW HK PREMIER SPORTS 1 FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/748430.ts
-NOW HK PREMIER SPORTS 2 FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/748431.ts
-NOW HK PREMIER SPORTS 3 FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/748432.ts
-NOW HK PREMIER SPORTS 4 FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/748433.ts
-NOW HK PREMIER SPORTS 5 FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/748434.ts
-NOW HK PREMIER SPORTS 6 FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/748435.ts
-NOW HK PREMIER SPORTS 7 FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/748436.ts
-NOW HK PREMIER SPORTS 8 FHD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/748437.ts
+无线新闻,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/616461.ts
+明珠台,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052638.ts
+TVB娱乐新闻台,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052635.ts
+千禧经典台,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052632.ts
+凤凰中文,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052575.ts
+凤凰资讯,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269823.ts
+凤凰美洲台,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269828.ts
+凤凰美洲台,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269822.ts
+天映频道,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052448.ts
+TVB1,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269834.ts
+TVBJ1,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269835.ts
+TVBe,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269832.ts
+TVB DRAMA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269830.ts
+NOW HK PREMIER SPORTS 1 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748430.ts
+NOW HK PREMIER SPORTS 2 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748431.ts
+NOW HK PREMIER SPORTS 3 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748432.ts
+NOW HK PREMIER SPORTS 4 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748433.ts
+NOW HK PREMIER SPORTS 5 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748434.ts
+NOW HK PREMIER SPORTS 6 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748435.ts
+NOW HK PREMIER SPORTS 7 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748436.ts
+NOW HK PREMIER SPORTS 8 FHD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/748437.ts
 
 ysift55 CHINA,#genre#
-CCTV 4,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/957712.ts
-CCTV 4 美洲,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269826.ts
-CCTV-OPERA HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269824.ts
-CCTV-ENTERTAINMENT HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269825.ts
-CGTN-ESPANOL,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269816.ts
-CGTN HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269817.ts
-BABYTV MANDARIN HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269827.ts
-CHINA MOVIE CHANNEL,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269813.ts
-GUANGDONG SOUTHERN TV SD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269819.ts
-浙江国际,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269818.ts
-江苏國際,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269807.ts
-北京國際,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269814.ts
-東方國際,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269815.ts
-湖南國際,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269812.ts
-安徽國際,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269810.ts
-长城精品频道,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269821.ts
-华厦电视台,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269808.ts
-海峡卫视,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269806.ts
-深圳国际,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269811.ts
+CCTV 4,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/957712.ts
+CCTV 4 美洲,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269826.ts
+CCTV-OPERA HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269824.ts
+CCTV-ENTERTAINMENT HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269825.ts
+CGTN-ESPANOL,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269816.ts
+CGTN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269817.ts
+BABYTV MANDARIN HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269827.ts
+CHINA MOVIE CHANNEL,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269813.ts
+GUANGDONG SOUTHERN TV SD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269819.ts
+浙江国际,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269818.ts
+江苏國際,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269807.ts
+北京國際,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269814.ts
+東方國際,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269815.ts
+湖南國際,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269812.ts
+安徽國際,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269810.ts
+长城精品频道,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269821.ts
+华厦电视台,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269808.ts
+海峡卫视,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269806.ts
+深圳国际,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269811.ts
 
 ysift55 TAIWAN,#genre#.ts
-东森美洲,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269923.ts
-东森卫视,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269926.ts
-东森财经,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269924.ts
-东森戲劇,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269925.ts
-东森中國,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269927.ts
-台視新闻,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269922.ts
-台視綜合,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269928.ts
-华视美洲,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269929.ts
-美國城市衛視ICITI,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269919.ts
-SKYLINK TELEVISION HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269921.ts
-SKYLINK TELEVISION 2 HD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269920.ts
-TVBS ASIA,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269833.ts
-TVBS ASIA,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269918.ts
-TVBS ASIA,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052643.ts
-YOYO TV,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/269917.ts
+东森美洲,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269923.ts
+东森卫视,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269926.ts
+东森财经,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269924.ts
+东森戲劇,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269925.ts
+东森中國,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269927.ts
+台視新闻,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269922.ts
+台視綜合,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269928.ts
+华视美洲,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269929.ts
+美國城市衛視ICITI,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269919.ts
+SKYLINK TELEVISION HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269921.ts
+SKYLINK TELEVISION 2 HD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269920.ts
+TVBS ASIA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269833.ts
+TVBS ASIA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269918.ts
+TVBS ASIA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052643.ts
+YOYO TV,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/269917.ts
 
 ysift55 ASIA,#genre#
-Astro欢喜台,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052397.ts
-ALJAZEERA,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052534.ts
-BBC WORLD NEWS,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/543290.ts
-BLOOMBERG,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/543286.ts
-CHANNEL 5 SG,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/986278.ts
-CHANNEL 8 SG,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/986282.ts
-CHANNEL U SG,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/986286.ts
-CNA,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052455.ts
-CNBC ASIA,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052459.ts
-CNN,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052462.ts
-DW,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052485.ts
-FRANCE 24,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052494.ts
-KBS WORLD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/543274.ts
-NHK WORLD,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1003472.ts
-NHK WORLD PREMIUM,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1003470.ts
-SKY NEWS,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052585.ts
-BEIN SPOTYS 1,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052432.ts
-BEIN SPOTYS 2,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052426.ts
-BEIN SPOTYS 3,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052430.ts
-ASTRO PREMIER LEAGUE,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/955661.ts
-ASTRO PREMIER LEAGUE 2,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/955663.ts
-ASTRO PREMIER LEAGUE 4,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/955665.ts
-ASTRO ARENA,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052376.ts
-ASTRO ARENA 2,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1052374.ts
-ASTRO CRICKET,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1274760.ts
-A-SPORTS,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1292018.ts
-FOX SPORTS 501,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1274758.ts
-NBA TV,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1380370.ts
-ONE SPORTS+,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/543261.ts
-ONE SPORTS,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/543262.ts
-PTV SPORTS,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1274771.ts
-SKY SPORTS CRICKET,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1274763.ts
-SUPERSPORT CRICKET,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/1274762.ts
-TEN SPORTS,http://ysift55.xyz:80/live/WJ74AC4SRKQQYR7/pahruAQRs8/129201.ts
+Astro欢喜台,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052397.ts
+ALJAZEERA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052534.ts
+BBC WORLD NEWS,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/543290.ts
+BLOOMBERG,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/543286.ts
+CHANNEL 5 SG,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/986278.ts
+CHANNEL 8 SG,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/986282.ts
+CHANNEL U SG,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/986286.ts
+CNA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052455.ts
+CNBC ASIA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052459.ts
+CNN,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052462.ts
+DW,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052485.ts
+FRANCE 24,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052494.ts
+KBS WORLD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/543274.ts
+NHK WORLD,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1003472.ts
+NHK WORLD PREMIUM,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1003470.ts
+SKY NEWS,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052585.ts
+BEIN SPOTYS 1,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052432.ts
+BEIN SPOTYS 2,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052426.ts
+BEIN SPOTYS 3,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052430.ts
+ASTRO PREMIER LEAGUE,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/955661.ts
+ASTRO PREMIER LEAGUE 2,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/955663.ts
+ASTRO PREMIER LEAGUE 4,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/955665.ts
+ASTRO ARENA,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052376.ts
+ASTRO ARENA 2,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1052374.ts
+ASTRO CRICKET,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1274760.ts
+A-SPORTS,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1292018.ts
+FOX SPORTS 501,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1274758.ts
+NBA TV,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1380370.ts
+ONE SPORTS+,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/543261.ts
+ONE SPORTS,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/543262.ts
+PTV SPORTS,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1274771.ts
+SKY SPORTS CRICKET,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1274763.ts
+SUPERSPORT CRICKET,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/1274762.ts
+TEN SPORTS,http://ysift55.xyz/live/9F54C43547F0/28EB3B5ABFD4/129201.ts
 
-senpay LOS ANGELES CHANNELS,#genre#
-ABC 7 LOS ANGELES CA (KABC),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=172930
-CBS 2 LOS ANGELES CA (KCBS),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=173138
-CBS 9 LOS ANGELES CA (KCAL),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=397115
-CBSN LOS ANGELES,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=976293
-FOX 11 LOS ANGELES CA (KTTV),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=173612
-KTLA LOS ANGELES HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=990397
-NBC 4 LOS ANGELES CA (KNBC),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45533
+ky.ogtv NEWS,#genre#
+KABC,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/671409.ts
+KABC,http://limited-names.com/live/brendan1/brendan1/517452.ts
+KCAL,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/671521.ts
+KCAL,http://limited-names.com/live/brendan1/brendan1/517581.ts
+CBSN LAX,http://limited-names.com/live/brendan1/brendan1/399827.ts
+KCBS,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/671531.ts
+KCBS,http://limited-names.com/live/brendan1/brendan1/517519.ts
+KTLA,http://limited-names.com/live/brendan1/brendan1/517786.ts
+KTLA,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/672168.ts
+KNBC,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/672349.ts
+KNBC,http://limited-names.com/live/brendan1/brendan1/517814.ts
+KTTV,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/672083.ts
+KTTV,http://limited-names.com/live/brendan1/brendan1/517267.ts
+SPECTRUM NEWS 1 LOS ANGELES,http://limited-names.com/live/brendan1/brendan1/2882221.ts
+ABC NEWS LIVE,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/671679.ts
+ABC NEWS LIVE,http://kytv.xyz:80/live/brendan1/brendan1/648323.ts
+ACCU WEATHER,http://limited-names.com/live/brendan1/brendan1/175785.ts
+ALJAZEERA,http://limited-names.com/live/brendan1/brendan1/499315.ts
+BBC NEWS,http://limited-names.com/live/brendan1/brendan1/1847083.ts
+CBS NEWS 24/7,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/855972.ts
+CBS NEWS 24/7,http://kytv.xyz:80/live/brendan1/brendan1/517979.ts
+CNN,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/671669.ts
+CNN,http://kytv.xyz:80/live/brendan1/brendan1/1846753.ts
+CNN INTL,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/431339.ts
+CNN INTL,http://kytv.xyz:80/live/brendan1/brendan1/181884.ts
+CNBC,http://kytv.xyz:80/live/brendan1/brendan1/943540.ts
+FOX BUSINESS,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/671667.ts
+FOX BUSINESS,http://kytv.xyz:80/live/brendan1/brendan1/2209769.ts
+FOX NEWS,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/671650.ts
+FOX NEWS,http://kytv.xyz:80/live/brendan1/brendan1/648545.ts
+FOX WEATHER,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/671665.ts
+FOX WEATHER,http://kytv.xyz:80/live/brendan1/brendan1/2567237.ts
+FRANCE 24,http://kytv.xyz:80/live/brendan1/brendan1/189950.ts
+MSNBC,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/671663.ts
+MSNBC,http://kytv.xyz:80/live/brendan1/brendan1/228579.ts
+NBC NEWS NOW,http://kytv.xyz:80/live/brendan1/brendan1/189950.ts
+RT NEWS,http://kytv.xyz:80/live/brendan1/brendan1/2310343.ts
+RTE NEWS,http://kytv.xyz:80/live/brendan1/brendan1/189995.ts
+SKY NEWS,http://kytv.xyz:80/live/brendan1/brendan1/1383051.ts
+THE WEATHER CHANNEL,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/671654.ts
+THE WEATHER CHANNEL,http://kytv.xyz:80/live/brendan1/brendan1/175945.ts
 
-senpay NEWS NETWORK,#genre#
-US| 69 NEWS (WFMZ) PHILADELPHIA,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=496646
-US| 7NEWS BOSTON (WHDH),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=860289
-US| ABC NEWS,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45438
-US| AL JAZEERA ENGLISH,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45614
-US| AMERICA TV,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=790500
-US| BBC WORLD NEWS,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91766
-US| BLOOMBERG HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91936
-US| BNC,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=864834
-US| CBS HARTFORD (WFSB),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=143000
-US| CBS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45604
-US| CBS NEWS,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45603
-US| CBS PHILADELPHIA,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45605
-US| CBSN LOS ANGELES,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=976293
-US| CHEDDAR BUSINESS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91784
-US| CHEDDAR NEWS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91783
-US| CNBC HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45593
-US| CNBC WORLD HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91782
-US| CNN FHD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=442785
-US| CNN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45592
-US| C-SPAN 1 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91952
-US| C-SPAN 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91953
-US| CW ATLANTA HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90948
-US| CW CHICAGO HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45589
-US| CW PHILADELPHIA HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90947
-US| CW PITTSBURGH,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90953
-US| CW SACRAMENTO HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90952
-US| CW SAN FRANCISCO HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90949
-US| CW SEATTLE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90950
-US| CW TAMPA BAY HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90951
-US| FOX 29,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45576
-US| FOX BUSINESS NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45575
-US| FOX HARTFORD (WTIC),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=143001
-US| FOX HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90959
-US| FOX KANSAS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45574
-US| FOX NEWS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45573
-US| KTLA LOS ANGELES HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=990397
-US| LIVENOW FROM FOX,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=730908
-US| MEGA TV,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=790501
-US| MSNBC HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45535
-US| NBC LOS ANGELES,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45533
-US| NBC PHILADELPHIA HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45531
-US| NBC SN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45530
-US| NECN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45529
-US| NESN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45528
-US| NESN PLUS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91903
-US| NEWS 12 BROOKLYN,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45527
-US| NEWS 12 CONNECTICUT,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=142999
-US| NEWS 12 LONG ISLAND,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1002506
-US| NEWS 12 NEW JERSEY,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=613082
-US| NEWS 12 THE BRONX,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1126508
-US| NEWS 12 WESTCHESTER,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1050760
-US| NEWS NATION HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=679098
-US| NEWS Y HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91908
-US| NEWSMAX HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150355
-US| NEWSY,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=869509
-US| ONE AMERICAN NEWS NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91942
-US| SPECTRUM NEWS 1 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150358
-US| SPECTRUM NEWS NY1,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=921724
-US| SPECTRUM NOTICIAS NY1,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=930696
+primestreams LOS ANGELES,#genre#
+ABC KABC,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109800.ts
+CBS KCAL,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109404.ts
+CBS KCBS,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109405.ts
+CW KTLA,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/98469.ts
+FOX KTTV,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109511.ts
+NBC KNBC,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109603.ts
 
-senpay ENTERTAINMENT,#genre#
-US| A&E HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45619
-US| ABC HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45439
-US| ACCUWEATHER HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91946
-US| ADULT SWIM HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150345
-US| ADULT SWIM WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1131979
-US| AMC HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45445
-US| AMC PLUS,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=534381
-US| AMERICA HEROES HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45613
-US| ANIMAL PLANET HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45447
-US| ANIMAL PLANET WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91762
-US| ANTENNA TV,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=398879
-US| ASPIRE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91763
-US| AWE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91955
-US| AXS TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91760
-US| BBC AMERICA HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45612
-US| BET GOSPEL,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91767
-US| BET HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45610
-US| BET HER HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91768
-US| BET JAMS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91769
-US| BET SOUL,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91770
-US| BOUNCE TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91771
-US| BOUNCE XL,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=730910
-US| BRAVO HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45446
-US| BRAVO WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91772
-US| BUZZR,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=105189
-US| CBN,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=204987
-US| CHARGE!,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=789119
-US| CLEO TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1128930
-US| CMT HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90937
-US| COMEDY CENTRAL EAST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1131978
-US| COMEDY CENTRAL HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45448
-US| COMEDY TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91944
-US| COMET HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91807
-US| COOKING CHANNEL HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45591
-US| COURT TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150347
-US| COZI,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45590
-US| CRIME & INVESTIGATION HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90938
-US| DAYSTAR HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91813
-US| DECADES,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=789120
-US| DESTINATION AMERICA HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90954
-US| DISCOVERY FAMILY HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45443
-US| DISCOVERY HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45442
-US| DISCOVERY LIFE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91820
-US| DISCOVERY SCIENCE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45441
-US| DISCOVERY TURBO,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1092802
-US| DISCOVERY WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91819
-US| DOG TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91950
-US| E! ENTERTAINMENT HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45584
-US| E! ENTERTAINMENT WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91834
-US| EWTN CATHOLIC,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=204984
-US| FETV,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=789121
-US| FOLK TV,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=789122
-US| FOOD NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45577
-US| FOOD NETWORK WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91850
-US| FOX SOUL,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=730907
-US| FREEFORM HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45557
-US| FREEFORM WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91849
-US| FUSE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91910
-US| FUSE MUSIC HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91941
-US| FX HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45451
-US| FX WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91852
-US| FXM HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45450
-US| FXX HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45449
-US| FXX WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91853
-US| FYI HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45555
-US| GAME TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45472
-US| GET TV,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150349
-US| GREAT AMERICAN COUNTRY HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91855
-US| GREAT AMERICAN FAMILY,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1038601
-US| GRIT,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91856
-US| GSN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45553
-US| HALLMARK DRAMA HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90961
-US| HALLMARK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45458
-US| HALLMARK M & M HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45457
-US| HD NET MOVIES HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91885
-US| HEROES & ICONS,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150351
-US| HGTV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45459
-US| HGTV WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91925
-US| HISTORY HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45444
-US| HLN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91857
-US| HOPE CHANNEL,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=204986
-US| HUNT CHANNEL,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150352
-US| ID HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45545
-US| ID WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91858
-US| IFC HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45544
-US| INDIEPLEX HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45543
-US| INFOWARS TV,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=297628
-US| INSP HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91914
-US| ION HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=872292
-US| ION PLUS,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=730909
-US| JUSTICE CENTRAL HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91943
-US| LAW AND CRIME HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91861
-US| LIFETIME HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45541
-US| LIFETIME MOVIE NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45456
-US| LIFETIME REAL WOMEN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150353
-US| LMN,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1110680
-US| LOCAL NOW HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91909
-US| LOGO HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91862
-US| LONGHORN NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45540
-US| MAGNOLIA NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45585
-US| MAV TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91898
-US| ME TV,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91863
-US| MGM HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91886
-US| MILITARY HISTORY,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91864
-US| MOTORTREND HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90962
-US| MTV 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90963
-US| MTV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45461
-US| MTV LIVE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45460
-US| MTV U,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91913
-US| MUSIC CHOICE  MAX,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=991598
-US| MUSIC CHOICE '70's,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=991608
-US| MUSIC CHOICE CLASSIC COUNTRY,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=991605
-US| MUSIC CHOICE HIP-HOP AND R&B,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=991602
-US| MUSIC CHOICE JAZZ,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=991599
-US| MUSIC CHOICE POP HITS,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=991601
-US| MUSIC CHOICE ROCK,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=991597
-US| MUSIC CHOICE ROCK HITS,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=991596
-US| MUSIC CHOICE ROMANCES,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=991595
-US| MUSIC CHOICE TROPICALES,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=991607
-US| NASA TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1114426
-US| NAT GEO HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45453
-US| NAT GEO WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91865
-US| NAT GEO WILD HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45452
-US| NBT HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1105820
-US| OUTDOOR CHANNEL HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90964
-US| OUTSIDE TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91866
-US| OVATION HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91867
-US| OWN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45518
-US| OXYGEN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45517
-US| OXYGEN WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91868
-US| PARAMOUNT HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45500
-US| PBS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45510
-US| PEOPLE TV,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91911
-US| PIXL HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91937
-US| POP HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45509
-US| PURSUIT CHANNEL HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91869
-US| QVC 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90967
-US| QVC HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90966
-US| RED BULL TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150356
-US| REELZ HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45508
-US| RETRO TV,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150357
-US| RETROPLEX HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45507
-US| REVOLT HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91915
-US| RFD TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91870
-US| RIDE TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91871
-US| RT DOCUMENTARY HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=233242
-US| RT NEWS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91935
-US| SHOWTIME BET HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=303331
-US| SMITHSONIAN CHANNEL HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91872
-US| SMITHSONIAN CHANNEL WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91926
-US| SO YUMMY!,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=774212
-US| SUNDANCE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45477
-US| SYFY HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45476
-US| SYFY WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91875
-US| TASTEMADE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150360
-US| TBN,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=204985
-US| TBS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45475
-US| TBS WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91924
-US| TCM HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90968
-US| TEEN NICK,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91877
-US| THE BLAZE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1053425
-US| THE WEATHER CHANNEL HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45455
-US| TLC HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45471
-US| TLC WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91912
-US| TNT,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45470
-US| TNT HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45469
-US| TNT WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91879
-US| TRAVEL CHANNEL HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45437
-US| TRAVEL CHANNEL WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91880
-US| TRUTV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45468
-US| TRUTV WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91878
-US| TV LAND HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45467
-US| TV ONE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90969
-US| TVG NETWORK,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91939
-US| TVG NETWORK 2,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91940
-US| UP TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91881
-US| USA NETWORK EAST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=188997
-US| USA NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45466
-US| USA NETWORK WEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91882
-US| VH1 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45436
-US| VICELAND HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45465
-US| WE TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45464
-US| WGN9,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=290879
-US| WORLD FISHING NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91906
+primestreams NEWS,#genre#
+ABC News Live,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/119030.ts
+AccuWeather,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/114265.ts
+Aljazeera,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/119442.ts
+BBC America,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1329.ts
+BBC World News,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109111.ts
+Bloomberg,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/30274.ts
+CCTV4,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/119452.ts
+CGTN Documentary,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/110127.ts
+CNBC,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1346.ts
+CNBC World,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/91153.ts
+CNN,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1347.ts
+CNN,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/36923.ts
+CNN INTERNATIONAL,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/109883.ts
+Fox Business,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/27167.ts
+Fox News,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/31684.ts
+Fox Weather,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/118687.ts
+France 24,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/119471.ts
+HLN,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/38633.ts
+MSNBC,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/30001.ts
+Newsmax,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/90392.ts
+Newsmax 2,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/90393.ts
+NewsNation,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/99458.ts
+RTE NEWS,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/98809.ts
+SKY NEWS,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/120391.ts
+The Weather Channel,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1454.ts
+FANDUEL RACING,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/97589.ts
+FANDUEL TV,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/35449.ts
+TYT Network,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/117499.ts
+Weather Nation,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/90389.ts
+Yahoo Finance,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/118679.ts
 
-senpay SPORTS NETWORK,#genre#
-US| ACC NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90960
-US| AFN SPORT,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1099330
-US| ALTITUDE SPORTS 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1060883
-US| ALTITUDE SPORTS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=460918
-US| AT&T SPORTSNET PITTSBURGH HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=272825
-US| AT&T SPORTSNET ROCKY MOUNTAIN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=272826
-US| AT&T SPORTSNET SOUTHWEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91892
-US| BEIN SPORTS 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=83953
-US| BEIN SPORTS 4 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=83954
-US| BEIN SPORTS 5 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=83955
-US| BEIN SPORTS 6 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=83956
-US| BEIN SPORTS 7 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=83957
-US| BEIN SPORTS 8 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=83958
-US| BEIN SPORTS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45611
-US| BEIN SPORTS XTRA N (ES) HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1127391
-US| BIG TEN NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45609
-US| CBS SPORTS NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45601
-US| COWBOY CHANNEL,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91951
-US| CSN BAY AREA HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91893
-US| CSN BOSTON HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90945
-US| CSN CALIFORNIA HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91894
-US| CSN PHILADELPHIA HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90939
-US| CSN PHILADELPHIA PLUS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90943
-US| CSN WASHINGTON HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90940
-US| CSN WASHINGTON PLUS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90941
-US| DAZN 1 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=437299
-US| DAZN 10 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=437308
-US| DAZN 11 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=437309
-US| DAZN 12 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=437310
-US| DAZN 13 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=437311
-US| DAZN 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=437300
-US| DAZN 3 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=437301
-US| DAZN 4 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=437302
-US| DAZN 5 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=437303
-US| DAZN 6 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=437304
-US| DAZN 7 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=437305
-US| DAZN 8 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=437306
-US| DAZN 9 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=437307
-US| ELEVEN SPORTS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45583
-US| ESPN 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45580
-US| ESPN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45579
-US| ESPN NEWS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45578
-US| ESPN U,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90958
-US| FIGHT NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91897
-US| FLORACING,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1076781
-US| FOX REGIONAL UHD/4K (EVENT ONLY),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1124347
-US| FOX SOCCER PLUS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45572
-US| FOX SPORTS 1 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45571
-US| FOX SPORTS 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45570
-US| FOX SPORTS ARIZONA HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45569
-US| FOX SPORTS CAROLINAS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91679
-US| FOX SPORTS DETROIT HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45568
-US| FOX SPORTS FLORIDA HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45567
-US| FOX SPORTS MIDWEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91688
-US| FOX SPORTS NORTH HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45566
-US| FOX SPORTS OHIO HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=84908
-US| FOX SPORTS OKLAHOMA HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91692
-US| FOX SPORTS PRIME TICKET HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45565
-US| FOX SPORTS SAN DIEGO HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45564
-US| FOX SPORTS SOUTH HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45563
-US| FOX SPORTS SOUTHEAST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45562
-US| FOX SPORTS SOUTHWEST HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45561
-US| FOX SPORTS SUN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45560
-US| FOX SPORTS TENNESSEE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91696
-US| FOX SPORTS UHD/4K (EVENT ONLY),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1124346
-US| FOX SPORTS WEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45559
-US| FOX SPORTS WISCONSIN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45558
-US| FOX SPORTSTIME OHIO HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91699
-US| FOX UHD/4K (EVENT ONLY),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1124348
-US| FUBO SPORTS 1 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=738902
-US| FUBO SPORTS 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=738901
-US| FUBO SPORTS 3 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=738900
-US| FUBO SPORTS 4 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=738899
-US| FUBO SPORTS 5 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=738898
-US| FUBO SPORTS NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91895
-US| GINX ESPORTS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91854
-US| GOL TV HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91896
-US| GOLF CHANNEL HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45554
-US| MARQUEE SPORTS NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=272828
-US| MLB NETWORK,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45539
-US| MLB STRIKE ZONE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91899
-US| MSG 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91901
-US| MSG 2 PLUS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91902
-US| MSG HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91900
-US| MSG PLUS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91922
-US| NBC GOLF,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45532
-US| NBC SPORTS BAY AREA,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=234675
-US| NBC SPORTS CALIFORNIA,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=234673
-US| NBC SPORTS CHICAGO,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=234674
-US| NBC SPORTS CHICAGO HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90942
-US| NBC SPORTS CHICAGO PLUS,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90944
-US| NBC SPORTS CHICAGO UHD/4K (EVENT ONLY),http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1124349
-US| NBC SPORTS NETWORK,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=234677
-US| NBC SPORTS NORTHWEST,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=234676
-US| NBC SPORTS PHILADELFIA,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=234671
-US| NBC SPORTS UHD/4K,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1124350
-US| NBC SPORTS WASHINGTON,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=234672
-US| NESN UHD/4K,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1124351
-US| PAC 12 ARIZONA HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45516
-US| PAC 12 BAY AREA HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45515
-US| PAC 12 LOS ANGELES HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45514
-US| PAC 12 MOUNTAIN HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45513
-US| PAC 12 NATIONAL HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=84041
-US| PAC 12 OREGON HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45512
-US| PAC 12 WASHINGTON HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45511
-US| POKERGO,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=806919
-US| REDBULL TV,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=1088241
-US| ROOT SPORTS,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=272827
-US| SEC NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45506
-US| SPORTSGRID,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=988340
-US| SPORTSMAN CHANNEL HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91873
-US| SPORTSNET LA DODGERS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91905
-US| SPORTSNET LA LAKERS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91904
-US| SPORTSNET NEW YORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90946
-US| STADIUM 1 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91918
-US| STADIUM 2 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91919
-US| STADIUM 3 HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91920
-US| STADIUM HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91917
-US| SUPERSPORT TENNIS,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=811666
-US| TENNIS CHANNEL,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=811667
-US| TENNIS CHANNEL PLUS 1,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=959419
-US| TENNIS CHANNEL PLUS 10,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=959428
-US| TENNIS CHANNEL PLUS 11,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=959429
-US| TENNIS CHANNEL PLUS 12,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=959430
-US| TENNIS CHANNEL PLUS 2,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=959420
-US| TENNIS CHANNEL PLUS 3,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=959421
-US| TENNIS CHANNEL PLUS 4,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=959422
-US| TENNIS CHANNEL PLUS 5,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=959423
-US| TENNIS CHANNEL PLUS 6,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=959424
-US| TENNIS CHANNEL PLUS 7,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=959425
-US| TENNIS CHANNEL PLUS 8,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=959426
-US| TENNIS CHANNEL PLUS 9,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=959427
-US| TENNIS HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45474
-US| UFC HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91949
-US| VSIN,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=91923
-US| WILLOW CRICKET,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45463
-US| WORLD POKER TOUR HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=806920
-US| WWE HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=45462
-US| YES NETWORK HD,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=90970
-US| Z CLASSIC,http://line.senpay23.com:80/play/live.php?mac=00:1A:79:CA:A3:92&extension=ts&stream=150359
+primex LOS ANGELES,#genre#
+KABC,https://primexclusive.day:443/1444576/5450985/24250
+KCAL,https://primexclusive.day:443/1444576/5450985/20305
+KCBS,https://primexclusive.day:443/1444576/5450985/20306
+KNBC,https://primexclusive.day:443/1444576/5450985/24268
+KTTV,https://primexclusive.day:443/1444576/5450985/20344
+KTLA,https://primexclusive.day:443/1444576/5450985/20423
+Spectrum News 1 SO CAL,https://primexclusive.day:443/1444576/5450985/112730
 
-proxpanel LOS ANGELES,#genre#
-CBS News Los Angeles,http://proxpanel.cc/Aidan12/Aidan1212/1051
-ABC KABC Los Angeles,http://proxpanel.cc/Aidan12/Aidan1212/1239
-CBS KCAL Los AngelesL,http://proxpanel.cc/Aidan12/Aidan1212/1514
-CBS KCBS Los Angeles,http://proxpanel.cc/Aidan12/Aidan1212/1404
-CW KTLA Los Angeles,http://proxpanel.cc/Aidan12/Aidan1212/2031
-FOX KTTV Los Angeles,http://proxpanel.cc/Aidan12/Aidan1212/1682
-NBC KNBC Los Angeles,http://proxpanel.cc/Aidan12/Aidan1212/1836
-CA Fairchild 2,http://proxpanel.cc/Aidan12/Aidan1212/3888
-CA Fairchild Television,http://proxpanel.cc/Aidan12/Aidan1212/3887
-CA Fairchild Television Mandarin,http://proxpanel.cc/Aidan12/Aidan1212/3886
-CA Fairchild Television West,http://proxpanel.cc/Aidan12/Aidan1212/3885
-
-proxpanel NEWS,#genre#
-USA 7 News Boston (WHDH),http://proxpanel.cc/Aidan12/Aidan1212/1019
-USA ABC News Live,http://proxpanel.cc/Aidan12/Aidan1212/1067
-USA AccuWeather,http://proxpanel.cc/Aidan12/Aidan1212/515
-USA Alaska's News Source KTUU,http://proxpanel.cc/Aidan12/Aidan1212/997
-USA BBC America,http://proxpanel.cc/Aidan12/Aidan1212/1066
-USA BBC World News,http://proxpanel.cc/Aidan12/Aidan1212/1065
-USA Bloomberg,http://proxpanel.cc/Aidan12/Aidan1212/1062
-USA Bloomberg Originals,http://proxpanel.cc/Aidan12/Aidan1212/637147
-USA CBS News 24/7,http://proxpanel.cc/Aidan12/Aidan1212/1057
-USA CBS News Bay Area,http://proxpanel.cc/Aidan12/Aidan1212/1056
-USA CBS News Boston,http://proxpanel.cc/Aidan12/Aidan1212/1055
-USA CBS News Chicago,http://proxpanel.cc/Aidan12/Aidan1212/1054
-USA CBS News Colorado,http://proxpanel.cc/Aidan12/Aidan1212/1053
-USA CBS News Detroit,http://proxpanel.cc/Aidan12/Aidan1212/1052
-USA CBS News Los Angeles,http://proxpanel.cc/Aidan12/Aidan1212/1051
-USA CBS News New York,http://proxpanel.cc/Aidan12/Aidan1212/1049
-USA CBS News Philly,http://proxpanel.cc/Aidan12/Aidan1212/1048
-USA CBS News Pittsburgh,http://proxpanel.cc/Aidan12/Aidan1212/1047
-USA CBSN Minnesota,http://proxpanel.cc/Aidan12/Aidan1212/1050
-USA CGTN (English),http://proxpanel.cc/Aidan12/Aidan1212/1046
-USA Cheddar Business,http://proxpanel.cc/Aidan12/Aidan1212/1045
-USA Cheddar News,http://proxpanel.cc/Aidan12/Aidan1212/1044
-USA CNBC,http://proxpanel.cc/Aidan12/Aidan1212/1043
-USA CNBC World,http://proxpanel.cc/Aidan12/Aidan1212/636630#http://proxpanel.cc/Aidan12/Aidan1212/1042
-USA CNN,http://proxpanel.cc/Aidan12/Aidan1212/1041
-USA CNN INTERNATIONAL,http://proxpanel.cc/Aidan12/Aidan1212/1040
-USA C-SPAN,http://proxpanel.cc/Aidan12/Aidan1212/1061
-USA C-SPAN 2,http://proxpanel.cc/Aidan12/Aidan1212/1060
-USA C-SPAN 3,http://proxpanel.cc/Aidan12/Aidan1212/1059
-USA Fox Business,http://proxpanel.cc/Aidan12/Aidan1212/1039
-USA Fox News,http://proxpanel.cc/Aidan12/Aidan1212/1038
-USA FOX Weather,http://proxpanel.cc/Aidan12/Aidan1212/994
-USA France 24 (English),http://proxpanel.cc/Aidan12/Aidan1212/1037
-USA HLN,http://proxpanel.cc/Aidan12/Aidan1212/1036
-USA Infowars,http://proxpanel.cc/Aidan12/Aidan1212/1035
-USA Live NOW from FOX,http://proxpanel.cc/Aidan12/Aidan1212/993
-USA MSNBC,http://proxpanel.cc/Aidan12/Aidan1212/1034
-USA NBC News NOW,http://proxpanel.cc/Aidan12/Aidan1212/992
-USA NBCLX,http://proxpanel.cc/Aidan12/Aidan1212/991
-USA New England Cable News,http://proxpanel.cc/Aidan12/Aidan1212/1033
-USA News 12 Brooklyn,http://proxpanel.cc/Aidan12/Aidan1212/1032
-USA News 12 Hudson Valley,http://proxpanel.cc/Aidan12/Aidan1212/1030
-USA News 12 Long Island,http://proxpanel.cc/Aidan12/Aidan1212/1029
-USA News 12 New Jersey,http://proxpanel.cc/Aidan12/Aidan1212/1028
-USA News 12 New York,http://proxpanel.cc/Aidan12/Aidan1212/1031
-USA News 12 The Bronx,http://proxpanel.cc/Aidan12/Aidan1212/1026
-USA News 12 Westchester,http://proxpanel.cc/Aidan12/Aidan1212/1025
-USA Newsmax,http://proxpanel.cc/Aidan12/Aidan1212/1024
-USA Newsmax 2,http://proxpanel.cc/Aidan12/Aidan1212/634585
-USA NewsNation,http://proxpanel.cc/Aidan12/Aidan1212/995
-USA Newsy (Scripps News),http://proxpanel.cc/Aidan12/Aidan1212/1023
-USA One American News,http://proxpanel.cc/Aidan12/Aidan1212/1022
-USA Revry News,http://proxpanel.cc/Aidan12/Aidan1212/637148
-USA RT America,http://proxpanel.cc/Aidan12/Aidan1212/1021
-USA Salem News Channel,http://proxpanel.cc/Aidan12/Aidan1212/637146
-USA Scripps News,http://proxpanel.cc/Aidan12/Aidan1212/636600
-USA Spectrum Bay News 9,http://proxpanel.cc/Aidan12/Aidan1212/1018
-USA Spectrum News 1 Albany NY,http://proxpanel.cc/Aidan12/Aidan1212/1014
-USA Spectrum News 1 Austin TX,http://proxpanel.cc/Aidan12/Aidan1212/1007
-USA SPECTRUM NEWS 1 CAROLINAS COASTAL,http://proxpanel.cc/Aidan12/Aidan1212/634241
-USA SPECTRUM NEWS 1 CAROLINAS GREENSBORO,http://proxpanel.cc/Aidan12/Aidan1212/634239
-USA SPECTRUM NEWS 1 CAROLINAS MOUNTAIN,http://proxpanel.cc/Aidan12/Aidan1212/634240
-USA SPECTRUM NEWS 1 CAROLINAS RALEIGH,http://proxpanel.cc/Aidan12/Aidan1212/634242
-USA Spectrum News 1 Charlotte NC,http://proxpanel.cc/Aidan12/Aidan1212/1013
-USA Spectrum News 1 CINCINNATI,http://proxpanel.cc/Aidan12/Aidan1212/1009
-USA SPECTRUM NEWS 1 CLEVELAND AKRON,http://proxpanel.cc/Aidan12/Aidan1212/634234
-USA SPECTRUM NEWS 1 COLUMBUS,http://proxpanel.cc/Aidan12/Aidan1212/634233
-USA Spectrum News 1 Dallas,http://proxpanel.cc/Aidan12/Aidan1212/1012
-USA SPECTRUM NEWS 1 DAYTON,http://proxpanel.cc/Aidan12/Aidan1212/634232
-USA SPECTRUM NEWS 1 EL PASO TEXAS,http://proxpanel.cc/Aidan12/Aidan1212/634230
-USA SPECTRUM News 1 GREEN BAY APPLETON,http://proxpanel.cc/Aidan12/Aidan1212/634229
-USA SPECTRUM NEWS 1 KENTUCKY,http://proxpanel.cc/Aidan12/Aidan1212/1015
-USA Spectrum News 1 KENTUCKY EVANSVILLE,http://proxpanel.cc/Aidan12/Aidan1212/634248
-USA SPECTRUM NEWS 1 KENTUCKY LEXINGTON,http://proxpanel.cc/Aidan12/Aidan1212/634247
-USA Spectrum News 1 Kentucky Louisville,http://proxpanel.cc/Aidan12/Aidan1212/634246
-USA Spectrum News 1 MA Pittsfield,http://proxpanel.cc/Aidan12/Aidan1212/634245
-USA Spectrum News 1 MA SpringField,http://proxpanel.cc/Aidan12/Aidan1212/634244
-USA Spectrum News 1 MA Worcester,http://proxpanel.cc/Aidan12/Aidan1212/634243
-USA SPECTRUM NEWS 1 MADISON,http://proxpanel.cc/Aidan12/Aidan1212/634228
-USA SPECTRUM NEWS 1 MILWAUKEE,http://proxpanel.cc/Aidan12/Aidan1212/634227
-USA Spectrum News 1 San Antonio,http://proxpanel.cc/Aidan12/Aidan1212/1005
-USA Spectrum News 13 Central,http://proxpanel.cc/Aidan12/Aidan1212/632318
-USA Spectrum News 13 Central FL,http://proxpanel.cc/Aidan12/Aidan1212/1008
-USA Spectrum News Albany,http://proxpanel.cc/Aidan12/Aidan1212/634225
-USA Spectrum News Buffalo HD,http://proxpanel.cc/Aidan12/Aidan1212/306308
-USA SPECTRUM NEWS CENTRAL NY,http://proxpanel.cc/Aidan12/Aidan1212/634237
-USA SPECTRUM NEWS HUDSON VALLEY,http://proxpanel.cc/Aidan12/Aidan1212/634236
-USA Spectrum News MO St Louis,http://proxpanel.cc/Aidan12/Aidan1212/634226
-USA Spectrum News NEW YORK ROCHESTER,http://proxpanel.cc/Aidan12/Aidan1212/634235
-USA SPECTRUM NEWS NY1,http://proxpanel.cc/Aidan12/Aidan1212/634238#http://proxpanel.cc/Aidan12/Aidan1212/1006
-USA Spectrum News South Carolina,http://proxpanel.cc/Aidan12/Aidan1212/999
-USA Spectrum News1 Toledo Lima,http://proxpanel.cc/Aidan12/Aidan1212/634231
-USA Spectrum Noticias NY1,http://proxpanel.cc/Aidan12/Aidan1212/632317
-USA Spectrum OC16,http://proxpanel.cc/Aidan12/Aidan1212/634250
-USA Spectrum Sports Encore,http://proxpanel.cc/Aidan12/Aidan1212/634249
-USA The Grio,http://proxpanel.cc/Aidan12/Aidan1212/1063
-USA The Weather Channel,http://proxpanel.cc/Aidan12/Aidan1212/369
-USA TVG Network,http://proxpanel.cc/Aidan12/Aidan1212/836
-USA TVG 2 Network,http://proxpanel.cc/Aidan12/Aidan1212/835
-USA TYT Network,http://proxpanel.cc/Aidan12/Aidan1212/990
-USA Weather Nation,http://proxpanel.cc/Aidan12/Aidan1212/1020
-USA Yahoo Finance,http://proxpanel.cc/Aidan12/Aidan1212/636592
+primex USA NEWS,#genre#
+US | ABC News Live HD,https://primexclusive.day:443/1444576/5450985/25938
+US | Al Jazeera News,https://primexclusive.day:443/1444576/5450985/238139
+US | BBC World News,https://primexclusive.day:443/1444576/5450985/16090
+US | Black News Channel,https://primexclusive.day:443/1444576/5450985/253857
+US | BlazeTV,https://primexclusive.day:443/1444576/5450985/233442
+US | Bloomberg TV,https://primexclusive.day:443/1444576/5450985/1064
+US | C-Span,https://primexclusive.day:443/1444576/5450985/24761
+US | C-Span 2,https://primexclusive.day:443/1444576/5450985/25944
+US | C-Span 3,https://primexclusive.day:443/1444576/5450985/25945
+US | CBS News,https://primexclusive.day:443/1444576/5450985/26096
+US | CGTN,https://primexclusive.day:443/1444576/5450985/427577
+US | Cheddar News,https://primexclusive.day:443/1444576/5450985/254226
+US | CNBC News,https://primexclusive.day:443/1444576/5450985/946
+US | CNN,https://primexclusive.day:443/1444576/5450985/21014
+US | CNN International,https://primexclusive.day:443/1444576/5450985/266707
+US | EURONEWS,https://primexclusive.day:443/1444576/5450985/427573
+US | Fox Business Network,https://primexclusive.day:443/1444576/5450985/25952
+US | Fox News Channel,https://primexclusive.day:443/1444576/5450985/407469
+US | Fox News Live Now,https://primexclusive.day:443/1444576/5450985/257413
+US | France 24 English,https://primexclusive.day:443/1444576/5450985/427574
+US | i24 News,https://primexclusive.day:443/1444576/5450985/238138
+US | Infowars TV (Alex Jones),https://primexclusive.day:443/1444576/5450985/238164
+US | KRON 4 San Francisco,https://primexclusive.day:443/1444576/5450985/238745
+US | MS NOW,https://primexclusive.day:443/1444576/5450985/16185
+US | MyTV9 Hartford New Haven,https://primexclusive.day:443/1444576/5450985/27593
+US | News 9 CA San Diego - KUSI,https://primexclusive.day:443/1444576/5450985/237661
+US | Newsmax,https://primexclusive.day:443/1444576/5450985/24394
+US | Newsmax 2,https://primexclusive.day:443/1444576/5450985/394518
+US | NewsNation,https://primexclusive.day:443/1444576/5450985/233745
+US | One American News Network,https://primexclusive.day:443/1444576/5450985/24395
+US | PHL17 Philadelphia - WPHL,https://primexclusive.day:443/1444576/5450985/250029
+US | Scripps News,https://primexclusive.day:443/1444576/5450985/266705
+US | SPECTRUM NEWS - (NEW YORK) ROCHESTER,https://primexclusive.day:443/1444576/5450985/266691
+US | SPECTRUM NEWS 1 (CAROLINAS) - COASTAL,https://primexclusive.day:443/1444576/5450985/266685
+US | SPECTRUM NEWS 1 (CAROLINAS) - MOUNTAIN,https://primexclusive.day:443/1444576/5450985/266686
+US | SPECTRUM NEWS 1 (CAROLINAS) - RALEIGH,https://primexclusive.day:443/1444576/5450985/446550
+US | SPECTRUM NEWS 1 - (KENTUCKY) - EVANSVILLE,https://primexclusive.day:443/1444576/5450985/266678
+US | SPECTRUM NEWS 1 - (KENTUCKY) LOUISVILLE,https://primexclusive.day:443/1444576/5450985/266680
+US | SPECTRUM NEWS 1 - COLUMBUS,https://primexclusive.day:443/1444576/5450985/266694
+US | SPECTRUM NEWS 1 - DAYTON,https://primexclusive.day:443/1444576/5450985/266695
+US | Spectrum News 1 - SO CAL,https://primexclusive.day:443/1444576/5450985/266285
+US | SPECTRUM NEWS 1 - TOLEDO/LIMA,https://primexclusive.day:443/1444576/5450985/266696
+US | SPECTRUM NEWS 1 - WISCONSIN,https://primexclusive.day:443/1444576/5450985/427572
+US | SPECTRUM NEWS 1 CHARLOTTE,https://primexclusive.day:443/1444576/5450985/590795
+US | SPECTRUM NEWS 9 - TAMPA BAY,https://primexclusive.day:443/1444576/5450985/431258
+US | Spectrum | Albany Capital Region,https://primexclusive.day:443/1444576/5450985/266689
+US | Spectrum | Bay News 9,https://primexclusive.day:443/1444576/5450985/266701
+US | Spectrum | Bay News 9 Tampa,https://primexclusive.day:443/1444576/5450985/19201
+US | Spectrum | Buffalo,https://primexclusive.day:443/1444576/5450985/266688
+US | Spectrum | NY1,https://primexclusive.day:443/1444576/5450985/257177
+US | The Weather Channel,https://primexclusive.day:443/1444576/5450985/965
+US | TYT Network,https://primexclusive.day:443/1444576/5450985/111666
+US | USA New England Cable News - NECN,https://primexclusive.day:443/1444576/5450985/25943
+US | Vice News,https://primexclusive.day:443/1444576/5450985/369021
+US | WGN America,https://primexclusive.day:443/1444576/5450985/25956
+US | Yahoo Finance,https://primexclusive.day:443/1444576/5450985/266764
 
 News jmp2,#genre#
 ABC 20/20,https://jmp2.uk/stvp-US4800001W5
